@@ -1,4 +1,35 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |aa
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |1967
+|📖 Título  |Almeida Revisada Imprensa Bíblica
+|===
+
+A *Almeida Revisada Imprensa Bíblica* (sigla adotada informalmente: **AA**) é uma tradução da Bíblia para o português publicada originalmente em *1967* pela *Imprensa Bíblica Brasileira*, braço editorial da JUERP (Junta de Educação Religiosa e Publicações). Essa versão é também conhecida como *Versão Revisada Segundo os Melhores Textos*.
+
+Seu texto é baseado na tradicional tradução de *João Ferreira de Almeida*, com atualizações moderadas na linguagem, respeitando a estrutura e estilo originais. A revisão foi realizada com base em manuscritos hebraicos e gregos mais recentes disponíveis à época, adotando no Novo Testamento o texto crítico Nestlé-Aland (25.ª edição), ao invés do Textus Receptus usado na *Revista e Corrigida* (ARC).
+
+Essa edição busca oferecer ao leitor uma linguagem mais compreensível, mas sem abrir mão da solenidade e reverência típicas da linha Almeida. Foi amplamente usada em círculos protestantes e ainda é valorizada por leitores que preferem um texto equilibrado entre fidelidade histórica e clareza moderna.
+
+== Fontes
+
+- 📖 Bíblia Online (versão AA): https://www.bibliaonline.com.br/aa
+- 📘 Wikipédia – Versão Revisada Segundo os Melhores Textos: https://pt.wikipedia.org/wiki/Vers%C3%A3o_revisada_segundo_os_melhores_textos
+- 🏛 Igreja Batista de Corrêas – Histórico da versão: https://www.igrejabatistadecorreas.com.br/2018/palavra-pastoral/a-origem-da-versao-revisada
+- 📄 PDF da Bíblia AA: https://bibliamundi.com/wp-content/uploads/2023/09/Portugues-All-Bible-Almeida-Revisada-Imprensa-Biblica.pdf
+
+== Observações adicionais
+
+* A sigla "AA" não é oficial da editora original, mas se tornou padrão em plataformas digitais como forma de abreviar "Almeida Atualizada" ou "Almeida Avançada", apesar de representar a *Almeida Revisada Imprensa Bíblica*.
+* A data de 1959, frequentemente confundida com esta versão, refere-se à *Almeida Revista e Atualizada* (ARA), publicada pela Sociedade Bíblica do Brasil.
+* A versão AA foi reimpressa em 1974 sem alterações de texto.
+
+O texto aqui apresentado foi obtido a partir da plataforma https://www.bibliaonline.com.br/aa, mas também pode ser encontrado em https://bibliaestudos.com/aa/.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc
