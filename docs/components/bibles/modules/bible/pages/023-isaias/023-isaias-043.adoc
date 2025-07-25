@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v23-43-0]]
+=== Isaías, 43
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v23-43-1]]
+
+^<<v23-43-1,1>>^ Mas agora, assim diz o Senhor que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu.
+
+[[v23-43-2]]
+
+^<<v23-43-2,2>>^ Quando passares pelas águas, eu serei contigo; quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti.
+
+[[v23-43-3]]
+
+^<<v23-43-3,3>>^ Porque eu sou o Senhor teu Deus, o Santo de Israel, o teu Salvador; por teu resgate dei o Egito, e em teu lugar a Etiópia e Seba.
+
+[[v23-43-4]]
+
+^<<v23-43-4,4>>^ Visto que foste precioso aos meus olhos, e és digno de honra e eu te amo, portanto darei homens por ti, e es povos pela tua vida.
+
+[[v23-43-5]]
+
+^<<v23-43-5,5>>^ Não temas, pois, porque eu sou contigo; trarei a tua descendência desde o Oriente, e te ajuntarei desde o Ocidente.
+
+[[v23-43-6]]
+
+^<<v23-43-6,6>>^ Direi ao Norte: Dá; e ao Sul: Não retenhas; trazei meus filhos de longe, e minhas filhas das extremidades da terra;
+
+[[v23-43-7]]
+
+^<<v23-43-7,7>>^ a todo aquele que é chamado pelo meu nome, e que criei para minha glória, e que formei e fiz.
+
+[[v23-43-8]]
+
+^<<v23-43-8,8>>^ Fazei sair o povo que é cego e tem olhos; e os surdos que têm ouvidos.
+
+[[v23-43-9]]
+
+^<<v23-43-9,9>>^ Todas as nações se congreguem, e os povos se reunam; quem dentre eles pode anunciar isso, e mostrar-nos coisas já passadas? apresentem as suas testemunhas, para que se justifiquem; e para que se ouça, e se diga: Verdade é.
+
+[[v23-43-10]]
+
+^<<v23-43-10,10>>^ Vós sois as minhas testemunhas, do Senhor, e o meu servo, a quem escolhi; para que o saibais, e me creiais e entendais que eu sou o mesmo; antes de mim Deus nenhum se formou, e depois de mim nenhum haverá.
+
+[[v23-43-11]]
+
+^<<v23-43-11,11>>^ Eu, eu sou o Senhor, e fora de mim não há salvador.
+
+[[v23-43-12]]
+
+^<<v23-43-12,12>>^ Eu anunciei, e eu salvei, e eu o mostrei; e deus estranho não houve entre vós; portanto vós sois as minhas testemunhas, diz o Senhor.
+
+[[v23-43-13]]
+
+^<<v23-43-13,13>>^ Eu sou Deus; também de hoje em diante, eu o sou; e ninguém há que possa fazer escapar das minhas mãos; operando eu, quem impedirá?
+
+[[v23-43-14]]
+
+^<<v23-43-14,14>>^ Assim diz o Senhor, vosso Redentor, o Santo de Israel: Por amor de vós enviarei a Babilônia, e a todos os fugitivos farei embarcar até os caldeus, nos navios com que se vangloriavam.
+
+[[v23-43-15]]
+
+^<<v23-43-15,15>>^ Eu sou o Senhor, vosso Santo, o Criador de Israel, vosso Rei.
+
+[[v23-43-16]]
+
+^<<v23-43-16,16>>^ Assim diz o Senhor, o que preparou no mar um caminho, e nas águas impetuosas uma vereda;
+
+[[v23-43-17]]
+
+^<<v23-43-17,17>>^ o que faz sair o carro e o cavalo, o exército e a força; eles juntamente se deitam, e jamais se levantarão; estão extintos, apagados como uma torcida.
+
+[[v23-43-18]]
+
+^<<v23-43-18,18>>^ Não vos lembreis das coisas passadas, nem considereis as antigas.
+
+[[v23-43-19]]
+
+^<<v23-43-19,19>>^ Eis que faço uma coisa nova; agora está saindo à luz; porventura não a percebeis? eis que porei um caminho no deserto, e rios no ermo.
+
+[[v23-43-20]]
+
+^<<v23-43-20,20>>^ Os animais do campo me honrarão, os chacais e os avestruzes; porque porei águas no deserto, e rios no ermo, para dar de beber ao meu povo, ao meu escolhido,
+
+[[v23-43-21]]
+
+^<<v23-43-21,21>>^ esse povo que formei para mim, para que publicasse o meu louvor.
+
+[[v23-43-22]]
+
+^<<v23-43-22,22>>^ Contudo tu não me invocaste a mim, ó Jacó; mas te cansaste de mim, ó Israel.
+
+[[v23-43-23]]
+
+^<<v23-43-23,23>>^ Não me trouxeste o gado miúdo dos teus holocaustos, nem me honraste com os teus sacrifícios; não te fiz servir com ofertas, nem te fatiguei com incenso.
+
+[[v23-43-24]]
+
+^<<v23-43-24,24>>^ Não me compraste por dinheiro cana aromática, nem com a gordura dos teus sacrifícios me satisfizeste; mas me deste trabalho com os teus pecados, e me cansaste com as tuas iniqüidades.
+
+[[v23-43-25]]
+
+^<<v23-43-25,25>>^ Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro.
+
+[[v23-43-26]]
+
+^<<v23-43-26,26>>^ Procura lembrar-me; entremos juntos em juizo; apresenta as tuas razões, para que te possas justificar!
+
+[[v23-43-27]]
+
+^<<v23-43-27,27>>^ Teu primeiro pai pecou, e os teus intérpretes prevaricaram contra mim.
+
+[[v23-43-28]]
+
+^<<v23-43-28,28>>^ Pelo que profanei os príncipes do santuário; e entreguei Jacó ao anátema, e Israel ao opróbrio.
+
+'''
+
+xref:023-isaias/023-isaias-042.adoc#v23-42-0[&#60; Capítulo Anterior] | <<v23-43-0,Topo>> | xref:023-isaias/023-isaias-044.adoc#v23-44-0[Próximo Capítulo &#62;]

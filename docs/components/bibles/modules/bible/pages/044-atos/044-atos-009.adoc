@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v44-9-0]]
+=== Atos, 9
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v44-9-1]]
+
+^<<v44-9-1,1>>^ Saulo, porém, respirando ainda ameaças e mortes contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote,
+
+[[v44-9-2]]
+
+^<<v44-9-2,2>>^ e pediu-lhe cartas para Damasco, para as sinagogas, a fim de que, caso encontrasse alguns do Caminho, quer homens quer mulheres, os conduzisse presos a Jerusalém.
+
+[[v44-9-3]]
+
+^<<v44-9-3,3>>^ Mas, seguindo ele viagem e aproximando-se de Damasco, subitamente o cercou um resplendor de luz do céu;
+
+[[v44-9-4]]
+
+^<<v44-9-4,4>>^ e, caindo por terra, ouviu uma voz que lhe dizia: Saulo, Saulo, por que me persegues?
+
+[[v44-9-5]]
+
+^<<v44-9-5,5>>^ Ele perguntou: Quem és tu, Senhor? Respondeu o Senhor: Eu sou Jesus, a quem tu persegues;
+
+[[v44-9-6]]
+
+^<<v44-9-6,6>>^ mas levanta-te e entra na cidade, e lá te será dito o que te cumpre fazer.
+
+[[v44-9-7]]
+
+^<<v44-9-7,7>>^ Os homens que viajavam com ele quedaram-se emudecidos, ouvindo, na verdade, a voz, mas não vendo ninguém.
+
+[[v44-9-8]]
+
+^<<v44-9-8,8>>^ Saulo levantou-se da terra e, abrindo os olhos, não via coisa alguma; e, guiando-o pela mão, conduziram-no a Damasco.
+
+[[v44-9-9]]
+
+^<<v44-9-9,9>>^ E esteve três dias sem ver, e não comeu nem bebeu.
+
+[[v44-9-10]]
+
+^<<v44-9-10,10>>^ Ora, havia em Damasco certo discípulo chamado Ananias; e disse-lhe o Senhor em visão: Ananias! Respondeu ele: Eis-me aqui, Senhor.
+
+[[v44-9-11]]
+
+^<<v44-9-11,11>>^ Ordenou-lhe o Senhor: Levanta-te, vai à rua chamada Direita e procura em casa de Judas um homem de Tarso chamado Saulo; pois eis que ele está orando;
+
+[[v44-9-12]]
+
+^<<v44-9-12,12>>^ e viu um homem chamado Ananias entrar e impor-lhe as mãos, para que recuperasse a vista.
+
+[[v44-9-13]]
+
+^<<v44-9-13,13>>^ Respondeu Ananias: Senhor, a muitos ouvi acerca desse homem, quantos males tem feito aos teus santos em Jerusalém;
+
+[[v44-9-14]]
+
+^<<v44-9-14,14>>^ e aqui tem poder dos principais sacerdotes para prender a todos os que invocam o teu nome.
+
+[[v44-9-15]]
+
+^<<v44-9-15,15>>^ Disse-lhe, porém, o Senhor: Vai, porque este é para mim um vaso escolhido, para levar o meu nome perante os gentios, e os reis, e os filhos de Israel;
+
+[[v44-9-16]]
+
+^<<v44-9-16,16>>^ pois eu lhe mostrarei quanto lhe cumpre padecer pelo meu nome.
+
+[[v44-9-17]]
+
+^<<v44-9-17,17>>^ Partiu Ananias e entrou na casa e, impondo-lhe as mãos, disse: Irmão Saulo, o Senhor Jesus, que te apareceu no caminho por onde vinhas, enviou-me para que tornes a ver e sejas cheio do Espírito Santo.
+
+[[v44-9-18]]
+
+^<<v44-9-18,18>>^ Logo lhe caíram dos olhos como que umas escamas, e recuperou a vista: então, levantando-se, foi batizado.
+
+[[v44-9-19]]
+
+^<<v44-9-19,19>>^ E, tendo tomado alimento, ficou fortalecido. Depois demorou-se alguns dias com os discípulos que estavam em Damasco;
+
+[[v44-9-20]]
+
+^<<v44-9-20,20>>^ e logo nas sinagogas pregava a Jesus, que este era o filho de Deus.
+
+[[v44-9-21]]
+
+^<<v44-9-21,21>>^ Todos os seus ouvintes pasmavam e diziam: Não é este o que em Jerusalém perseguia os que invocavam esse nome, e para isso veio aqui, para os levar presos aos principais sacerdotes?
+
+[[v44-9-22]]
+
+^<<v44-9-22,22>>^ Saulo, porém, se fortalecia cada vez mais e confundia os judeus que habitavam em Damasco, provando que Jesus era o Cristo.
+
+[[v44-9-23]]
+
+^<<v44-9-23,23>>^ Decorridos muitos dias, os judeus deliberaram entre si matá-lo.
+
+[[v44-9-24]]
+
+^<<v44-9-24,24>>^ Mas as suas ciladas vieram ao conhecimento de Saulo. E como eles guardavam as portas de dia e de noite para tirar-lhe a vida,
+
+[[v44-9-25]]
+
+^<<v44-9-25,25>>^ os discípulos, tomando-o de noite, desceram-no pelo muro, dentro de um cesto.
+
+[[v44-9-26]]
+
+^<<v44-9-26,26>>^ Tendo Saulo chegado a Jerusalém, procurava juntar-se aos discípulos; mas todos o temiam, não crendo que fosse discípulo.
+
+[[v44-9-27]]
+
+^<<v44-9-27,27>>^ Então Barnabé, tomando-o consigo, o levou aos apóstolos, e lhes contou como no caminho ele vira o Senhor e que este lhe falara, e como em Damasco pregara ousadamente em nome de Jesus.
+
+[[v44-9-28]]
+
+^<<v44-9-28,28>>^ Assim andava com eles em Jerusalém, entrando e saindo,
+
+[[v44-9-29]]
+
+^<<v44-9-29,29>>^ e pregando ousadamente em nome do Senhor. Falava e disputava também com os helenistas; mas procuravam matá-lo.
+
+[[v44-9-30]]
+
+^<<v44-9-30,30>>^ Os irmãos, porém, quando o souberam, acompanharam-no até Cesaréia e o enviaram a Tarso.
+
+[[v44-9-31]]
+
+^<<v44-9-31,31>>^ Assim, pois, a igreja em toda a Judéia, Galiléia e Samária, tinha paz, sendo edificada, e andando no temor do Senhor; e, pelo auxílio do Espírito Santo, se multiplicava.
+
+[[v44-9-32]]
+
+^<<v44-9-32,32>>^ E aconteceu que, passando Pedro por toda parte, veio também aos santos que habitavam em Lida.
+
+[[v44-9-33]]
+
+^<<v44-9-33,33>>^ Achou ali certo homem, chamado Enéias, que havia oito anos jazia numa cama, porque era paralítico.
+
+[[v44-9-34]]
+
+^<<v44-9-34,34>>^ Disse-lhe Pedro: Enéias, Jesus Cristo te cura; levanta e faze a tua cama. E logo se levantou.
+
+[[v44-9-35]]
+
+^<<v44-9-35,35>>^ E viram-no todos os que habitavam em Lida e Sarona, os quais se converteram ao Senhor.
+
+[[v44-9-36]]
+
+^<<v44-9-36,36>>^ Havia em Jope uma discípula por nome Tabita, que traduzido quer dizer Dorcas, a qual estava cheia de boas obras e esmolas que fazia.
+
+[[v44-9-37]]
+
+^<<v44-9-37,37>>^ Ora, aconteceu naqueles dias que ela, adoecendo, morreu; e, tendo-a lavado, a colocaram no cenáculo.
+
+[[v44-9-38]]
+
+^<<v44-9-38,38>>^ Como Lida era perto de Jope, ouvindo os discípulos que Pedro estava ali, enviaram-lhe dois homens, rogando-lhe: Não te demores em vir ter conosco.
+
+[[v44-9-39]]
+
+^<<v44-9-39,39>>^ Pedro levantou-se e foi com eles; quando chegou, levaram-no ao cenáculo; e todas as viúvas o cercaram, chorando e mostrando-lhe as túnicas e vestidos que Dorcas fizera enquanto estava com elas.
+
+[[v44-9-40]]
+
+^<<v44-9-40,40>>^ Mas Pedro, tendo feito sair a todos, pôs-se de joelhos e orou; e voltando-se para o corpo, disse: Tabita, levanta-te. Ela abriu os olhos e, vendo a Pedro, sentou-se.
+
+[[v44-9-41]]
+
+^<<v44-9-41,41>>^ Ele, dando-lhe a mão, levantou-a e, chamando os santos e as viúvas, apresentou-lha viva.
+
+[[v44-9-42]]
+
+^<<v44-9-42,42>>^ Tornou-se isto notório por toda a Jope, e muitos creram no Senhor.
+
+[[v44-9-43]]
+
+^<<v44-9-43,43>>^ Pedro ficou muitos dias em Jope, em casa de um curtidor chamado Simão.
+
+'''
+
+xref:044-atos/044-atos-008.adoc#v44-8-0[&#60; Capítulo Anterior] | <<v44-9-0,Topo>> | xref:044-atos/044-atos-010.adoc#v44-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v18-26-0]]
+=== Jó, 26
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v18-26-1]]
+
+^<<v18-26-1,1>>^ Então Jó respondeu:
+
+[[v18-26-2]]
+
+^<<v18-26-2,2>>^ Como tens ajudado ao que não tem força e sustentado o braço que não tem vigor!
+
+[[v18-26-3]]
+
+^<<v18-26-3,3>>^ como tens aconselhado ao que não tem sabedoria, e plenamente tens revelado o verdadeiro conhecimento!
+
+[[v18-26-4]]
+
+^<<v18-26-4,4>>^ Para quem proferiste palavras? E de quem é o espírito que saiu de ti?
+
+[[v18-26-5]]
+
+^<<v18-26-5,5>>^ Os mortos tremem debaixo das águas, com os que ali habitam.
+
+[[v18-26-6]]
+
+^<<v18-26-6,6>>^ O Seol está nu perante Deus, e não há coberta para o Abadom.
+
+[[v18-26-7]]
+
+^<<v18-26-7,7>>^ Ele estende o norte sobre o vazio; suspende a terra sobre o nada.
+
+[[v18-26-8]]
+
+^<<v18-26-8,8>>^ Prende as águas em suas densas nuvens, e a nuvem não se rasga debaixo delas.
+
+[[v18-26-9]]
+
+^<<v18-26-9,9>>^ Encobre a face do seu trono, e sobre ele estende a sua nuvem.
+
+[[v18-26-10]]
+
+^<<v18-26-10,10>>^ Marcou um limite circular sobre a superfície das águas, onde a luz e as trevas se confinam.
+
+[[v18-26-11]]
+
+^<<v18-26-11,11>>^ As colunas do céu tremem, e se espantam da sua ameaça.
+
+[[v18-26-12]]
+
+^<<v18-26-12,12>>^ Com o seu poder fez sossegar o mar, e com o seu entendimento abateu a Raabe.
+
+[[v18-26-13]]
+
+^<<v18-26-13,13>>^ Pelo seu sopro ornou o céu; a sua mão traspassou a serpente veloz.
+
+[[v18-26-14]]
+
+^<<v18-26-14,14>>^ Eis que essas coisas são apenas as orlas dos seus caminhos; e quão pequeno é o sussurro que dele, ouvimos! Mas o trovão do seu poder, quem o poderá entender?
+
+'''
+
+xref:018-jo/018-jo-025.adoc#v18-25-0[&#60; Capítulo Anterior] | <<v18-26-0,Topo>> | xref:018-jo/018-jo-027.adoc#v18-27-0[Próximo Capítulo &#62;]

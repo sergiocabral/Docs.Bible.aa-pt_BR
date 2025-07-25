@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Jó, 38
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ Depois disso o Senhor respondeu a Jó dum redemoinho, dizendo:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ Quem é este que escurece o conselho com palavras sem conhecimento?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Agora cinge os teus lombos, como homem; porque te perguntarei, e tu me responderás.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ Onde estavas tu, quando eu lançava os fundamentos da terra? Faze-mo saber, se tens entendimento.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Quem lhe fixou as medidas, se é que o sabes? ou quem a mediu com o cordel?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ Sobre que foram firmadas as suas bases, ou quem lhe assentou a pedra de esquina,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ quando juntas cantavam as estrelas da manhã, e todos os filhos de Deus bradavam de júbilo?
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ Ou quem encerrou com portas o mar, quando este rompeu e saiu da madre;
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ quando eu lhe pus nuvens por vestidura, e escuridão por faixas,
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ e lhe tracei limites, pondo-lhe portas e ferrolhos,
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ e lhe disse: Até aqui virás, porém não mais adiante; e aqui se quebrarão as tuas ondas orgulhosas?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ Desde que começaram os teus dias, deste tu ordem à madrugada, ou mostraste à alva o seu lugar,
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ para que agarrasse nas extremidades da terra, e os ímpios fossem sacudidos dela?
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ A terra se transforma como o barro sob o selo; e todas as coisas se assinalam como as cores dum vestido.
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ E dos ímpios é retirada a sua luz, e o braço altivo se quebranta.
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ Acaso tu entraste até os mananciais do mar, ou passeaste pelos recessos do abismo?
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Ou foram-te descobertas as portas da morte, ou viste as portas da sombra da morte?
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Compreendeste a largura da terra? Faze-mo saber, se sabes tudo isso.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ Onde está o caminho para a morada da luz? E, quanto às trevas, onde está o seu lugar,
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ para que às tragas aos seus limites, e para que saibas as veredas para a sua casa?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ De certo tu o sabes, porque já então eras nascido, e porque é grande o número dos teus dias!
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ Acaso entraste nos tesouros da neve, e viste os tesouros da saraiva,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ que eu tenho reservado para o tempo da angústia, para o dia da peleja e da guerra?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ Onde está o caminho para o lugar em que se reparte a luz, e se espalha o vento oriental sobre a terra?
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Quem abriu canais para o aguaceiro, e um caminho para o relâmpago do trovão;
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ para fazer cair chuva numa terra, onde não há ninguém, e no deserto, em que não há gente;
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ para fartar a terra deserta e assolada, e para fazer crescer a tenra relva?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ A chuva porventura tem pai? Ou quem gerou as gotas do orvalho?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ Do ventre de quem saiu o gelo? E quem gerou a geada do céu?
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ Como pedra as águas se endurecem, e a superfície do abismo se congela.
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ Podes atar as cadeias das Plêiades, ou soltar os atilhos do Oriom?
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Ou fazer sair as constelações a seu tempo, e guiar a ursa com seus filhos?
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Sabes tu as ordenanças dos céus, ou podes estabelecer o seu domínio sobre a terra?
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ Ou podes levantar a tua voz até as nuvens, para que a abundância das águas te cubra?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Ou ordenarás aos raios de modo que saiam? Eles te dirão: Eis-nos aqui?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Quem pôs sabedoria nas densas nuvens, ou quem deu entendimento ao meteoro?
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Quem numerará as nuvens pela sabedoria? Ou os odres do céu, quem os esvaziará,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ quando se funde o pó em massa, e se pegam os torrões uns aos outros?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ Podes caçar presa para a leoa, ou satisfazer a fome dos filhos dos leões,
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ quando se agacham nos covis, e estão à espreita nas covas?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Quem prepara ao corvo o seu alimento, quando os seus pintainhos clamam a Deus e andam vagueando, por não terem o que comer?
+
+'''
+
+xref:018-jo/018-jo-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-jo/018-jo-039.adoc#v18-39-0[Próximo Capítulo &#62;]

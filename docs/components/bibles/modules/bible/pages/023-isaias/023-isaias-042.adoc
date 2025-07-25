@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v23-42-0]]
+=== Isaías, 42
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v23-42-1]]
+
+^<<v23-42-1,1>>^ Eis aqui o meu servo, a quem sustenho; o meu escolhido, em quem se compraz a minha alma; pus o meu espírito sobre ele. ele trará justiça às nações.
+
+[[v23-42-2]]
+
+^<<v23-42-2,2>>^ Não clamará, não se exaltará, nem fará ouvir a sua voz na rua.
+
+[[v23-42-3]]
+
+^<<v23-42-3,3>>^ A cana trilhada, não a quebrará, nem apagará o pavio que fumega; em verdade trará a justiça;
+
+[[v23-42-4]]
+
+^<<v23-42-4,4>>^ não faltará nem será quebrantado, até que ponha na terra a justiça; e as ilhas aguardarão a sua lei.
+
+[[v23-42-5]]
+
+^<<v23-42-5,5>>^ Assim diz Deus, o Senhor, que criou os céus e os desenrolou, e estendeu a terra e o que dela procede; que dá a respiração ao povo que nela está, e o espírito aos que andam nela.
+
+[[v23-42-6]]
+
+^<<v23-42-6,6>>^ Eu o Senhor te chamei em justiça; tomei-te pela mão, e te guardei; e te dei por pacto ao povo, e para luz das nações;
+
+[[v23-42-7]]
+
+^<<v23-42-7,7>>^ para abrir os olhos dos cegos, para tirar da prisão os presos, e do cárcere os que jazem em trevas.
+
+[[v23-42-8]]
+
+^<<v23-42-8,8>>^ Eu sou o Senhor; este é o meu nome; a minha glória, pois, a outrem não a darei, nem o meu louvor às imagens esculpidas.
+
+[[v23-42-9]]
+
+^<<v23-42-9,9>>^ Eis que as primeiras coisas já se realizaram, e novas coisas eu vos anuncio; antes que venham à luz, vo-las faço ouvir.
+
+[[v23-42-10]]
+
+^<<v23-42-10,10>>^ Cantai ao Senhor um cântico novo, e o seu louvor desde a extremidade da terra, vós, os que navegais pelo mar, e tudo quanto há nele, vós ilhas, e os vossos habitantes.
+
+[[v23-42-11]]
+
+^<<v23-42-11,11>>^ Alcem a voz o deserto e as suas cidades, com as aldeias que Quedar habita; exultem os que habitam nos penhascos, e clamem do cume dos montes.
+
+[[v23-42-12]]
+
+^<<v23-42-12,12>>^ Dêem glória ao Senhor, e anunciem nas ilhas o seu louvor.
+
+[[v23-42-13]]
+
+^<<v23-42-13,13>>^ O Senhor sai como um valente, como homem de guerra desperta o zelo; clamará, e fará grande ruído, e mostrar-se-á valente contra os seus inimigos.
+
+[[v23-42-14]]
+
+^<<v23-42-14,14>>^ Por muito tempo me calei; estive em silêncio, e me contive; mas agora darei gritos como a que está de parto, arfando e arquejando.
+
+[[v23-42-15]]
+
+^<<v23-42-15,15>>^ Os montes e outeiros tornarei em deserto, e toda a sua erva farei secar; e tornarei os rios em ilhas, e secarei as lagoas.
+
+[[v23-42-16]]
+
+^<<v23-42-16,16>>^ E guiarei os cegos por um caminho que não conhecem; fá-los-ei caminhar por veredas que não têm conhecido; tornarei as trevas em luz perante eles, e aplanados os caminhos escabrosos. Estas coisas lhes farei; e não os desampararei.
+
+[[v23-42-17]]
+
+^<<v23-42-17,17>>^ Tornados para trás e cobertos de vergonha serão os que confiam em imagens esculpidas, que dizem às imagens de fundição: Vós sois nossos deuses.
+
+[[v23-42-18]]
+
+^<<v23-42-18,18>>^ Surdos, ouvi; e vós, cegos, olhai, para que possais ver.
+
+[[v23-42-19]]
+
+^<<v23-42-19,19>>^ Quem é cego, senão o meu servo, ou surdo como o meu mensageiro, que envio? e quem é cego como o meu dedicado, e cego como o servo do Senhor?
+
+[[v23-42-20]]
+
+^<<v23-42-20,20>>^ Tu vês muitas coisas, mas não as guardas; ainda que ele tenha os ouvidos abertos, nada ouve.
+
+[[v23-42-21]]
+
+^<<v23-42-21,21>>^ Foi do agrado do Senhor, por amor da sua justiça, engrandecer a lei e torná-la gloriosa.
+
+[[v23-42-22]]
+
+^<<v23-42-22,22>>^ Mas este é um povo roubado e saqueado; todos estão enlaçados em cavernas, e escondidos nas casas dos cárceres; são postos por presa, e ninguém há que os livre; por despojo, e ninguém diz: Restitui.
+
+[[v23-42-23]]
+
+^<<v23-42-23,23>>^ Quem há entre vós que a isso dará ouvidos? que atenderá e ouvirá doravante?
+
+[[v23-42-24]]
+
+^<<v23-42-24,24>>^ Quem entregou Jacó por despojo, e Israel aos roubadores? porventura não foi o Senhor, aquele contra quem pecamos, e em cujos caminhos eles não queriam andar, e cuja lei não queriam observar?
+
+[[v23-42-25]]
+
+^<<v23-42-25,25>>^ Pelo que o Senhor derramou sobre Israel a indignação da sua ira, e a violência da guerra; isso lhe ateou fogo ao redor; contudo ele não o percebeu; e o queimou; contudo ele não se compenetrou disso.
+
+'''
+
+xref:023-isaias/023-isaias-041.adoc#v23-41-0[&#60; Capítulo Anterior] | <<v23-42-0,Topo>> | xref:023-isaias/023-isaias-043.adoc#v23-43-0[Próximo Capítulo &#62;]

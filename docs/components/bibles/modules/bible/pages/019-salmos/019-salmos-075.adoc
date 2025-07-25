@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-75-0]]
+=== Salmos, 75
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-75-1]]
+
+^<<v19-75-1,1>>^ Damos-te graças, ó Deus, damos-te graças, pois o teu nome está perto; os que invocam o teu nome anunciam as tuas maravilhas.
+
+[[v19-75-2]]
+
+^<<v19-75-2,2>>^ Quando chegar o tempo determinado, julgarei retamente.
+
+[[v19-75-3]]
+
+^<<v19-75-3,3>>^ Dissolve-se a terra e todos os seus moradores, mas eu lhe fortaleci as colunas.
+
+[[v19-75-4]]
+
+^<<v19-75-4,4>>^ Digo eu aos arrogantes: Não sejais arrogantes; e aos ímpios: Não levanteis a fronte;
+
+[[v19-75-5]]
+
+^<<v19-75-5,5>>^ não levanteis ao alto a vossa fronte, nem faleis com arrogância.
+
+[[v19-75-6]]
+
+^<<v19-75-6,6>>^ Porque nem do oriente, nem do ocidente, nem do deserto vem a exaltação.
+
+[[v19-75-7]]
+
+^<<v19-75-7,7>>^ Mas Deus é o que julga; a um abate, e a outro exalta.
+
+[[v19-75-8]]
+
+^<<v19-75-8,8>>^ Porque na mão do Senhor há um cálice, cujo vinho espuma, cheio de mistura, do qual ele dá a beber; certamente todos os ímpios da terra sorverão e beberão as suas fezes.
+
+[[v19-75-9]]
+
+^<<v19-75-9,9>>^ Mas, quanto a mim, exultarei para sempre, cantarei louvores ao Deus de Jacó.
+
+[[v19-75-10]]
+
+^<<v19-75-10,10>>^ E quebrantarei todas as forças dos ímpios, mas as forças dos justos serão exaltadas.
+
+'''
+
+xref:019-salmos/019-salmos-074.adoc#v19-74-0[&#60; Capítulo Anterior] | <<v19-75-0,Topo>> | xref:019-salmos/019-salmos-076.adoc#v19-76-0[Próximo Capítulo &#62;]

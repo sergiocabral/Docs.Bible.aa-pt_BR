@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v48-2-0]]
+=== Gálatas, 2
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v48-2-1]]
+
+^<<v48-2-1,1>>^ Depois, passados catorze anos, subi outra vez a Jerusalém com Barnabé, levando também comigo a Tito.
+
+[[v48-2-2]]
+
+^<<v48-2-2,2>>^ E subi devido a uma revelação, e lhes expus o evangelho que prego entre os gentios, mas em particular aos que eram de destaque, para que de algum modo não estivesse correndo ou não tivesse corrido em vão.
+
+[[v48-2-3]]
+
+^<<v48-2-3,3>>^ Mas nem mesmo Tito, que estava comigo, embora sendo grego, foi constrangido a circuncidar-se;
+
+[[v48-2-4]]
+
+^<<v48-2-4,4>>^ e isto por causa dos falsos irmãos intrusos, os quais furtivamente entraram a espiar a nossa liberdade, que temos em Cristo Jesus, para nos escravizar;
+
+[[v48-2-5]]
+
+^<<v48-2-5,5>>^ aos quais nem ainda por uma hora cedemos em sujeição, para que a verdade do evangelho permanecesse entre vós.
+
+[[v48-2-6]]
+
+^<<v48-2-6,6>>^ Ora, daqueles que pareciam ser alguma coisa &#123;quais outrora tenham sido, nada me importa; Deus não aceita a aparência do homem&#125;, esses, digo, que pareciam ser alguma coisa, nada me acrescentaram;
+
+[[v48-2-7]]
+
+^<<v48-2-7,7>>^ antes, pelo contrário, quando viram que o evangelho da incircuncisão me fora confiado, como a Pedro o da circuncisão
+
+[[v48-2-8]]
+
+^<<v48-2-8,8>>^ &#123;porque aquele que operou a favor de Pedro para o apostolado da circuncisão, operou também a meu favor para com os gentios&#125;,
+
+[[v48-2-9]]
+
+^<<v48-2-9,9>>^ e quando conheceram a graça que me fora dada, Tiago, Cefas e João, que pareciam ser as colunas, deram a mim e a Barnabé as destras de comunhão, para que nós fôssemos aos gentios, e eles à circuncisão;
+
+[[v48-2-10]]
+
+^<<v48-2-10,10>>^ recomendando-nos somente que nos lembrássemos dos pobres; o que também procurei fazer com diligência.
+
+[[v48-2-11]]
+
+^<<v48-2-11,11>>^ Quando, porém, Cefas veio a Antioquia, resisti-lhe na cara, porque era repreensível.
+
+[[v48-2-12]]
+
+^<<v48-2-12,12>>^ Pois antes de chegarem alguns da parte de Tiago, ele comia com os gentios; mas quando eles chegaram, se foi retirando e se apartava deles, temendo os que eram da circuncisão.
+
+[[v48-2-13]]
+
+^<<v48-2-13,13>>^ E os outros judeus também dissimularam com ele, de modo que até Barnabé se deixou levar pela sua dissimulação.
+
+[[v48-2-14]]
+
+^<<v48-2-14,14>>^ Mas, quando vi que não andavam retamente conforme a verdade do evangelho, disse a Cefas perante todos: Se tu, sendo judeu, vives como os gentios, e não como os judeus, como é que obrigas os gentios a viverem como judeus?
+
+[[v48-2-15]]
+
+^<<v48-2-15,15>>^ Nós, judeus por natureza e não pecadores dentre os gentios,
+
+[[v48-2-16]]
+
+^<<v48-2-16,16>>^ sabendo, contudo, que o homem não é justificado por obras da lei, mas sim, pela fé em Cristo Jesus, temos também crido em Cristo Jesus para sermos justificados pela fé em Cristo, e não por obras da lei; pois por obras da lei nenhuma carne será justificada.
+
+[[v48-2-17]]
+
+^<<v48-2-17,17>>^ Mas se, procurando ser justificados em Cristo, fomos nós mesmos também achados pecadores, é porventura Cristo ministro do pecado? De modo nenhum.
+
+[[v48-2-18]]
+
+^<<v48-2-18,18>>^ Porque, se torno a edificar aquilo que destruí, constituo-me a mim mesmo transgressor.
+
+[[v48-2-19]]
+
+^<<v48-2-19,19>>^ Pois eu pela lei morri para a lei, a fim de viver para Deus.
+
+[[v48-2-20]]
+
+^<<v48-2-20,20>>^ Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a na fé no filho de Deus, o qual me amou, e se entregou a si mesmo por mim.
+
+[[v48-2-21]]
+
+^<<v48-2-21,21>>^ Não faço nula a graça de Deus; porque, se a justiça vem mediante a lei, logo Cristo morreu em vão.
+
+'''
+
+xref:048-galatas/048-galatas-001.adoc#v48-1-0[&#60; Capítulo Anterior] | <<v48-2-0,Topo>> | xref:048-galatas/048-galatas-003.adoc#v48-3-0[Próximo Capítulo &#62;]

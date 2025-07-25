@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Josué, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ Levantou-se, pois, Josué de madrugada e, partindo de Sitim ele e todos os filhos de Israel, vieram ao Jordão; e pousaram ali, antes de atravessá-lo.
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ E sucedeu, ao fim de três dias, que os oficiais passaram pelo meio do arraial,
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ e ordenaram ao povo, dizendo: Quando virdes a arca da pacto do Senhor vosso Deus sendo levada pelos levitas sacerdotes, partireis vós também do vosso lugar, e a seguireis
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ &#123;haja, contudo, entre vós e ela, uma distância de dois mil côvados, e não vos chegueis a ela&#125;, para que saibais o caminho pelo qual haveis de ir, porquanto por este caminho nunca dantes passastes.
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Disse Josué também ao povo: Santificai-vos, porque amanhã o Senhor fará maravilhas no meio de vós.
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ E falou Josué aos sacerdotes, dizendo: Levantai a arca do pacto, e passai adiante do povo. Levantaram, pois, a arca do pacto, e foram andando adiante do povo.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ Então disse o Senhor a Josué: Hoje começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam que, assim como fui com Moisés, serei contigo.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ Tu, pois, ordenarás aos sacerdotes que levam a arca do pacto, dizendo: Quando chegardes à beira das águas de Jordão, aí parareis.
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ Disse então Josué aos filhos de Israel: Aproximai-vos, e ouvi as palavras do Senhor vosso Deus.
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ E acrescentou: Nisto conhecereis que o Deus vivo está no meio de vós, e que certamente expulsará de diante de vós os cananeus, os heteus, os heveus, os perizeus, os girgaseus, os amorreus e os jebuseus.
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ Eis que a arca do pacto do Senhor de toda a terra passará adiante de vós para o meio do Jordão.
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ Tomai, pois, agora doze homens das tribos de Israel, de cada tribo um homem;
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ porque assim que as plantas dos pés dos sacerdotes que levam a arca do Senhor, o Senhor de toda a terra, pousarem nas águas do Jordão, estas serão cortadas, isto é, as águas que vêm de cima, e, amontoadas, pararão.
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ Quando, pois, o povo partiu das suas tendas para atravessar o Jordão, levando os sacerdotes a arca do pacto adiante do povo,
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ e quando os que levavam a arca chegaram ao Jordão, e os seus pés se mergulharam na beira das águas &#123;porque o Jordão transbordava todas as suas ribanceiras durante todos os dias da sega&#125;,
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ as águas que vinham de cima, parando, levantaram-se num montão, mui longe, à altura de Adã, cidade que está junto a Zaretã; e as que desciam ao mar da Arabá, que é o Mar Salgado, foram de todo cortadas. Então o povo passou bem em frente de Jericó.
+
+[[v6-3-17]]
+
+^<<v6-3-17,17>>^ Os sacerdotes que levavam a arca do pacto do Senhor pararam firmes em seco no meio do Jordão, e todo o Israel foi passando a pé enxuto, até que todo o povo acabou de passar o Jordão.
+
+'''
+
+xref:006-josue/006-josue-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-josue/006-josue-004.adoc#v6-4-0[Próximo Capítulo &#62;]

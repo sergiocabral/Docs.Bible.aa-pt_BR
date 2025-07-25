@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v43-5-0]]
+=== João, 5
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v43-5-1]]
+
+^<<v43-5-1,1>>^ Depois disso havia uma festa dos judeus; e Jesus subiu a Jerusalém.
+
+[[v43-5-2]]
+
+^<<v43-5-2,2>>^ Ora, em Jerusalém, próximo à porta das ovelhas, há um tanque, chamado em hebraico Betesda, o qual tem cinco alpendres.
+
+[[v43-5-3]]
+
+^<<v43-5-3,3>>^ Nestes jazia grande multidão de enfermos, cegos, mancos e ressicados &#123;esperando o movimento da água.&#125;
+
+[[v43-5-4]]
+
+^<<v43-5-4,4>>^ &#123;Porquanto um anjo descia em certo tempo ao tanque, e agitava a água; então o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse.&#125;
+
+[[v43-5-5]]
+
+^<<v43-5-5,5>>^ Achava-se ali um homem que, havia trinta e oito anos, estava enfermo.
+
+[[v43-5-6]]
+
+^<<v43-5-6,6>>^ Jesus, vendo-o deitado e sabendo que estava assim havia muito tempo, perguntou-lhe: Queres ficar são?
+
+[[v43-5-7]]
+
+^<<v43-5-7,7>>^ Respondeu-lhe o enfermo: Senhor, não tenho ninguém que, ao ser agitada a água, me ponha no tanque; assim, enquanto eu vou, desce outro antes de mim.
+
+[[v43-5-8]]
+
+^<<v43-5-8,8>>^ Disse-lhe Jesus: Levanta-te, toma o teu leito e anda.
+
+[[v43-5-9]]
+
+^<<v43-5-9,9>>^ Imediatamente o homem ficou são; e, tomando o seu leito, começou a andar. Ora, aquele dia era sábado.
+
+[[v43-5-10]]
+
+^<<v43-5-10,10>>^ Pelo que disseram os judeus ao que fora curado: Hoje é sábado, e não te é lícito carregar o leito.
+
+[[v43-5-11]]
+
+^<<v43-5-11,11>>^ Ele, porém, lhes respondeu: Aquele que me curou, esse mesmo me disse: Toma o teu leito e anda.
+
+[[v43-5-12]]
+
+^<<v43-5-12,12>>^ Perguntaram-lhe, pois: Quem é o homem que te disse: Toma o teu leito e anda?
+
+[[v43-5-13]]
+
+^<<v43-5-13,13>>^ Mas o que fora curado não sabia quem era; porque Jesus se retirara, por haver muita gente naquele lugar.
+
+[[v43-5-14]]
+
+^<<v43-5-14,14>>^ Depois Jesus o encontrou no templo, e disse-lhe: Olha, já estás curado; não peques mais, para que não te suceda coisa pior.
+
+[[v43-5-15]]
+
+^<<v43-5-15,15>>^ Retirou-se, então, o homem, e contou aos judeus que era Jesus quem o curara.
+
+[[v43-5-16]]
+
+^<<v43-5-16,16>>^ Por isso os judeus perseguiram a Jesus, porque fazia estas coisas no sábado.
+
+[[v43-5-17]]
+
+^<<v43-5-17,17>>^ Mas Jesus lhes respondeu: Meu Pai trabalha até agora, e eu trabalho também.
+
+[[v43-5-18]]
+
+^<<v43-5-18,18>>^ Por isso, pois, os judeus ainda mais procuravam matá-lo, porque não só violava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus.
+
+[[v43-5-19]]
+
+^<<v43-5-19,19>>^ Disse-lhes, pois, Jesus: Em verdade, em verdade vos digo que o Filho de si mesmo nada pode fazer, senão o que vir o Pai fazer; porque tudo quanto ele faz, o Filho o faz igualmente.
+
+[[v43-5-20]]
+
+^<<v43-5-20,20>>^ Porque o Pai ama ao Filho, e mostra-lhe tudo o que ele mesmo faz; e maiores obras do que estas lhe mostrará, para que vos maravilheis.
+
+[[v43-5-21]]
+
+^<<v43-5-21,21>>^ Pois, assim como o Pai levanta os mortos e lhes dá vida, assim também o Filho dá vida a quem ele quer.
+
+[[v43-5-22]]
+
+^<<v43-5-22,22>>^ Porque o Pai a ninguém julga, mas deu ao Filho todo o julgamento,
+
+[[v43-5-23]]
+
+^<<v43-5-23,23>>^ para que todos honrem o Filho, assim como honram o Pai. Quem não honra o Filho, não honra o Pai que o enviou.
+
+[[v43-5-24]]
+
+^<<v43-5-24,24>>^ Em verdade, em verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna e não entra em juízo, mas já passou da morte para a vida.
+
+[[v43-5-25]]
+
+^<<v43-5-25,25>>^ Em verdade, em verdade vos digo que vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão.
+
+[[v43-5-26]]
+
+^<<v43-5-26,26>>^ Pois assim como o Pai tem vida em si mesmo, assim também deu ao Filho ter vida em si mesmos;
+
+[[v43-5-27]]
+
+^<<v43-5-27,27>>^ e deu-lhe autoridade para julgar, porque é o Filho do homem.
+
+[[v43-5-28]]
+
+^<<v43-5-28,28>>^ Não vos admireis disso, porque vem a hora em que todos os que estão nos sepulcros ouvirão a sua voz e sairão:
+
+[[v43-5-29]]
+
+^<<v43-5-29,29>>^ os que tiverem feito o bem, para a ressurreição da vida, e os que tiverem praticado o mal, para a ressurreição do juízo.
+
+[[v43-5-30]]
+
+^<<v43-5-30,30>>^ Eu não posso de mim mesmo fazer coisa alguma; como ouço, assim julgo; e o meu juízo é justo, porque não procuro a minha vontade, mas a vontade daquele que me enviou.
+
+[[v43-5-31]]
+
+^<<v43-5-31,31>>^ Se eu der testemunho de mim mesmo, o meu testemunho não é verdadeiro.
+
+[[v43-5-32]]
+
+^<<v43-5-32,32>>^ Outro é quem dá testemunho de mim; e sei que o testemunho que ele dá de mim é verdadeiro.
+
+[[v43-5-33]]
+
+^<<v43-5-33,33>>^ Vós mandastes mensageiros a João, e ele deu testemunho da verdade;
+
+[[v43-5-34]]
+
+^<<v43-5-34,34>>^ eu, porém, não recebo testemunho de homem; mas digo isto para que sejais salvos.
+
+[[v43-5-35]]
+
+^<<v43-5-35,35>>^ Ele era a lâmpada que ardia e alumiava; e vós quisestes alegrar-vos por um pouco de tempo com a sua luz.
+
+[[v43-5-36]]
+
+^<<v43-5-36,36>>^ Mas o testemunho que eu tenho é maior do que o de João; porque as obras que o Pai me deu para realizar, as mesmas obras que faço dão testemunho de mim que o Pai me enviou.
+
+[[v43-5-37]]
+
+^<<v43-5-37,37>>^ E o Pai que me enviou, ele mesmo tem dado testemunho de mim. Vós nunca ouvistes a sua voz, nem vistes a sua forma;
+
+[[v43-5-38]]
+
+^<<v43-5-38,38>>^ e a sua palavra não permanece em vós; porque não credes naquele que ele enviou.
+
+[[v43-5-39]]
+
+^<<v43-5-39,39>>^ Examinais as Escrituras, porque julgais ter nelas a vida eterna; e são elas que dão testemunho de mim;
+
+[[v43-5-40]]
+
+^<<v43-5-40,40>>^ mas não quereis vir a mim para terdes vida!
+
+[[v43-5-41]]
+
+^<<v43-5-41,41>>^ Eu não recebo glória da parte dos homens;
+
+[[v43-5-42]]
+
+^<<v43-5-42,42>>^ mas bem vos conheço, que não tendes em vós o amor de Deus.
+
+[[v43-5-43]]
+
+^<<v43-5-43,43>>^ Eu vim em nome de meu Pai, e não me recebeis; se outro vier em seu próprio nome, a esse recebereis.
+
+[[v43-5-44]]
+
+^<<v43-5-44,44>>^ Como podeis crer, vós que recebeis glória uns dos outros e não buscais a glória que vem do único Deus?
+
+[[v43-5-45]]
+
+^<<v43-5-45,45>>^ Não penseis que eu vos hei de acusar perante o Pai. Há um que vos acusa, Moisés, em quem vós esperais.
+
+[[v43-5-46]]
+
+^<<v43-5-46,46>>^ Pois se crêsseis em Moisés, creríeis em mim; porque de mim ele escreveu.
+
+[[v43-5-47]]
+
+^<<v43-5-47,47>>^ Mas, se não credes nos escritos, como crereis nas minhas palavras?
+
+'''
+
+xref:043-joao/043-joao-004.adoc#v43-4-0[&#60; Capítulo Anterior] | <<v43-5-0,Topo>> | xref:043-joao/043-joao-006.adoc#v43-6-0[Próximo Capítulo &#62;]

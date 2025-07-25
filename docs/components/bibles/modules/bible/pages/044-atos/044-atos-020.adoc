@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v44-20-0]]
+=== Atos, 20
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v44-20-1]]
+
+^<<v44-20-1,1>>^ Depois que cessou o alvoroço, Paulo mandou chamar os discípulos e, tendo-os exortado, despediu-se e partiu para a Macedônia.
+
+[[v44-20-2]]
+
+^<<v44-20-2,2>>^ E, havendo andado por aquelas regiões, exortando os discípulos com muitas palavras, veio à Grécia.
+
+[[v44-20-3]]
+
+^<<v44-20-3,3>>^ Depois de passar ali três meses, visto terem os judeus armado uma cilada contra ele quando ia embarcar para a Síria, determinou voltar pela Macedônia.
+
+[[v44-20-4]]
+
+^<<v44-20-4,4>>^ Acompanhou-o Sópater de Beréia, filho de Pirro; bem como dos de Tessalônica, Aristarco e Segundo; Gaio de Derbe e Timóteo; e dos da Ásia, Tíquico e Trófimo.
+
+[[v44-20-5]]
+
+^<<v44-20-5,5>>^ Estes porém, foram adiante e nos esperavam em Trôade.
+
+[[v44-20-6]]
+
+^<<v44-20-6,6>>^ E nós, depois dos dias dos pães ázimos, navegamos de Filipos, e em cinco dias fomos ter com eles em Trôade, onde nos detivemos sete dias.
+
+[[v44-20-7]]
+
+^<<v44-20-7,7>>^ No primeiro dia da semana, tendo-nos reunido a fim de partir o pão, Paulo, que havia de sair no dia seguinte, falava com eles, e prolongou o seu discurso até a meia-noite.
+
+[[v44-20-8]]
+
+^<<v44-20-8,8>>^ Ora, havia muitas luzes no cenáculo onde estávamos reunidos.
+
+[[v44-20-9]]
+
+^<<v44-20-9,9>>^ E certo jovem, por nome Êutico, que estava sentado na janela, tomado de um sono profundo enquanto Paulo prolongava ainda mais o seu sermão, vencido pelo sono caiu do terceiro andar abaixo, e foi levantado morto.
+
+[[v44-20-10]]
+
+^<<v44-20-10,10>>^ Tendo Paulo descido, debruçou-se sobre ele e, abraçando-o, disse: Não vos perturbeis, pois a sua alma está nele.
+
+[[v44-20-11]]
+
+^<<v44-20-11,11>>^ Então subiu, e tendo partido o pão e comido, ainda lhes falou largamente até o romper do dia; e assim partiu.
+
+[[v44-20-12]]
+
+^<<v44-20-12,12>>^ E levaram vivo o jovem e ficaram muito consolados.
+
+[[v44-20-13]]
+
+^<<v44-20-13,13>>^ Nós, porém, tomando a dianteira e embarcando, navegamos para Assôs, onde devíamos receber a Paulo, porque ele, havendo de ir por terra, assim o ordenara.
+
+[[v44-20-14]]
+
+^<<v44-20-14,14>>^ E, logo que nos alcançou em Assôs, recebemo-lo a bordo e fomos a Mitilene;
+
+[[v44-20-15]]
+
+^<<v44-20-15,15>>^ e navegando dali, chegamos no dia imediato defronte de Quios, no outro aportamos a Samos e &#123;e tendo-nos demorado em Trogílio, chegamos,&#125; no dia seguinte a Mileto.
+
+[[v44-20-16]]
+
+^<<v44-20-16,16>>^ Porque Paulo havia determinado passar ao largo de Éfeso, para não se demorar na Ásia; pois se apressava para estar em Jerusalém no dia de Pentecostes, se lhe fosse possível.
+
+[[v44-20-17]]
+
+^<<v44-20-17,17>>^ De Mileto mandou a Éfeso chamar os anciãos da igreja.
+
+[[v44-20-18]]
+
+^<<v44-20-18,18>>^ E, tendo eles chegado, disse-lhes: Vós bem sabeis de que modo me tenho portado entre vós sempre, desde o primeiro dia em que entrei na Ásia,
+
+[[v44-20-19]]
+
+^<<v44-20-19,19>>^ servindo ao Senhor com toda a humildade, e com lágrimas e provações que pelas ciladas dos judeus me sobrevieram;
+
+[[v44-20-20]]
+
+^<<v44-20-20,20>>^ como não me esquivei de vos anunciar coisa alguma que útil seja, ensinando-vos publicamente e de casa em casa,
+
+[[v44-20-21]]
+
+^<<v44-20-21,21>>^ testificando, tanto a judeus como a gregos, o arrependimento para com Deus e a fé em nosso Senhor Jesus.
+
+[[v44-20-22]]
+
+^<<v44-20-22,22>>^ Agora, eis que eu, constrangido no meu espírito, vou a Jerusalém, não sabendo o que ali acontecerá,
+
+[[v44-20-23]]
+
+^<<v44-20-23,23>>^ senão o que o Espírito Santo me testifica, de cidade em cidade, dizendo que me esperam prisões e tribulações,
+
+[[v44-20-24]]
+
+^<<v44-20-24,24>>^ mas em nada tenho a minha vida como preciosa para mim, contando que complete a minha carreira e o ministério que recebi do Senhor Jesus, para dar testemunho do evangelho da graça de Deus.
+
+[[v44-20-25]]
+
+^<<v44-20-25,25>>^ E eis agora, sei que nenhum de vós, por entre os quais passei pregando o reino de Deus, jamais tornará a ver o meu rosto.
+
+[[v44-20-26]]
+
+^<<v44-20-26,26>>^ Portanto, no dia de hoje, vos protesto que estou limpo do sangue de todos.
+
+[[v44-20-27]]
+
+^<<v44-20-27,27>>^ Porque não me esquivei de vos anunciar todo o conselho de Deus.
+
+[[v44-20-28]]
+
+^<<v44-20-28,28>>^ Cuidai pois de vós mesmos e de todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos, para apascentardes a igreja de Deus, que ele adquiriu com seu próprio sangue.
+
+[[v44-20-29]]
+
+^<<v44-20-29,29>>^ Eu sei que depois da minha partida entrarão no meio de vós lobos cruéis que não pouparão rebanho,
+
+[[v44-20-30]]
+
+^<<v44-20-30,30>>^ e que dentre vós mesmos se levantarão homens, falando coisas perversas para atrair os discípulos após si.
+
+[[v44-20-31]]
+
+^<<v44-20-31,31>>^ Portanto vigiai, lembrando-vos de que por três anos não cessei noite e dia de admoestar com lágrimas a cada um de vós.
+
+[[v44-20-32]]
+
+^<<v44-20-32,32>>^ Agora pois, vos encomendo a Deus e à palavra da sua graça, àquele que é poderoso para vos edificar e dar herança entre todos os que são santificados.
+
+[[v44-20-33]]
+
+^<<v44-20-33,33>>^ De ninguém cobicei prata, nem ouro, nem vestes.
+
+[[v44-20-34]]
+
+^<<v44-20-34,34>>^ Vós mesmos sabeis que estas mãos proveram as minhas necessidades e as dos que estavam comigo.
+
+[[v44-20-35]]
+
+^<<v44-20-35,35>>^ Em tudo vos dei o exemplo de que assim trabalhando, é necessário socorrer os enfermos, recordando as palavras do Senhor Jesus, porquanto ele mesmo disse: Coisa mais bem-aventurada é dar do que receber.
+
+[[v44-20-36]]
+
+^<<v44-20-36,36>>^ Havendo dito isto, pôs-se de joelhos, e orou com todos eles.
+
+[[v44-20-37]]
+
+^<<v44-20-37,37>>^ E levantou-se um grande pranto entre todos, e lançando-se ao pescoço de Paulo, beijavam-no.
+
+[[v44-20-38]]
+
+^<<v44-20-38,38>>^ Entristecendo-se principalmente pela palavra que dissera, que não veriam mais o seu rosto. E eles o acompanharam até o navio.
+
+'''
+
+xref:044-atos/044-atos-019.adoc#v44-19-0[&#60; Capítulo Anterior] | <<v44-20-0,Topo>> | xref:044-atos/044-atos-021.adoc#v44-21-0[Próximo Capítulo &#62;]

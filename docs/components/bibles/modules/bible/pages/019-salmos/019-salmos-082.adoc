@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-82-0]]
+=== Salmos, 82
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-82-1]]
+
+^<<v19-82-1,1>>^ Deus está na assembléia divina; julga no meio dos deuses:
+
+[[v19-82-2]]
+
+^<<v19-82-2,2>>^ Até quando julgareis injustamente, e tereis respeito às pessoas dos ímpios?
+
+[[v19-82-3]]
+
+^<<v19-82-3,3>>^ Fazei justiça ao pobre e ao órfão; procedei retamente com o aflito e o desamparado.
+
+[[v19-82-4]]
+
+^<<v19-82-4,4>>^ Livrai o pobre e o necessitado, livrai-os das mãos dos ímpios.
+
+[[v19-82-5]]
+
+^<<v19-82-5,5>>^ Eles nada sabem, nem entendem; andam vagueando às escuras; abalam-se todos os fundamentos da terra.
+
+[[v19-82-6]]
+
+^<<v19-82-6,6>>^ Eu disse: Vós sois deuses, e filhos do Altíssimo, todos vós.
+
+[[v19-82-7]]
+
+^<<v19-82-7,7>>^ Todavia, como homens, haveis de morrer e, como qualquer dos príncipes, haveis de cair.
+
+[[v19-82-8]]
+
+^<<v19-82-8,8>>^ Levanta-te, ó Deus, julga a terra; pois a ti pertencem todas as nações.
+
+'''
+
+xref:019-salmos/019-salmos-081.adoc#v19-81-0[&#60; Capítulo Anterior] | <<v19-82-0,Topo>> | xref:019-salmos/019-salmos-083.adoc#v19-83-0[Próximo Capítulo &#62;]

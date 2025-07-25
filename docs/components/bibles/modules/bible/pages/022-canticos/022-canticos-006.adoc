@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v22-6-0]]
+=== Cânticos, 6
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v22-6-1]]
+
+^<<v22-6-1,1>>^ Para onde foi o teu amado, ó tu, a mais formosa entre as mulheres? para onde se retirou o teu amado, a fim de que o busquemos juntamente contigo?
+
+[[v22-6-2]]
+
+^<<v22-6-2,2>>^ O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para apascentar o rebanho nos jardins e para colher os lírios.
+
+[[v22-6-3]]
+
+^<<v22-6-3,3>>^ Eu sou do meu amado, e o meu amado é meu; ele apascenta o rebanho entre os lírios.
+
+[[v22-6-4]]
+
+^<<v22-6-4,4>>^ Formosa és, amada minha, como Tirza, aprazível como Jerusalém, imponente como um exército com bandeiras.
+
+[[v22-6-5]]
+
+^<<v22-6-5,5>>^ Desvia de mim os teus olhos, porque eles me perturbam. O teu cabelo é como o rebanho de cabras que descem pelas colinas de Gileade.
+
+[[v22-6-6]]
+
+^<<v22-6-6,6>>^ 0s teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais cada uma tem gêmeos, e nenhuma delas é desfilhada.
+
+[[v22-6-7]]
+
+^<<v22-6-7,7>>^ As tuas faces são como as metades de uma romã, por detrás do teu véu.
+
+[[v22-6-8]]
+
+^<<v22-6-8,8>>^ Há sessenta rainhas, oitenta concubinas, e virgens sem número.
+
+[[v22-6-9]]
+
+^<<v22-6-9,9>>^ Mas uma só é a minha pomba, a minha imaculada; ela e a única de sua mãe, a escolhida da que a deu à luz. As filhas viram-na e lhe chamaram bem-aventurada; viram-na as rainhas e as concubinas, e louvaram-na.
+
+[[v22-6-10]]
+
+^<<v22-6-10,10>>^ Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, imponente como um exército com bandeiras?
+
+[[v22-6-11]]
+
+^<<v22-6-11,11>>^ Desci ao jardim das nogueiras, para ver os renovos do vale, para ver se floresciam as vides e se as romanzeiras estavam em flor.
+
+[[v22-6-12]]
+
+^<<v22-6-12,12>>^ Antes de eu o sentir, pôs-me a minha alma nos carros do meu nobre povo.
+
+[[v22-6-13]]
+
+^<<v22-6-13,13>>^ Volta, volta, ó Sulamita; volta, volta, para que nós te vejamos. Por que quereis olhar para a Sulamita como para a dança de Maanaim?
+
+'''
+
+xref:022-canticos/022-canticos-005.adoc#v22-5-0[&#60; Capítulo Anterior] | <<v22-6-0,Topo>> | xref:022-canticos/022-canticos-007.adoc#v22-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronômio, 34
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Então subiu Moisés das planícies de Moabe ao monte Nebo, ao cume de Pisga, que está defronte de Jericó; e o Senhor mostrou-lhe toda a terra desde Gileade até Dã,
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ todo o Naftali, a terra de Efraim e Manassés, toda a terra de Judá, até o mar ocidental,
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ o Negebe, e a planície do vale de Jericó, a cidade das palmeiras, até Zoar.
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ E disse-lhe o Senhor: Esta é a terra que prometi com juramento a Abraão, a Isaque e a Jacó, dizendo: À tua descendência a darei. Eu te fiz vê-la com os teus olhos, porém para lá não passarás.
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ Assim Moisés, servo do Senhor, morreu ali na terra de Moabe, conforme o dito do Senhor,
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ que o sepultou no vale, na terra de Moabe, defronte de Bete-Peor; e ninguém soube até hoje o lugar da sua sepultura.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ Tinha Moisés cento e vinte anos quando morreu; não se lhe escurecera a vista, nem se lhe fugira o vigor.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ Os filhos de Israel prantearam a Moisés por trinta dias nas planícies de Moabe; e os dias do pranto no luto por Moisés se cumpriram.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ Ora, Josué, filho de Num, foi cheio do espírito de sabedoria, porquanto Moisés lhe tinha imposto as mãos; assim se filhos de Israel lhe obedeceram , e fizeram como o Senhor ordenara a Moisés.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ E nunca mais se levantou em Israel profeta como Moisés, a quem o Senhor conhecesse face a face,
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ nem semelhante em todos os sinais e maravilhas que o Senhor o enviou para fazer na terra do Egito, a Faraó: e a todos os seus servos, e a toda a sua terra;
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ e em tudo o que Moisés operou com mão forte, e com grande espanto, aos olhos de todo o Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-josue/006-josue-001.adoc#v6-1-0[Próximo Capítulo &#62;]

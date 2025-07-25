@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v7-12-0]]
+=== Juízes, 12
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v7-12-1]]
+
+^<<v7-12-1,1>>^ Então os homens de Efraim se congregaram, passaram para Zafom e disseram a Jefté: Por que passaste a combater contra os amonitas, e não nos chamaste para irmos contigo? Queimaremos a fogo a tua casa contigo.
+
+[[v7-12-2]]
+
+^<<v7-12-2,2>>^ Disse-lhes Jefté: Eu e o meu povo tivemos grande contenda com os amonitas; e quando vos chamei, não me livrastes da sua mão.
+
+[[v7-12-3]]
+
+^<<v7-12-3,3>>^ Vendo eu que não me livráveis, arrisquei a minha vida e fui de encontro aos amonitas, e o Senhor mos entregou nas mãos; por que, pois, subistes vós hoje para combater contra mim?
+
+[[v7-12-4]]
+
+^<<v7-12-4,4>>^ Depois ajuntou Jefté todos os homens de Gileade, e combateu contra Efraim, e os homens de Gileade feriram a Efraim; porque este lhes dissera: Fugitivos sois de Efraim, vós gileaditas que habitais entre Efraim e Manassés.
+
+[[v7-12-5]]
+
+^<<v7-12-5,5>>^ E tomaram os gileaditas aos efraimitas os vaus do Jordão; e quando algum dos fugitivos de Efraim dizia: Deixai-me passar; então os homens de Gileade lhe perguntavam: És tu efraimita? E dizendo ele: Não;
+
+[[v7-12-6]]
+
+^<<v7-12-6,6>>^ então lhe diziam: Dize, pois, Chibolete; porém ele dizia: Sibolete, porque não o podia pronunciar bem. Então pegavam dele, e o degolavam nos vaus do Jordão. Cairam de Efraim naquele tempo quarenta e dois mil.
+
+[[v7-12-7]]
+
+^<<v7-12-7,7>>^ Jefté julgou a Israel seis anos; e morreu Jefté, o gileadita, e foi sepultado numa das cidades de Gileade.
+
+[[v7-12-8]]
+
+^<<v7-12-8,8>>^ Depois dele julgou a Israel Ibzã de Belém.
+
+[[v7-12-9]]
+
+^<<v7-12-9,9>>^ Tinha este trinta filhos, e trinta filhas que casou fora; e trinta filhas trouxe de fora para seus filhos. E julgou a Israel sete anos.
+
+[[v7-12-10]]
+
+^<<v7-12-10,10>>^ Morreu Ibzã, e foi sepultado em Belém.
+
+[[v7-12-11]]
+
+^<<v7-12-11,11>>^ Depois dele Elom, o zebulonita, julgou a Israel dez anos.
+
+[[v7-12-12]]
+
+^<<v7-12-12,12>>^ Morreu Elom, o zebulonita, e foi sepultado em Aijalom, na terra de Zebulom.
+
+[[v7-12-13]]
+
+^<<v7-12-13,13>>^ Depois dele julgou a Israel Abdom, filho de Hilel, o piratonita.
+
+[[v7-12-14]]
+
+^<<v7-12-14,14>>^ Tinha este quarenta filhos e trinta netos, que cavalgavam sobre setenta jumentos. E julgou a Israel oito anos.
+
+[[v7-12-15]]
+
+^<<v7-12-15,15>>^ Morreu Abdom, filho de Hilel, o piratonita, e foi sepultado em Piratom, na terra de Efraim, na região montanhosa dos amalequitas.
+
+'''
+
+xref:007-juizes/007-juizes-011.adoc#v7-11-0[&#60; Capítulo Anterior] | <<v7-12-0,Topo>> | xref:007-juizes/007-juizes-013.adoc#v7-13-0[Próximo Capítulo &#62;]

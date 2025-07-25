@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v19-68-0]]
+=== Salmos, 68
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-68-1]]
+
+^<<v19-68-1,1>>^ Levanta-se Deus! Sejam dispersos os seus inimigos; fujam de diante dele os que o odeiam!
+
+[[v19-68-2]]
+
+^<<v19-68-2,2>>^ Como é impelida a fumaça, assim tu os impeles; como a cera se derrete diante do fogo, assim pereçam os ímpios diante de Deus.
+
+[[v19-68-3]]
+
+^<<v19-68-3,3>>^ Mas alegrem-se os justos, e se regozijem na presença de Deus, e se encham de júbilo.
+
+[[v19-68-4]]
+
+^<<v19-68-4,4>>^ Cantai a Deus, cantai louvores ao seu nome; louvai aquele que cavalga sobre as nuvens, pois o seu nome é Já; exultai diante dele.
+
+[[v19-68-5]]
+
+^<<v19-68-5,5>>^ Pai de órfãos e juiz de viúvas é Deus na sua santa morada.
+
+[[v19-68-6]]
+
+^<<v19-68-6,6>>^ Deus faz que o solitário viva em família; liberta os presos e os faz prosperar; mas os rebeldes habitam em terra árida.
+
+[[v19-68-7]]
+
+^<<v19-68-7,7>>^ Ó Deus! quando saías à frente do teu povo, quando caminhavas pelo deserto,
+
+[[v19-68-8]]
+
+^<<v19-68-8,8>>^ a terra se abalava e os céus gotejavam perante a face de Deus; o próprio Sinai tremeu na presença de Deus, do Deus de Israel.
+
+[[v19-68-9]]
+
+^<<v19-68-9,9>>^ Tu, ó Deus, mandaste copiosa chuva; restauraste a tua herança, quando estava cansada.
+
+[[v19-68-10]]
+
+^<<v19-68-10,10>>^ Nela habitava o teu rebanho; da tua bondade, ó Deus, proveste o pobre.
+
+[[v19-68-11]]
+
+^<<v19-68-11,11>>^ O Senhor proclama a palavra; grande é a companhia dos que anunciam as boas-novas.
+
+[[v19-68-12]]
+
+^<<v19-68-12,12>>^ Reis de exércitos fogem, sim, fogem; as mulheres em casa repartem os despojos.
+
+[[v19-68-13]]
+
+^<<v19-68-13,13>>^ Deitados entre redis, sois como as asas da pomba cobertas de prata, com as suas penas de ouro amarelo.
+
+[[v19-68-14]]
+
+^<<v19-68-14,14>>^ Quando o Todo-Poderoso ali dispersou os reis, caiu neve em Zalmom.
+
+[[v19-68-15]]
+
+^<<v19-68-15,15>>^ Monte grandíssimo é o monte de Basã; monte de cimos numerosos é o monte de Basã!
+
+[[v19-68-16]]
+
+^<<v19-68-16,16>>^ Por que estás, ó monte de cimos numerosos, olhando com inveja o monte que Deus desejou para sua habitação? Na verdade o Senhor habitará nele eternamente.
+
+[[v19-68-17]]
+
+^<<v19-68-17,17>>^ Os carros de Deus são miríades, milhares de milhares. O Senhor está no meio deles, como em Sinai no santuário.
+
+[[v19-68-18]]
+
+^<<v19-68-18,18>>^ Tu subiste ao alto, levando os teus cativos; recebeste dons dentre os homens, e até dentre os rebeldes, para que o Senhor Deus habitasse entre eles.
+
+[[v19-68-19]]
+
+^<<v19-68-19,19>>^ Bendito seja o Senhor, que diariamente leva a nossa carga, o Deus que é a nossa salvação.
+
+[[v19-68-20]]
+
+^<<v19-68-20,20>>^ Deus é para nós um Deus de libertação; a Jeová, o Senhor, pertence o livramento da morte.
+
+[[v19-68-21]]
+
+^<<v19-68-21,21>>^ Mas Deus esmagará a cabeça de seus inimigos, o crânio cabeludo daquele que prossegue em suas culpas.
+
+[[v19-68-22]]
+
+^<<v19-68-22,22>>^ Disse o Senhor: Eu os farei voltar de Basã; fá-los-ei voltar das profundezas do mar;
+
+[[v19-68-23]]
+
+^<<v19-68-23,23>>^ para que mergulhes o teu pé em sangue, e para que a língua dos teus cães tenha dos inimigos o seu quinhão.
+
+[[v19-68-24]]
+
+^<<v19-68-24,24>>^ Viu-se, ó Deus, a tua entrada, a entrada do meu Deus, meu Rei, no santuário.
+
+[[v19-68-25]]
+
+^<<v19-68-25,25>>^ Iam na frente os cantores, atrás os tocadores de instrumentos, no meio as donzelas que tocavam adufes.
+
+[[v19-68-26]]
+
+^<<v19-68-26,26>>^ Bendizei a Deus nas congregações, ao Senhor, vós que sois da fonte de Israel.
+
+[[v19-68-27]]
+
+^<<v19-68-27,27>>^ Ali está Benjamim, o menor deles, na frente; os chefes de Judá com o seu ajuntamento; os chefes de Judá com o seu ajuntamento; os chefes de Zebulom e os chefes de Naftali.
+
+[[v19-68-28]]
+
+^<<v19-68-28,28>>^ Ordena, ó Deus, a tua força; confirma, ó Deus, o que já fizeste por nós.
+
+[[v19-68-29]]
+
+^<<v19-68-29,29>>^ Por amor do teu templo em Jerusalém, os reis te trarão presentes.
+
+[[v19-68-30]]
+
+^<<v19-68-30,30>>^ Repreende as feras dos caniçais, a multidão dos touros, com os bezerros dos povos. Calca aos pés as suas peças de prata; dissipa os povos que se deleitam na guerra.
+
+[[v19-68-31]]
+
+^<<v19-68-31,31>>^ Venham embaixadores do Egito; estenda a Etiópia ansiosamente as mãos para Deus.
+
+[[v19-68-32]]
+
+^<<v19-68-32,32>>^ Reinos da terra, cantai a Deus, cantai louvores ao Senhor,
+
+[[v19-68-33]]
+
+^<<v19-68-33,33>>^ àquele que vai montado sobre os céus dos céus, que são desde a antigüidade; eis que faz ouvir a sua voz, voz veemente.
+
+[[v19-68-34]]
+
+^<<v19-68-34,34>>^ Atribuí a Deus força; sobre Israel está a sua excelência, e a sua força nos firmamento.
+
+[[v19-68-35]]
+
+^<<v19-68-35,35>>^ Ó Deus, tu és tremendo desde o teu santuário; o Deus de Israel, ele dá força e poder ao seu povo. Bendito seja Deus!
+
+'''
+
+xref:019-salmos/019-salmos-067.adoc#v19-67-0[&#60; Capítulo Anterior] | <<v19-68-0,Topo>> | xref:019-salmos/019-salmos-069.adoc#v19-69-0[Próximo Capítulo &#62;]

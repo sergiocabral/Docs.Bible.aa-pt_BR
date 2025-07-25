@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v12-13-0]]
+=== 2 Reis, 13
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v12-13-1]]
+
+^<<v12-13-1,1>>^ No vigésimo terceiro ano de Joás, filho de Acazias, rei de Judá, começou a reinar Jeoacaz, filho de Jeú, sobre Israel, em Samária, e reinou dezessete anos.
+
+[[v12-13-2]]
+
+^<<v12-13-2,2>>^ E fez o que era mau aos olhos do Senhor, porque seguiu os pecados de Jeroboão, filho de Nebate, com os quais ele fizera Israel pecar; não se apartou deles.
+
+[[v12-13-3]]
+
+^<<v12-13-3,3>>^ Pelo que a ira do Senhor se acendeu contra Israel; e o entregou continuadamente na mão de Hazael, rei da Síria, e na mão de Ben-Hadade, filho de Hazael.
+
+[[v12-13-4]]
+
+^<<v12-13-4,4>>^ Jeoacaz, porém, suplicou diante da face do Senhor; e o senhor o ouviu, porque viu a opressão com que o rei da Síria oprimia a Israel,
+
+[[v12-13-5]]
+
+^<<v12-13-5,5>>^ &#123;pelo que o Senhor deu um libertador a Israel, de modo que saiu de sob a mão dos sírios; e os filhos de Israel habitaram nas suas tendas, como dantes.
+
+[[v12-13-6]]
+
+^<<v12-13-6,6>>^ Contudo não se apartaram dos pecados da casa de Jeroboão, com os quais ele fizera Israel pecar, porém andaram neles; e também a Asera ficou em pé em Samária.&#125;
+
+[[v12-13-7]]
+
+^<<v12-13-7,7>>^ porque, de todo o povo, não deixara a Jeoacaz mais que cinqüenta cavaleiros, dez carros e dez mil homens de infantaria; porquanto o rei da Síria os tinha destruído e os tinha feito como o pó da eira.
+
+[[v12-13-8]]
+
+^<<v12-13-8,8>>^ Ora, o restante dos atos de Jeoacaz, e tudo quanto fez, e o seu poder, porventura não estão escritos no livro das crônicas dos reis de Israel?
+
+[[v12-13-9]]
+
+^<<v12-13-9,9>>^ E Jeoacaz dormiu com seus pais; e o sepultaram em Samária. E Jeoás, seu filho, reinou em seu lugar.
+
+[[v12-13-10]]
+
+^<<v12-13-10,10>>^ No ano trinta e sete de Joás, rei de Judá, começou a reinar Jeoás, filho de Jeoacaz, sobre Israel, em Samária, e reinou dezesseis anos.
+
+[[v12-13-11]]
+
+^<<v12-13-11,11>>^ E fez o que era mau aos olhos do Senhor; não se apartou de nenhum dos pecados de Jeroboão filho de Nebate, com os quais ele fizera Israel pecar, porém andou neles.
+
+[[v12-13-12]]
+
+^<<v12-13-12,12>>^ Ora, o restante dos atos de Jeoás, e tudo quanto fez, e o seu poder, com que pelejou contra Amazias, rei de Judá, porventura não estão escritos no livro das crônicas dos reis de Israel?
+
+[[v12-13-13]]
+
+^<<v12-13-13,13>>^ Jeoás dormiu com seus pais, e Jeroboão se assentou no seu trono. Jeoás foi sepultado em Samária, junto aos reis de Israel.
+
+[[v12-13-14]]
+
+^<<v12-13-14,14>>^ Estando Eliseu doente da enfermidade de que morreu, Jeoás, rei de Israel, desceu a ele e, chorando sobre ele exclamou: Meu pai, meu pai! carro de Israel, e seus cavaleiros!
+
+[[v12-13-15]]
+
+^<<v12-13-15,15>>^ E Eliseu lhe disse: Toma um arco e flechas. E ele tomou um arco e flechas.
+
+[[v12-13-16]]
+
+^<<v12-13-16,16>>^ Então Eliseu disse ao rei de Israel: Põe a mão sobre o arco. E ele o fez. Eliseu pôs as suas mãos sobre as do rei,
+
+[[v12-13-17]]
+
+^<<v12-13-17,17>>^ e disse: Abre a janela para o oriente. E ele a abriu. Então disse Eliseu: Atira. E ele atirou. Prosseguiu Eliseu: A flecha do livramento do Senhor é a flecha do livramento contra os sírios; porque ferirás os sírios em Afeque até os consumir.
+
+[[v12-13-18]]
+
+^<<v12-13-18,18>>^ Disse mais: Toma as flechas. E ele as tomou. Então disse ao rei de Israel: Fere a terra. E ele a feriu três vezes, e cessou.
+
+[[v12-13-19]]
+
+^<<v12-13-19,19>>^ Ao que o homem de Deus se indignou muito contra ele, e disse: Cinco ou seis vezes a deverias ter ferido; então feririas os sírios até os consumir; porém agora só três vezes ferirás os sírios.
+
+[[v12-13-20]]
+
+^<<v12-13-20,20>>^ Depois morreu Eliseu, e o sepultaram. Ora, as tropas dos moabitas invadiam a terra à entrada do ano.
+
+[[v12-13-21]]
+
+^<<v12-13-21,21>>^ E sucedeu que, estando alguns a enterrarem um homem, viram uma dessas tropas, e lançaram o homem na sepultura de Eliseu. Logo que ele tocou os ossos de Eliseu, reviveu e se levantou sobre os seus pés.
+
+[[v12-13-22]]
+
+^<<v12-13-22,22>>^ Hazael, rei da Síria, oprimiu a Israel todos os dias de Jeoacaz.
+
+[[v12-13-23]]
+
+^<<v12-13-23,23>>^ O Senhor, porém, teve misericórdia deles, e se compadeceu deles, e se tornou para eles, por amor do seu pacto com Abraão, Isaque e Jacó; e não os quis destruir nem lançá-los da sua presença
+
+[[v12-13-24]]
+
+^<<v12-13-24,24>>^ Ao morrer Hazael, rei da Síria, Ben-Hadade, seu filho, reinou em seu lugar.
+
+[[v12-13-25]]
+
+^<<v12-13-25,25>>^ E Jeoás, filho de Jeoacaz, retomou das mãos de Ben-Hadade, filho de Hazael, as cidades que este havia tomado das mãos de Jeoacaz, seu pai, na guerra; três vezes Jeoás o feriu, e recuperou as cidades de Israel.
+
+'''
+
+xref:012-2-reis/012-2-reis-012.adoc#v12-12-0[&#60; Capítulo Anterior] | <<v12-13-0,Topo>> | xref:012-2-reis/012-2-reis-014.adoc#v12-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v44-21-0]]
+=== Atos, 21
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v44-21-1]]
+
+^<<v44-21-1,1>>^ E assim aconteceu que, separando-nos deles, navegamos e, correndo em direitura, chegamos a Cós, e no dia seguinte a Rodes, e dali a Pátara.
+
+[[v44-21-2]]
+
+^<<v44-21-2,2>>^ Achando um navio que seguia para a Fenícia, embarcamos e partimos.
+
+[[v44-21-3]]
+
+^<<v44-21-3,3>>^ E quando avistamos Chipre, deixando-a á esquerda, navegamos para a Síria e chegamos a Tiro, pois o navio havia de ser descarregado ali.
+
+[[v44-21-4]]
+
+^<<v44-21-4,4>>^ Havendo achado os discípulos, demoramo-nos ali sete dias; e eles pelo Espírito diziam a Paulo que não subisse a Jerusalém.
+
+[[v44-21-5]]
+
+^<<v44-21-5,5>>^ Depois de passarmos ali aqueles dias, saímos e seguimos a nossa viagem, acompanhando-nos todos, com suas mulheres e filhos, até fora da cidade; e, postos de joelhos na praia, oramos,
+
+[[v44-21-6]]
+
+^<<v44-21-6,6>>^ e despedindo-nos uns dos outros, embarcamos, e eles voltaram para casa.
+
+[[v44-21-7]]
+
+^<<v44-21-7,7>>^ Concluída a nossa viagem de Tiro, chegamos a Ptolemaida; e, havendo saudado os irmãos, passamos um dia com eles.
+
+[[v44-21-8]]
+
+^<<v44-21-8,8>>^ Partindo no dia seguinte, fomos a Cesaréia; e entrando em casa de Felipe, o evangelista, que era um dos sete, ficamos com ele.
+
+[[v44-21-9]]
+
+^<<v44-21-9,9>>^ Tinha este quatro filhas virgens que profetizavam.
+
+[[v44-21-10]]
+
+^<<v44-21-10,10>>^ Demorando-nos ali por muitos dias, desceu da Judéia um profeta, de nome Ágabo;
+
+[[v44-21-11]]
+
+^<<v44-21-11,11>>^ e vindo ter conosco, tomou a cinta de Paulo e, ligando os seus próprios pés e mãos, disse: Isto diz o Espírito Santo: Assim os judeus ligarão em Jerusalém o homem a quem pertence esta cinta, e o entregarão nas mãos dos gentios.
+
+[[v44-21-12]]
+
+^<<v44-21-12,12>>^ Quando ouvimos isto, rogamos-lhe, tanto nós como os daquele lugar, que não subisse a Jerusalém.
+
+[[v44-21-13]]
+
+^<<v44-21-13,13>>^ Então Paulo respondeu: Que fazeis chorando e magoando-me o coração? Porque eu estou pronto não só a ser ligado, mas ainda a morrer em Jerusalém pelo nome do Senhor Jesus.
+
+[[v44-21-14]]
+
+^<<v44-21-14,14>>^ E, como não se deixasse persuadir, dissemos: Faça-se a vontade do Senhor; e calamo-nos.
+
+[[v44-21-15]]
+
+^<<v44-21-15,15>>^ Depois destes dias, havendo feito os preparativos, fomos subindo a Jerusalém.
+
+[[v44-21-16]]
+
+^<<v44-21-16,16>>^ E foram também conosco alguns discípulos de Cesaréia, levando consigo um certo Mnáson, cíprio, discípulo antigo, com quem nos havíamos de hospedar.
+
+[[v44-21-17]]
+
+^<<v44-21-17,17>>^ E chegando nós a Jerusalém, os irmãos nos receberam alegremente.
+
+[[v44-21-18]]
+
+^<<v44-21-18,18>>^ No dia seguinte Paulo foi em nossa companhia ter com Tiago, e compareceram todos os anciãos.
+
+[[v44-21-19]]
+
+^<<v44-21-19,19>>^ E, havendo-os saudado, contou-lhes uma por uma as coisas que por seu ministério Deus fizera entre os gentios.
+
+[[v44-21-20]]
+
+^<<v44-21-20,20>>^ Ouvindo eles isto, glorificaram a Deus, e disseram-lhe: Bem vês, irmãos, quantos milhares há entre os judeus que têm crido, e todos são zelosos da lei.
+
+[[v44-21-21]]
+
+^<<v44-21-21,21>>^ Têm sido informados a teu respeito que ensinas todos os judeus que estão entre os gentios a se apartarem de Moisés, dizendo que não circuncidem seus filhos, nem andem segundo os costumes da lei.
+
+[[v44-21-22]]
+
+^<<v44-21-22,22>>^ Que se há de fazer, pois? Certamente saberão que és chegado.
+
+[[v44-21-23]]
+
+^<<v44-21-23,23>>^ Faze, pois, o que te vamos dizer: Temos quatro homens que fizeram voto;
+
+[[v44-21-24]]
+
+^<<v44-21-24,24>>^ toma estes contigo, e santifica-te com eles, e faze por eles as despesas para que rapem a cabeça; e saberão todos que é falso aquilo de que têm sido informados a teu respeito, mas que também tu mesmo andas corretamente, guardando a lei.
+
+[[v44-21-25]]
+
+^<<v44-21-25,25>>^ Todavia, quanto aos gentios que têm crido já escrevemos, dando o parecer que se abstenham do que é sacrificado a os ídolos, do sangue, do sufocado e da prostituição.
+
+[[v44-21-26]]
+
+^<<v44-21-26,26>>^ Então Paulo, no dia seguinte, tomando consigo aqueles homens, purificou-se com eles e entrou no templo, notificando o cumprimento dos dias da purificação, quando seria feita a favor de cada um deles a respectiva oferta.
+
+[[v44-21-27]]
+
+^<<v44-21-27,27>>^ Mas quando os sete dias estavam quase a terminar, os judeus da Ásia, tendo-o visto no templo, alvoroçaram todo o povo e agarraram-no,
+
+[[v44-21-28]]
+
+^<<v44-21-28,28>>^ clamando: Varões israelitas, acudi; este é o homem que por toda parte ensina a todos contra o povo, contra a lei, e contra este lugar; e ainda, além disso, introduziu gregos no templo, e tem profanado este santo lugar.
+
+[[v44-21-29]]
+
+^<<v44-21-29,29>>^ Antes tinham visto com ele na cidade a Trófimo de Éfeso, e pensavam que Paulo o introduzira no templo.
+
+[[v44-21-30]]
+
+^<<v44-21-30,30>>^ Alvoroçou-se toda a cidade, e houve ajuntamento do povo; e agarrando a Paulo, arrastaram-no para fora do templo, e logo as portas se fecharam.
+
+[[v44-21-31]]
+
+^<<v44-21-31,31>>^ E, procurando eles matá-lo, chegou ao comandante da corte o aviso de que Jerusalém estava toda em confusão;
+
+[[v44-21-32]]
+
+^<<v44-21-32,32>>^ o qual, tomando logo consigo soldados e centuriões, correu para eles; e quando viram o comandante e os soldados, cessaram de espancar a Paulo.
+
+[[v44-21-33]]
+
+^<<v44-21-33,33>>^ Então aproximando-se o comandante, prendeu-o e mandou que fosse acorrentado com duas cadeias, e perguntou quem era e o que tinha feito.
+
+[[v44-21-34]]
+
+^<<v44-21-34,34>>^ E na multidão uns gritavam de um modo, outros de outro; mas, não podendo por causa do alvoroço saber a verdade, mandou conduzi-lo à fortaleza.
+
+[[v44-21-35]]
+
+^<<v44-21-35,35>>^ E sucedeu que, chegando às escadas, foi ele carregado pelos soldados por causa da violência da turba.
+
+[[v44-21-36]]
+
+^<<v44-21-36,36>>^ Pois a multidão o seguia, clamando: Mata-o!
+
+[[v44-21-37]]
+
+^<<v44-21-37,37>>^ Quando estava para ser introduzido na fortaleza, disse Paulo ao comandante: É-me permitido dizer-te alguma coisa? Respondeu ele: Sabes o grego?
+
+[[v44-21-38]]
+
+^<<v44-21-38,38>>^ Não és porventura o egípcio que há poucos dias fez uma sedição e levou ao deserto os quatro mil sicários?
+
+[[v44-21-39]]
+
+^<<v44-21-39,39>>^ Mas Paulo lhe disse: Eu sou judeu, natural de Tarso, cidade não insignificante da Cilícia; rogo-te que me permitas falar ao povo.
+
+[[v44-21-40]]
+
+^<<v44-21-40,40>>^ E, havendo-lho permitido o comandante, Paulo, em pé na escada, fez sinal ao povo com a mão; e, feito grande silêncio, falou em língua hebraica, dizendo:
+
+'''
+
+xref:044-atos/044-atos-020.adoc#v44-20-0[&#60; Capítulo Anterior] | <<v44-21-0,Topo>> | xref:044-atos/044-atos-022.adoc#v44-22-0[Próximo Capítulo &#62;]

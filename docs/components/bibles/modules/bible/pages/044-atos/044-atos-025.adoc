@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v44-25-0]]
+=== Atos, 25
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v44-25-1]]
+
+^<<v44-25-1,1>>^ Tendo, pois, entrado Festo na província, depois de três dias subiu de Cesaréia a Jerusalém.
+
+[[v44-25-2]]
+
+^<<v44-25-2,2>>^ E os principais sacerdotes e os mais eminentes judeus fizeram-lhe queixa contra Paulo e, em detrimento deste,
+
+[[v44-25-3]]
+
+^<<v44-25-3,3>>^ lhe rogavam o favor de o mandar a Jerusalém, armando ciladas para o matarem no caminho.
+
+[[v44-25-4]]
+
+^<<v44-25-4,4>>^ Mas Festo respondeu que Paulo estava detido em Cesaréia, e que ele mesmo brevemente partiria para lá.
+
+[[v44-25-5]]
+
+^<<v44-25-5,5>>^ Portanto, disse ele às autoridades dentre vós desçam comigo e, se há nesse homem algum crime, acusem-no.
+
+[[v44-25-6]]
+
+^<<v44-25-6,6>>^ Tendo-se demorado entre eles não mais de oito ou dez dias, desceu a Cesaréia; e no dia seguinte, sentando-se no tribunal, mandou trazer Paulo.
+
+[[v44-25-7]]
+
+^<<v44-25-7,7>>^ Tendo ele comparecido, rodearam-no os judeus que haviam descido de Jerusalém, trazendo contra ele muitas e graves acusações, que não podiam provar.
+
+[[v44-25-8]]
+
+^<<v44-25-8,8>>^ Paulo, porém, respondeu em sua defesa: Nem contra a lei dos judeus, nem contra o templo, nem contra César, tenho pecado em coisa alguma.
+
+[[v44-25-9]]
+
+^<<v44-25-9,9>>^ Todavia Festo, querendo agradar aos judeus, respondendo a Paulo, disse: Queres subir a Jerusalém e ali ser julgado perante mim acerca destas coisas?
+
+[[v44-25-10]]
+
+^<<v44-25-10,10>>^ Mas Paulo disse: Estou perante o tribunal de César, onde devo ser julgado; nenhum mal fiz aos judeus, como muito bem sabes.
+
+[[v44-25-11]]
+
+^<<v44-25-11,11>>^ Se, pois, sou malfeitor e tenho cometido alguma coisa digna de morte, não recuso morrer; mas se nada há daquilo de que estes me acusam, ninguém me pode entregar a eles; apelo para César.
+
+[[v44-25-12]]
+
+^<<v44-25-12,12>>^ Então Festo, tendo falado com o conselho, respondeu: Apelaste para César; para César irás.
+
+[[v44-25-13]]
+
+^<<v44-25-13,13>>^ Passados alguns dias, o rei Agripa e Berenice vieram a Cesaréia em visita de saudação a Festo.
+
+[[v44-25-14]]
+
+^<<v44-25-14,14>>^ E, como se demorassem ali muitos dias, Festo expôs ao rei o caso de Paulo, dizendo: Há aqui certo homem que foi deixado preso por Félix,
+
+[[v44-25-15]]
+
+^<<v44-25-15,15>>^ a respeito do qual, quando estive em Jerusalém, os principais sacerdotes e os anciãos dos judeus me fizeram queixas, pedindo sentença contra ele;
+
+[[v44-25-16]]
+
+^<<v44-25-16,16>>^ aos quais respondi que não é costume dos romanos condenar homem algum sem que o acusado tenha presentes os seus acusadores e possa defender-se da acusação.
+
+[[v44-25-17]]
+
+^<<v44-25-17,17>>^ Quando então eles se haviam reunido aqui, sem me demorar, no dia seguinte sentei-me no tribunal e mandei trazer o homem;
+
+[[v44-25-18]]
+
+^<<v44-25-18,18>>^ contra o qual os acusadores, levantando-se, não apresentaram acusação alguma das coisas perversas que eu suspeitava;
+
+[[v44-25-19]]
+
+^<<v44-25-19,19>>^ tinham, porém, contra ele algumas questões acerca da sua religião e de um tal Jesus defunto, que Paulo afirmava estar vivo.
+
+[[v44-25-20]]
+
+^<<v44-25-20,20>>^ E, estando eu perplexo quanto ao modo de investigar estas coisas, perguntei se não queria ir a Jerusalém e ali ser julgado no tocante às mesmas.
+
+[[v44-25-21]]
+
+^<<v44-25-21,21>>^ Mas apelando Paulo para que fosse reservado ao julgamento do imperador, mandei que fosse detido até que o enviasse a César.
+
+[[v44-25-22]]
+
+^<<v44-25-22,22>>^ Então Agripa disse a Festo: Eu bem quisera ouvir esse homem. Respondeu-lhe ele: Amanhã o ouvirás.
+
+[[v44-25-23]]
+
+^<<v44-25-23,23>>^ No dia seguinte vindo Agripa e Berenice, com muito aparato, entraram no auditório com os chefes militares e homens principais da cidade; então, por ordem de Festo, Paulo foi trazido.
+
+[[v44-25-24]]
+
+^<<v44-25-24,24>>^ Disse Festo: Rei Agripa e vós todos que estais presentes conosco, vedes este homem por causa de quem toda a multidão dos judeus, tanto em Jerusalém como aqui, recorreu a mim, clamando que não convinha que ele vivesse mais.
+
+[[v44-25-25]]
+
+^<<v44-25-25,25>>^ Eu, porém, achei que ele não havia praticado coisa alguma digna de morte; mas havendo ele apelado para o imperador, resolvi remeter-lho.
+
+[[v44-25-26]]
+
+^<<v44-25-26,26>>^ Do qual não tenho coisa certa que escreva a meu senhor, e por isso perante vós o trouxe, principalmente perante ti, ó rei Agripa, para que, depois de feito o interrogatório, tenha eu alguma coisa que escrever.
+
+[[v44-25-27]]
+
+^<<v44-25-27,27>>^ Porque não me parece razoável enviar um preso, e não notificar as acusações que há contra ele.
+
+'''
+
+xref:044-atos/044-atos-024.adoc#v44-24-0[&#60; Capítulo Anterior] | <<v44-25-0,Topo>> | xref:044-atos/044-atos-026.adoc#v44-26-0[Próximo Capítulo &#62;]

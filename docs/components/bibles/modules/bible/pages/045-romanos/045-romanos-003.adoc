@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v45-3-0]]
+=== Romanos, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v45-3-1]]
+
+^<<v45-3-1,1>>^ Que vantagem, pois, tem o judeu? ou qual a utilidade da circuncisão?
+
+[[v45-3-2]]
+
+^<<v45-3-2,2>>^ Muita, em todo sentido; primeiramente, porque lhe foram confiados os oráculos de Deus.
+
+[[v45-3-3]]
+
+^<<v45-3-3,3>>^ Pois quê? Se alguns foram infiéis, porventura a sua infidelidade anulará a fidelidade de Deus?
+
+[[v45-3-4]]
+
+^<<v45-3-4,4>>^ De modo nenhum; antes seja Deus verdadeiro, e todo homem mentiroso; como está escrito: Para que sejas justificado em tuas palavras, e venças quando fores julgado.
+
+[[v45-3-5]]
+
+^<<v45-3-5,5>>^ E, se a nossa injustiça prova a justiça de Deus, que diremos? Acaso Deus, que castiga com ira, é injusto? &#123;Falo como homem.&#125;
+
+[[v45-3-6]]
+
+^<<v45-3-6,6>>^ De modo nenhum; do contrário, como julgará Deus o mundo?
+
+[[v45-3-7]]
+
+^<<v45-3-7,7>>^ Mas, se pela minha mentira abundou mais a verdade de Deus para sua glória, por que sou eu ainda julgado como pecador?
+
+[[v45-3-8]]
+
+^<<v45-3-8,8>>^ E por que não dizemos: Façamos o mal para que venha o bem?-como alguns caluniosamente afirmam que dizemos; a condenação dos quais é justa.
+
+[[v45-3-9]]
+
+^<<v45-3-9,9>>^ Pois quê? Somos melhores do que eles? De maneira nenhuma, pois já demonstramos que, tanto judeus como gregos, todos estão debaixo do pecado;
+
+[[v45-3-10]]
+
+^<<v45-3-10,10>>^ como está escrito: Não há justo, nem sequer um.
+
+[[v45-3-11]]
+
+^<<v45-3-11,11>>^ Não há quem entenda; não há quem busque a Deus.
+
+[[v45-3-12]]
+
+^<<v45-3-12,12>>^ Todos se extraviaram; juntamente se fizeram inúteis. Não há quem faça o bem, não há nem um só.
+
+[[v45-3-13]]
+
+^<<v45-3-13,13>>^ A sua garganta é um sepulcro aberto; com as suas línguas tratam enganosamente; peçonha de áspides está debaixo dos seus lábios;
+
+[[v45-3-14]]
+
+^<<v45-3-14,14>>^ a sua boca está cheia de maldição e amargura.
+
+[[v45-3-15]]
+
+^<<v45-3-15,15>>^ Os seus pés são ligeiros para derramar sangue.
+
+[[v45-3-16]]
+
+^<<v45-3-16,16>>^ Nos seus caminhos há destruição e miséria;
+
+[[v45-3-17]]
+
+^<<v45-3-17,17>>^ e não conheceram o caminho da paz.
+
+[[v45-3-18]]
+
+^<<v45-3-18,18>>^ Não há temor de Deus diante dos seus olhos.
+
+[[v45-3-19]]
+
+^<<v45-3-19,19>>^ Ora, nós sabemos que tudo o que a lei diz, aos que estão debaixo da lei o diz, para que se cale toda boca e todo o mundo fique sujeito ao juízo de Deus;
+
+[[v45-3-20]]
+
+^<<v45-3-20,20>>^ porquanto pelas obras da lei nenhum homem será justificado diante dele; pois o que vem pela lei é o pleno conhecimento do pecado.
+
+[[v45-3-21]]
+
+^<<v45-3-21,21>>^ Mas agora, sem lei, tem-se manifestado a justiça de Deus, que é atestada pela lei e pelos profetas;
+
+[[v45-3-22]]
+
+^<<v45-3-22,22>>^ isto é, a justiça de Deus pela fé em Jesus Cristo para todos os que crêem; pois não há distinção.
+
+[[v45-3-23]]
+
+^<<v45-3-23,23>>^ Porque todos pecaram e destituídos estão da glória de Deus;
+
+[[v45-3-24]]
+
+^<<v45-3-24,24>>^ sendo justificados gratuitamente pela sua graça, mediante a redenção que há em Cristo Jesus,
+
+[[v45-3-25]]
+
+^<<v45-3-25,25>>^ ao qual Deus propôs como propiciação, pela fé, no seu sangue, para demonstração da sua justiça por ter ele na sua paciência, deixado de lado os delitos outrora cometidos;
+
+[[v45-3-26]]
+
+^<<v45-3-26,26>>^ para demonstração da sua justiça neste tempo presente, para que ele seja justo e também justificador daquele que tem fé em Jesus.
+
+[[v45-3-27]]
+
+^<<v45-3-27,27>>^ Onde está logo a jactância? Foi excluída. Por que lei? Das obras? Não; mas pela lei da fé.
+
+[[v45-3-28]]
+
+^<<v45-3-28,28>>^ concluímos pois que o homem é justificado pela fé sem as obras da lei.
+
+[[v45-3-29]]
+
+^<<v45-3-29,29>>^ É porventura Deus somente dos judeus? Não é também dos gentios? Também dos gentios, certamente,
+
+[[v45-3-30]]
+
+^<<v45-3-30,30>>^ se é que Deus é um só, que pela fé há de justificar a circuncisão, e também por meio da fé a incircuncisão.
+
+[[v45-3-31]]
+
+^<<v45-3-31,31>>^ Anulamos, pois, a lei pela fé? De modo nenhum; antes estabelecemos a lei.
+
+'''
+
+xref:045-romanos/045-romanos-002.adoc#v45-2-0[&#60; Capítulo Anterior] | <<v45-3-0,Topo>> | xref:045-romanos/045-romanos-004.adoc#v45-4-0[Próximo Capítulo &#62;]

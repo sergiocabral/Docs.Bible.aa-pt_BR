@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Salmos, 92
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ Bom é render graças ao Senhor, e cantar louvores ao teu nome, ó Altíssimo,
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ anunciar de manhã a tua benignidade, e à noite a tua fidelidade,
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ sobre um instrumento de dez cordas, e sobre o saltério, ao som solene da harpa.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ Pois me alegraste, Senhor, pelos teus feitos; exultarei nas obras das tuas mãos.
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ Quão grandes são, ó Senhor, as tuas obras! quão profundos são os teus pensamentos!
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ O homem néscio não sabe, nem o insensato entende isto:
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ quando os ímpios brotam como a erva, e florescem todos os que praticam a iniqüidade, é para serem destruídos para sempre.
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ Mas tu, Senhor, estás nas alturas para sempre.
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ Pois eis que os teus inimigos, Senhor, eis que os teus inimigos perecerão; serão dispersos todos os que praticam a iniqüidade.
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ Mas tens exaltado o meu poder, como o do boi selvagem; fui ungido com óleo fresco.
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ Os meus olhos já viram o que é feito dos que me espreitam, e os meus ouvidos já ouviram o que sucedeu aos malfeitores que se levantam contra mim.
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ Os justos florescerão como a palmeira, crescerão como o cedro no Líbano.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ Estão plantados na casa do Senhor, florescerão nos átrios do nosso Deus.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ Na velhice ainda darão frutos, serão viçosos e florescentes,
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ para proclamarem que o Senhor é reto. Ele é a minha rocha, e nele não há injustiça.
+
+'''
+
+xref:019-salmos/019-salmos-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-salmos/019-salmos-093.adoc#v19-93-0[Próximo Capítulo &#62;]

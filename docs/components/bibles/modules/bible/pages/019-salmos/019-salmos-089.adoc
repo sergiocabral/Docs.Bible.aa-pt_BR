@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v19-89-0]]
+=== Salmos, 89
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-89-1]]
+
+^<<v19-89-1,1>>^ Cantarei para sempre as benignidades do Senhor; com a minha boca proclamarei a todas as gerações a tua fidelidade.
+
+[[v19-89-2]]
+
+^<<v19-89-2,2>>^ Digo, pois: A tua benignidade será renovada para sempre; tu confirmarás a tua fidelidade até nos céus, dizendo:
+
+[[v19-89-3]]
+
+^<<v19-89-3,3>>^ Fiz um pacto com o meu escolhido; jurei ao meu servo Davi:
+
+[[v19-89-4]]
+
+^<<v19-89-4,4>>^ Estabelecerei para sempre a tua descendência, e firmarei o teu trono por todas as gerações.
+
+[[v19-89-5]]
+
+^<<v19-89-5,5>>^ Os céus louvarão as tuas maravilhas, ó Senhor, e a tua fidelidade na assembléia dos santos.
+
+[[v19-89-6]]
+
+^<<v19-89-6,6>>^ Pois quem no firmamento se pode igualar ao Senhor? Quem entre os filhos de Deus é semelhante ao Senhor,
+
+[[v19-89-7]]
+
+^<<v19-89-7,7>>^ um Deus sobremodo tremendo na assembléia dos santos, e temível mais do que todos os que estão ao seu redor?
+
+[[v19-89-8]]
+
+^<<v19-89-8,8>>^ Ó Senhor, Deus dos exércitos, quem é poderoso como tu, Senhor, com a tua fidelidade ao redor de ti?
+
+[[v19-89-9]]
+
+^<<v19-89-9,9>>^ Tu dominas o ímpio do mar; quando as suas ondas se levantam tu as fazes aquietar.
+
+[[v19-89-10]]
+
+^<<v19-89-10,10>>^ Tu abateste a Raabe como se fora ferida de morte; com o teu braço poderoso espalhaste os teus inimigos.
+
+[[v19-89-11]]
+
+^<<v19-89-11,11>>^ São teus os céus, e tua é a terra; o mundo e a sua plenitude, tu os fundaste.
+
+[[v19-89-12]]
+
+^<<v19-89-12,12>>^ O norte e o sul, tu os criaste; o Tabor e o Hermom regozijam-se em teu nome.
+
+[[v19-89-13]]
+
+^<<v19-89-13,13>>^ Tu tens um braço poderoso; forte é a tua mão, e elevado a tua destra.
+
+[[v19-89-14]]
+
+^<<v19-89-14,14>>^ Justiça e juízo são a base do teu trono; benignidade e verdade vão adiante de ti.
+
+[[v19-89-15]]
+
+^<<v19-89-15,15>>^ Bem-aventurado o povo que conhece o som festivo, que anda, ó Senhor, na luz da tua face,
+
+[[v19-89-16]]
+
+^<<v19-89-16,16>>^ que se regozija em teu nome todo o dia, e na tua justiça é exaltado.
+
+[[v19-89-17]]
+
+^<<v19-89-17,17>>^ Pois tu és a glória da sua força; e pelo teu favor será exaltado o nosso poder.
+
+[[v19-89-18]]
+
+^<<v19-89-18,18>>^ Porque o Senhor é o nosso escudo, e o Santo de Israel é o nosso Rei.
+
+[[v19-89-19]]
+
+^<<v19-89-19,19>>^ Naquele tempo falaste em visão ao teu santo, e disseste: Coloquei a coroa num homem poderoso; exaltei um escolhido dentre o povo.
+
+[[v19-89-20]]
+
+^<<v19-89-20,20>>^ Achei Davi, meu servo; com o meu santo óleo o ungi.
+
+[[v19-89-21]]
+
+^<<v19-89-21,21>>^ A minha mão será sempre com ele, e o meu braço o fortalecerá.
+
+[[v19-89-22]]
+
+^<<v19-89-22,22>>^ O inimigo não o surpreenderá, nem o filho da perversidade o afligirá.
+
+[[v19-89-23]]
+
+^<<v19-89-23,23>>^ Eu esmagarei diante dele os seus adversários, e aos que o odeiam abaterei.
+
+[[v19-89-24]]
+
+^<<v19-89-24,24>>^ A minha fidelidade, porém, e a minha benignidade estarão com ele, e em meu nome será exaltado o seu poder.
+
+[[v19-89-25]]
+
+^<<v19-89-25,25>>^ Porei a sua mão sobre o mar, e a sua destra sobre os rios.
+
+[[v19-89-26]]
+
+^<<v19-89-26,26>>^ Ele me invocará, dizendo: Tu és meu pai, meu Deus, e a rocha da minha salvação.
+
+[[v19-89-27]]
+
+^<<v19-89-27,27>>^ Também lhe darei o lugar de primogênito; fá-lo-ei o mais excelso dos reis da terra.
+
+[[v19-89-28]]
+
+^<<v19-89-28,28>>^ Conservar-lhe-ei para sempre a minha benignidade, e o meu pacto com ele ficará firme.
+
+[[v19-89-29]]
+
+^<<v19-89-29,29>>^ Farei que subsista para sempre a sua descendência, e o seu trono como os dias dos céus.
+
+[[v19-89-30]]
+
+^<<v19-89-30,30>>^ Se os seus filhos deixarem a minha lei, e não andarem nas minhas ordenanças,
+
+[[v19-89-31]]
+
+^<<v19-89-31,31>>^ se profanarem os meus preceitos, e não guardarem os meus mandamentos,
+
+[[v19-89-32]]
+
+^<<v19-89-32,32>>^ então visitarei com vara a sua transgressão, e com açoites a sua iniqüidade.
+
+[[v19-89-33]]
+
+^<<v19-89-33,33>>^ Mas não lhe retirarei totalmente a minha benignidade, nem faltarei com a minha fidelidade.
+
+[[v19-89-34]]
+
+^<<v19-89-34,34>>^ Não violarei o meu pacto, nem alterarei o que saiu dos meus lábios.
+
+[[v19-89-35]]
+
+^<<v19-89-35,35>>^ Uma vez para sempre jurei por minha santidade; não mentirei a Davi.
+
+[[v19-89-36]]
+
+^<<v19-89-36,36>>^ A sua descendência subsistirá para sempre, e o seu trono será como o sol diante de mim;
+
+[[v19-89-37]]
+
+^<<v19-89-37,37>>^ será estabelecido para sempre como a lua, e ficará firme enquanto o céu durar.
+
+[[v19-89-38]]
+
+^<<v19-89-38,38>>^ Mas tu o repudiaste e rejeitaste, tu estás indignado contra o teu ungido.
+
+[[v19-89-39]]
+
+^<<v19-89-39,39>>^ Desprezaste o pacto feito com teu servo; profanaste a sua coroa, arrojando-a por terra.
+
+[[v19-89-40]]
+
+^<<v19-89-40,40>>^ Derribaste todos os seus muros; arruinaste as suas fortificações.
+
+[[v19-89-41]]
+
+^<<v19-89-41,41>>^ Todos os que passam pelo caminho o despojam; tornou-se objeto de opróbrio para os seus vizinhos.
+
+[[v19-89-42]]
+
+^<<v19-89-42,42>>^ Exaltaste a destra dos seus adversários; fizeste com que todos os seus inimigos se regozijassem.
+
+[[v19-89-43]]
+
+^<<v19-89-43,43>>^ Embotaste o fio da sua espada, e não o sustentaste na peleja;
+
+[[v19-89-44]]
+
+^<<v19-89-44,44>>^ fizeste cessar o seu esplendor, e arrojaste por terra o seu trono;
+
+[[v19-89-45]]
+
+^<<v19-89-45,45>>^ abreviaste os dias da sua mocidade; cobriste-o de vergonha.
+
+[[v19-89-46]]
+
+^<<v19-89-46,46>>^ Até quando, Senhor? Esconder-te-ás para sempre? Até quando arderá a tua ira como fogo?
+
+[[v19-89-47]]
+
+^<<v19-89-47,47>>^ Lembra-te de quão breves são os meus dias; de quão efêmeros criaste todos os filhos dos homens!
+
+[[v19-89-48]]
+
+^<<v19-89-48,48>>^ Que homem há que viva e não veja a morte? ou que se livre do poder do Seol?
+
+[[v19-89-49]]
+
+^<<v19-89-49,49>>^ Senhor, onde estão as tuas antigas benignidades, que juraste a Davi na tua fidelidade?
+
+[[v19-89-50]]
+
+^<<v19-89-50,50>>^ Lembre-te, Senhor, do opróbrio dos teus servos; e de como trago no meu peito os insultos de todos os povos poderosos,
+
+[[v19-89-51]]
+
+^<<v19-89-51,51>>^ com que os teus inimigos, ó Senhor, têm difamado, com que têm difamado os passos do teu ungido.
+
+[[v19-89-52]]
+
+^<<v19-89-52,52>>^ Bendito seja o Senhor para sempre. Amém e amém.
+
+'''
+
+xref:019-salmos/019-salmos-088.adoc#v19-88-0[&#60; Capítulo Anterior] | <<v19-89-0,Topo>> | xref:019-salmos/019-salmos-090.adoc#v19-90-0[Próximo Capítulo &#62;]

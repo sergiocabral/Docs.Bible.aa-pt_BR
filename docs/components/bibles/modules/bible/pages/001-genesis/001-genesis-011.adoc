@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Ora, toda a terra tinha uma só língua e um só idioma.
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ E deslocando-se os homens para o oriente, acharam um vale na terra de Sinar; e ali habitaram.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ Disseram uns aos outros: Eia pois, façamos tijolos, e queimemo-los bem. Os tijolos lhes serviram de pedras e o betume de argamassa.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Disseram mais: Eia, edifiquemos para nós uma cidade e uma torre cujo cume toque no céu, e façamo-nos um nome, para que não sejamos espalhados sobre a face de toda a terra.
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ Então desceu o Senhor para ver a cidade e a torre que os filhos dos homens edificavam;
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ e disse: Eis que o povo é um e todos têm uma só língua; e isto é o que começam a fazer; agora não haverá restrição para tudo o que eles intentarem fazer.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Eia, desçamos, e confundamos ali a sua linguagem, para que não entenda um a língua do outro.
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Assim o Senhor os espalhou dali sobre a face de toda a terra; e cessaram de edificar a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ Por isso se chamou o seu nome Babel, porquanto ali confundiu o Senhor a linguagem de toda a terra, e dali o Senhor os espalhou sobre a face de toda a terra.
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Estas são as gerações de Sem. Tinha ele cem anos, quando gerou a Arfaxade, dois anos depois do dilúvio.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ E viveu Sem, depois que gerou a Arfaxade, quinhentos anos; e gerou filhos e filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Arfaxade viveu trinta e cinco anos, e gerou a Selá.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ Viveu Arfaxade, depois que gerou a Selá, quatrocentos e três anos; e gerou filhos e filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Selá viveu trinta anos, e gerou a Eber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ Viveu Selá, depois que gerou a Eber, quatrocentos e três anos; e gerou filhos e filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Eber viveu trinta e quatro anos, e gerou a Pelegue.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ Viveu Eber, depois que gerou a Pelegue, quatrocentos e trinta anos; e gerou filhos e filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Pelegue viveu trinta anos, e gerou a Reú.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ Viveu Pelegue, depois que gerou a Reú, duzentos e nove anos; e gerou filhos e filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Reú viveu trinta e dois anos, e gerou a Serugue.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ Viveu Reú, depois que gerou a Serugue, duzentos e sete anos; e gerou filhos e filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Serugue viveu trinta anos, e gerou a Naor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ Viveu Serugue, depois que gerou a Naor, duzentos anos; e gerou filhos e filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Naor viveu vinte e nove anos, e gerou a Tera.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ Viveu Naor, depois que gerou a Tera, cento e dezenove anos; e gerou filhos e filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Tera viveu setenta anos, e gerou a Abrão, a Naor e a Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ Estas são as gerações de Tera: Tera gerou a Abrão, a Naor e a Harã; e Harã gerou a Ló.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ Harã morreu antes de seu pai Tera, na terra do seu nascimento, em Ur dos Caldeus.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Abrão e Naor tomaram mulheres para si: o nome da mulher de Abrão era Sarai, e o nome da mulher do Naor era Milca, filha de Harã, que foi pai de Milca e de Iscá.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Sarai era estéril; não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Tomou Tera a Abrão seu filho, e a Ló filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos Caldeus, a fim de ir para a terra de Canaã; e vieram até Harã, e ali habitaram.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ Foram os dias de Tera duzentos e cinco anos; e morreu Tera em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]
