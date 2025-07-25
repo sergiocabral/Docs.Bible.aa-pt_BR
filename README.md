@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Almeida Revisada Imprensa Bíblica (aa, pt_BR, 1959)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://aa-pt-br.bible.raciocinios.com.br/
 
 ---
 
