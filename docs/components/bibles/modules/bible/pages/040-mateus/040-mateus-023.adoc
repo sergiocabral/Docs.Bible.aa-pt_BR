@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== Mateus, 23
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Então falou Jesus às multidões e aos seus discípulos, dizendo:
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ Na cadeira de Moisés se assentam os escribas e fariseus.
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Portanto, tudo o que vos disserem, isso fazei e observai; mas não façais conforme as suas obras; porque dizem e não praticam.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ Pois atam fardos pesados e difíceis de suportar, e os põem aos ombros dos homens; mas eles mesmos nem com o dedo querem movê-los.
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ Todas as suas obras eles fazem a fim de serem vistos pelos homens; pois alargam os seus filactérios, e aumentam as franjas dos seus mantos;
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ gostam do primeiro lugar nos banquetes, das primeiras cadeiras nas sinagogas,
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ das saudações nas praças, e de serem chamados pelos homens: Rabi.
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ Vós, porém, não queirais ser chamados Rabi; porque um só é o vosso Mestre, e todos vós sois irmãos.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ E a ninguém sobre a terra chameis vosso pai; porque um só é o vosso Pai, aquele que está nos céus.
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Nem queirais ser chamados guias; porque um só é o vosso Guia, que é o Cristo.
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ Mas o maior dentre vós há de ser vosso servo.
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Qualquer, pois, que a si mesmo se exaltar, será humilhado; e qualquer que a si mesmo se humilhar, será exaltado.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ Mas ai de vós, escribas e fariseus, hipócritas! porque fechais aos homens o reino dos céus; pois nem vós entrais, nem aos que entrariam permitis entrar.
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ &#123;Ai de vós, escribas e fariseus, hipócritas! porque devorais as casas das viúvas e sob pretexto fazeis longas orações; por isso recebereis maior condenação.&#125;
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ Ai de vós, escribas e fariseus, hipócritas! porque percorreis o mar e a terra para fazer um prosélito; e, depois de o terdes feito, o tornais duas vezes mais filho do inferno do que vós.
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ Ai de vós, guias cegos! que dizeis: Quem jurar pelo ouro do santuário, esse fica obrigado ao que jurou.
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Insensatos e cegos! Pois qual é o maior; o ouro, ou o santuário que santifica o ouro?
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ E: Quem jurar pelo altar, isso nada é; mas quem jurar pela oferta que está sobre o altar, esse fica obrigado ao que jurou.
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Cegos! Pois qual é maior: a oferta, ou o altar que santifica a oferta?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Portanto, quem jurar pelo altar jura por ele e por tudo quanto sobre ele está;
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ e quem jurar pelo santuário jura por ele e por aquele que nele habita;
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ e quem jurar pelo céu jura pelo trono de Deus e por aquele que nele está assentado.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ Ai de vós, escribas e fariseus, hipócritas! porque dais o dízimo da hortelã, do endro e do cominho, e tendes omitido o que há de mais importante na lei, a saber, a justiça, a misericórdia e a fé; estas coisas, porém, devíeis fazer, sem omitir aquelas.
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Guias cegos! que coais um mosquito, e engolis um camelo.
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ Ai de vós, escribas e fariseus, hipócritas! porque limpais o exterior do copo e do prato, mas por dentro estão cheios de rapina e de intemperança.
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Fariseu cego! limpa primeiro o interior do copo, para que também o exterior se torne limpo.
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ Ai de vós, escribas e fariseus, hipócritas! porque sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas por dentro estão cheios de ossos e de toda imundícia.
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ Assim também vós exteriormente pareceis justos aos homens, mas por dentro estais cheios de hipocrisia e de iniqüidade.
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ Ai de vós, escribas e fariseus, hipócritas! porque edificais os sepulcros dos profetas e adornais os monumentos dos justos,
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ e dizeis: Se tivéssemos vivido nos dias de nossos pais, não teríamos sido cúmplices no derramar o sangue dos profetas.
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Assim, vós testemunhais contra vós mesmos que sois filhos daqueles que mataram os profetas.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Enchei vós, pois, a medida de vossos pais.
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ Serpentes, raça de víboras! como escapareis da condenação do inferno?
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ Portanto, eis que eu vos envio profetas, sábios e escribas: e a uns deles matareis e crucificareis; e a outros os perseguireis de cidade em cidade;
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ para que sobre vós caia todo o sangue justo, que foi derramado sobre a terra, desde o sangue de Abel, o justo, até o sangue de Zacarias, filho de Baraquias, que mataste entre o santuário e o altar.
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Em verdade vos digo que todas essas coisas hão de vir sobre esta geração.
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ Jerusalém, Jerusalém, que matas os profetas, apedrejas os que a ti são enviados! quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas, e não o quiseste!
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Eis aí abandonada vos é a vossa casa.
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ Pois eu vos declaro que desde agora de modo nenhum me vereis, até que digais: Bendito aquele que vem em nome do Senhor.
+
+'''
+
+xref:040-mateus/040-mateus-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-mateus/040-mateus-024.adoc#v40-24-0[Próximo Capítulo &#62;]

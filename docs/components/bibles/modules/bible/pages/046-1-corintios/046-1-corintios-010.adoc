@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v46-10-0]]
+=== 1 Coríntios, 10
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v46-10-1]]
+
+^<<v46-10-1,1>>^ Pois não quero, irmãos, que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar;
+
+[[v46-10-2]]
+
+^<<v46-10-2,2>>^ e, na nuvem e no mar, todos foram batizados em Moisés,
+
+[[v46-10-3]]
+
+^<<v46-10-3,3>>^ e todos comeram do mesmo alimento espiritual;
+
+[[v46-10-4]]
+
+^<<v46-10-4,4>>^ e beberam todos da mesma bebida espiritual, porque bebiam da pedra espiritual que os acompanhava; e a pedra era Cristo.
+
+[[v46-10-5]]
+
+^<<v46-10-5,5>>^ Mas Deus não se agradou da maior parte deles; pelo que foram prostrados no deserto.
+
+[[v46-10-6]]
+
+^<<v46-10-6,6>>^ Ora, estas coisas nos foram feitas para exemplo, a fim de que não cobicemos as coisas más, como eles cobiçaram.
+
+[[v46-10-7]]
+
+^<<v46-10-7,7>>^ Não vos torneis, pois, idólatras, como alguns deles, conforme está escrito: O povo assentou-se a comer e a beber, e levantou-se para folgar.
+
+[[v46-10-8]]
+
+^<<v46-10-8,8>>^ Nem nos prostituamos, como alguns deles fizeram; e caíram num só dia vinte e três mil.
+
+[[v46-10-9]]
+
+^<<v46-10-9,9>>^ E não tentemos o Senhor, como alguns deles o tentaram, e pereceram pelas serpentes.
+
+[[v46-10-10]]
+
+^<<v46-10-10,10>>^ E não murmureis, como alguns deles murmuraram, e pereceram pelo destruidor.
+
+[[v46-10-11]]
+
+^<<v46-10-11,11>>^ Ora, tudo isto lhes acontecia como exemplo, e foi escrito para aviso nosso, para quem já são chegados os fins dos séculos.
+
+[[v46-10-12]]
+
+^<<v46-10-12,12>>^ Aquele, pois, que pensa estar em pé, olhe não caia.
+
+[[v46-10-13]]
+
+^<<v46-10-13,13>>^ Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar.
+
+[[v46-10-14]]
+
+^<<v46-10-14,14>>^ Portanto, meus amados, fugi da idolatria.
+
+[[v46-10-15]]
+
+^<<v46-10-15,15>>^ Falo como a entendidos; julgai vós mesmos o que digo.
+
+[[v46-10-16]]
+
+^<<v46-10-16,16>>^ Porventura o cálice de bênção que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos, não é porventura a comunhão do corpo de Cristo?
+
+[[v46-10-17]]
+
+^<<v46-10-17,17>>^ Pois nós, embora muitos, somos um só pão, um só corpo; porque todos participamos de um mesmo pão.
+
+[[v46-10-18]]
+
+^<<v46-10-18,18>>^ Vede a Israel segundo a carne; os que comem dos sacrifícios não são porventura participantes do altar?
+
+[[v46-10-19]]
+
+^<<v46-10-19,19>>^ Mas que digo? Que o sacrificado ao ídolo é alguma coisa? Ou que o ídolo é alguma coisa?
+
+[[v46-10-20]]
+
+^<<v46-10-20,20>>^ Antes digo que as coisas que eles sacrificam, sacrificam-nas a demônios, e não a Deus. E não quero que sejais participantes com os demônios.
+
+[[v46-10-21]]
+
+^<<v46-10-21,21>>^ Não podeis beber do cálice do Senhor e do cálice de demônios; não podeis participar da mesa do Senhor e da mesa de demônios.
+
+[[v46-10-22]]
+
+^<<v46-10-22,22>>^ Ou provocaremos a zelos o Senhor? Somos, porventura, mais fortes do que ele?
+
+[[v46-10-23]]
+
+^<<v46-10-23,23>>^ Todas as coisas são lícitas, mas nem todas as coisas convêm; todas as coisas são lícitas, mas nem todas as coisas edificam.
+
+[[v46-10-24]]
+
+^<<v46-10-24,24>>^ Ninguém busque o proveito próprio, antes cada um o de outrem.
+
+[[v46-10-25]]
+
+^<<v46-10-25,25>>^ Comei de tudo quanto se vende no mercado, nada perguntando por causa da consciência.
+
+[[v46-10-26]]
+
+^<<v46-10-26,26>>^ Pois do Senhor é a terra e a sua plenitude.
+
+[[v46-10-27]]
+
+^<<v46-10-27,27>>^ Se, portanto, algum dos incrédulos vos convidar, e quiserdes ir, comei de tudo o que se puser diante de vós, nada perguntando por causa da consciência.
+
+[[v46-10-28]]
+
+^<<v46-10-28,28>>^ Mas, se alguém vos disser: Isto foi oferecido em sacrifício; não comais por causa daquele que vos advertiu e por causa da consciência;
+
+[[v46-10-29]]
+
+^<<v46-10-29,29>>^ consciência, digo, não a tua, mas a do outro. Pois, por que há de ser julgada a minha liberdade pela consciência de outrem?
+
+[[v46-10-30]]
+
+^<<v46-10-30,30>>^ E, se eu com gratidão participo, por que sou vilipendiado por causa daquilo por que dou graças?
+
+[[v46-10-31]]
+
+^<<v46-10-31,31>>^ Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus.
+
+[[v46-10-32]]
+
+^<<v46-10-32,32>>^ Não vos torneis causa de tropeço nem a judeus, nem a gregos, nem a igreja de Deus;
+
+[[v46-10-33]]
+
+^<<v46-10-33,33>>^ assim como também eu em tudo procuro agradar a todos, não buscando o meu próprio proveito, mas o de muitos, para que sejam salvos.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-009.adoc#v46-9-0[&#60; Capítulo Anterior] | <<v46-10-0,Topo>> | xref:046-1-corintios/046-1-corintios-011.adoc#v46-11-0[Próximo Capítulo &#62;]

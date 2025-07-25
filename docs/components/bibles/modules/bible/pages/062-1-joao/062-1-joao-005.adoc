@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v62-5-0]]
+=== 1 João, 5
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v62-5-1]]
+
+^<<v62-5-1,1>>^ Todo aquele que crê que Jesus é o Cristo, é o nascido de Deus; e todo aquele que ama ao que o gerou, ama também ao que dele é nascido.
+
+[[v62-5-2]]
+
+^<<v62-5-2,2>>^ Nisto conhecemos que amamos os filhos de Deus, se amamos a Deus e guardamos os seus mandamentos.
+
+[[v62-5-3]]
+
+^<<v62-5-3,3>>^ Porque este é o amor de Deus, que guardemos os seus mandamentos; e os seus mandamentos não são penosos;
+
+[[v62-5-4]]
+
+^<<v62-5-4,4>>^ porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo: a nossa fé.
+
+[[v62-5-5]]
+
+^<<v62-5-5,5>>^ Quem é o que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?
+
+[[v62-5-6]]
+
+^<<v62-5-6,6>>^ Este é aquele que veio por água e sangue, isto é, Jesus Cristo; não só pela água, mas pela água e pelo sangue.
+
+[[v62-5-7]]
+
+^<<v62-5-7,7>>^ E o Espírito é o que dá testemunho, porque o Espírito é a verdade.
+
+[[v62-5-8]]
+
+^<<v62-5-8,8>>^ Porque três são os que dão testemunho: o Espírito, e a água, e o sangue; e estes três concordam.
+
+[[v62-5-9]]
+
+^<<v62-5-9,9>>^ Se recebemos o testemunho dos homens, o testemunho de Deus é este, que de seu Filho testificou.
+
+[[v62-5-10]]
+
+^<<v62-5-10,10>>^ Quem crê no Filho de Deus, em si mesmo tem o testemunho; quem a Deus não crê, mentiroso o faz, porque não crê no testemunho que Deus de seu Filho dá.
+
+[[v62-5-11]]
+
+^<<v62-5-11,11>>^ E o testemunho é este: Que Deus nos deu a vida eterna, e esta vida está em seu Filho.
+
+[[v62-5-12]]
+
+^<<v62-5-12,12>>^ Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
+
+[[v62-5-13]]
+
+^<<v62-5-13,13>>^ Estas coisas vos escrevo, a vós que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna.
+
+[[v62-5-14]]
+
+^<<v62-5-14,14>>^ E esta é a confiança que temos nele, que se pedirmos alguma coisa segundo a sua vontade, ele nos ouve.
+
+[[v62-5-15]]
+
+^<<v62-5-15,15>>^ e, se sabemos que nos ouve em tudo o que pedimos, sabemos que já alcançamos as coisas que lhe temos pedido.
+
+[[v62-5-16]]
+
+^<<v62-5-16,16>>^ Se alguém vir seu irmão cometer um pecado que não é para morte, pedirá, e Deus lhe dará a vida para aqueles que não pecam para a morte. Há pecado para morte, e por esse não digo que ore.
+
+[[v62-5-17]]
+
+^<<v62-5-17,17>>^ Toda injustiça é pecado; e há pecado que não é para a morte.
+
+[[v62-5-18]]
+
+^<<v62-5-18,18>>^ Sabemos que todo aquele que é nascido de Deus não vive pecando; antes o guarda aquele que nasceu de Deus, e o Maligno não lhe toca.
+
+[[v62-5-19]]
+
+^<<v62-5-19,19>>^ Sabemos que somos de Deus, e que o mundo inteiro jaz no Maligno.
+
+[[v62-5-20]]
+
+^<<v62-5-20,20>>^ Sabemos também que já veio o Filho de Deus, e nos deu entendimento para conhecermos aquele que é verdadeiro; e nós estamos naquele que é verdadeiro, isto é, em seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna.
+
+[[v62-5-21]]
+
+^<<v62-5-21,21>>^ Filhinhos, guardai-vos dos ídolos.
+
+'''
+
+xref:062-1-joao/062-1-joao-004.adoc#v62-4-0[&#60; Capítulo Anterior] | <<v62-5-0,Topo>> | xref:063-2-joao/063-2-joao-001.adoc#v63-1-0[Próximo Capítulo &#62;]

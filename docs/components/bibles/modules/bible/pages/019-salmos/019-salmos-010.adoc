@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-10-0]]
+=== Salmos, 10
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-10-1]]
+
+^<<v19-10-1,1>>^ Por que te conservas ao longe, Senhor? Por que te escondes em tempos de angústia?
+
+[[v19-10-2]]
+
+^<<v19-10-2,2>>^ Os ímpios, na sua arrogância, perseguem furiosamente o pobre; sejam eles apanhados nas ciladas que maquinaram.
+
+[[v19-10-3]]
+
+^<<v19-10-3,3>>^ Pois o ímpio gloria-se do desejo do seu coração, e o que é dado à rapina despreza e maldiz o Senhor.
+
+[[v19-10-4]]
+
+^<<v19-10-4,4>>^ Por causa do seu orgulho, o ímpio não o busca; todos os seus pensamentos são: Não há Deus.
+
+[[v19-10-5]]
+
+^<<v19-10-5,5>>^ Os seus caminhos são sempre prósperos; os teus juízos estão acima dele, fora da sua vista; quanto a todos os seus adversários, ele os trata com desprezo.
+
+[[v19-10-6]]
+
+^<<v19-10-6,6>>^ Diz em seu coração: Não serei abalado; nunca me verei na adversidade.
+
+[[v19-10-7]]
+
+^<<v19-10-7,7>>^ A sua boca está cheia de imprecações, de enganos e de opressão; debaixo da sua língua há malícia e iniqüidade.
+
+[[v19-10-8]]
+
+^<<v19-10-8,8>>^ Põe-se de emboscada nas aldeias; nos lugares ocultos mata o inocente; os seus olhos estão de espreita ao desamparado.
+
+[[v19-10-9]]
+
+^<<v19-10-9,9>>^ Qual leão no seu covil, está ele de emboscada num lugar oculto; está de emboscada para apanhar o pobre; apanha-o, colhendo-o na sua rede.
+
+[[v19-10-10]]
+
+^<<v19-10-10,10>>^ Abaixa-se, curva-se; assim os desamparados lhe caem nas fortes garras.
+
+[[v19-10-11]]
+
+^<<v19-10-11,11>>^ Diz ele em seu coração: Deus se esqueceu; cobriu o seu rosto; nunca verá isto.
+
+[[v19-10-12]]
+
+^<<v19-10-12,12>>^ Levanta-te, Senhor; ó Deus, levanta a tua mão; não te esqueças dos necessitados.
+
+[[v19-10-13]]
+
+^<<v19-10-13,13>>^ Por que blasfema de Deus o ímpio, dizendo no seu coração: Tu não inquirirás?
+
+[[v19-10-14]]
+
+^<<v19-10-14,14>>^ Tu o viste, porque atentas para o trabalho e enfado, para o tomares na tua mão; a ti o desamparado se entrega; tu és o amparo do órfão.
+
+[[v19-10-15]]
+
+^<<v19-10-15,15>>^ Quebra tu o braço do ímpio e malvado; esquadrinha a sua maldade, até que a descubras de todo.
+
+[[v19-10-16]]
+
+^<<v19-10-16,16>>^ O Senhor é Rei sempre e eternamente; da sua terra perecerão as nações.
+
+[[v19-10-17]]
+
+^<<v19-10-17,17>>^ Tu, Senhor, ouvirás os desejos dos mansos; confortarás o seu coração; inclinarás o teu ouvido,
+
+[[v19-10-18]]
+
+^<<v19-10-18,18>>^ para fazeres justiça ao órfão e ao oprimido, a fim de que o homem, que é da terra, não mais inspire terror.
+
+'''
+
+xref:019-salmos/019-salmos-009.adoc#v19-9-0[&#60; Capítulo Anterior] | <<v19-10-0,Topo>> | xref:019-salmos/019-salmos-011.adoc#v19-11-0[Próximo Capítulo &#62;]

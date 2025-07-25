@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v47-8-0]]
+=== 2 Coríntios, 8
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v47-8-1]]
+
+^<<v47-8-1,1>>^ Também, irmãos, vos fazemos conhecer a graça de Deus que foi dada às igrejas da Macedônia;
+
+[[v47-8-2]]
+
+^<<v47-8-2,2>>^ como, em muita prova de tribulação, a abundância do seu gozo e sua profunda pobreza abundaram em riquezas da sua generosidade.
+
+[[v47-8-3]]
+
+^<<v47-8-3,3>>^ Porque, dou-lhes testemunho de que, segundo as suas posses, e ainda acima das suas posses, deram voluntariamente,
+
+[[v47-8-4]]
+
+^<<v47-8-4,4>>^ pedindo-nos, com muito encarecimento, o privilégio de participarem deste serviço a favor dos santos;
+
+[[v47-8-5]]
+
+^<<v47-8-5,5>>^ e não somente fizeram como nós esperávamos, mas primeiramente a si mesmos se deram ao Senhor, e a nós pela vontade de Deus;
+
+[[v47-8-6]]
+
+^<<v47-8-6,6>>^ de maneira que exortamos a Tito que, assim como antes tinha começado, assim também completasse entre vós ainda esta graça.
+
+[[v47-8-7]]
+
+^<<v47-8-7,7>>^ Ora, assim como abundais em tudo: em fé, em palavra, em ciência, em todo o zelo, no vosso amor para conosco, vede que também nesta graça abundeis.
+
+[[v47-8-8]]
+
+^<<v47-8-8,8>>^ Não digo isto como quem manda, mas para provar, mediante o zelo de outros, a sinceridade de vosso amor;
+
+[[v47-8-9]]
+
+^<<v47-8-9,9>>^ pois conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por amor de vós se fez pobre, para que pela sua pobreza fôsseis enriquecidos.
+
+[[v47-8-10]]
+
+^<<v47-8-10,10>>^ E nisto dou o meu parecer; pois isto vos convém a vós que primeiro começastes, desde o ano passado, não só a participar mas também a querer;
+
+[[v47-8-11]]
+
+^<<v47-8-11,11>>^ agora, pois, levai a termo a obra, para que, assim como houve a prontidão no querer, haja também o cumprir segundo o que tendes.
+
+[[v47-8-12]]
+
+^<<v47-8-12,12>>^ Porque, se há prontidão de vontade, é aceitável segundo o que alguém tem, e não segundo o que não tem.
+
+[[v47-8-13]]
+
+^<<v47-8-13,13>>^ Pois digo isto não para que haja alívio para outros e aperto para vós,
+
+[[v47-8-14]]
+
+^<<v47-8-14,14>>^ mas para que haja igualdade, suprindo, neste tempo presente, na vossa abundância a falta dos outros, para que também a abundância deles venha a suprir a vossa falta, e assim haja igualdade;
+
+[[v47-8-15]]
+
+^<<v47-8-15,15>>^ como está escrito: Ao que muito colheu, não sobrou; e ao que pouco colheu, não faltou.
+
+[[v47-8-16]]
+
+^<<v47-8-16,16>>^ Mas, graças a Deus, que pôs no coração de Tito a mesma solicitude por vós;
+
+[[v47-8-17]]
+
+^<<v47-8-17,17>>^ pois, com efeito, aceitou a nossa exortação; mas sendo sobremodo zeloso, foi por sua própria vontade que partiu para vós.
+
+[[v47-8-18]]
+
+^<<v47-8-18,18>>^ E juntamente com ele enviamos o irmão cujo louvor no evangelho se tem espalhado por todas as igrejas;
+
+[[v47-8-19]]
+
+^<<v47-8-19,19>>^ e não só isto, mas também foi escolhido pelas igrejas para ser nosso companheiro de viagem no tocante a esta graça que por nós é ministrada para glória do Senhor e para provar a nossa boa vontade;
+
+[[v47-8-20]]
+
+^<<v47-8-20,20>>^ assim evitando que alguém nos censure com referência a esta abundância, que por nós é ministrada;
+
+[[v47-8-21]]
+
+^<<v47-8-21,21>>^ pois zelamos o que é honesto, não só diante do Senhor, mas também diante dos homens.
+
+[[v47-8-22]]
+
+^<<v47-8-22,22>>^ Com eles enviamos também outro nosso irmão, o qual muitas vezes e em muitas coisas já experimentamos ser zeloso, mas agora muito mais zeloso ainda pela muita confiança que vós tem.
+
+[[v47-8-23]]
+
+^<<v47-8-23,23>>^ Quanto a Tito, ele é meu companheiro e cooperador para convosco; quanto a nossos irmãos, são mensageiros das igrejas, glória de Cristo.
+
+[[v47-8-24]]
+
+^<<v47-8-24,24>>^ Portanto mostrai para com eles, perante a face das igrejas, a prova do vosso amor, e da nossa glória a vosso respeito.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-007.adoc#v47-7-0[&#60; Capítulo Anterior] | <<v47-8-0,Topo>> | xref:047-2-corintios/047-2-corintios-009.adoc#v47-9-0[Próximo Capítulo &#62;]

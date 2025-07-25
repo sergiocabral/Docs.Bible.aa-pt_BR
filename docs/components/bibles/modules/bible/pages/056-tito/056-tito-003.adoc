@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v56-3-0]]
+=== Tito, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v56-3-1]]
+
+^<<v56-3-1,1>>^ Adverte-lhes que estejam sujeitos aos governadores e autoridades, que sejam obedientes, e estejam preparados para toda boa obra,
+
+[[v56-3-2]]
+
+^<<v56-3-2,2>>^ que a ninguém infamem, nem sejam contenciosos, mas moderados, mostrando toda a mansidão para com todos os homens.
+
+[[v56-3-3]]
+
+^<<v56-3-3,3>>^ Porque também nós éramos outrora insensatos, desobedientes, extraviados, servindo a várias paixões e deleites, vivendo em malícia e inveja odiosos e odiando-nos uns aos outros.
+
+[[v56-3-4]]
+
+^<<v56-3-4,4>>^ Mas quando apareceu a bondade de Deus, nosso Salvador e o seu amor para com os homens,
+
+[[v56-3-5]]
+
+^<<v56-3-5,5>>^ não em virtude de obras de justiça que nós houvéssemos feito, mas segundo a sua misericórdia, nos salvou mediante o lavar da regeneração e renovação pelo Espírito Santo,
+
+[[v56-3-6]]
+
+^<<v56-3-6,6>>^ que ele derramou abundantemente sobre nós por Jesus Cristo, nosso Salvador;
+
+[[v56-3-7]]
+
+^<<v56-3-7,7>>^ para que, sendo justificados pela sua graça, fôssemos feitos herdeiros segundo a esperança da vida eterna.
+
+[[v56-3-8]]
+
+^<<v56-3-8,8>>^ Fiel é esta palavra, e quero que a proclames com firmeza para que os que crêem em Deus procurem aplicar-se às boas obras. Essas coisas são boas e proveitosas aos homens.
+
+[[v56-3-9]]
+
+^<<v56-3-9,9>>^ Mas evita questões tolas, genealogias, contendas e debates acerca da lei; porque são coisas inúteis e vãs.
+
+[[v56-3-10]]
+
+^<<v56-3-10,10>>^ Ao homem faccioso, depois da primeira e segunda admoestação, evita-o,
+
+[[v56-3-11]]
+
+^<<v56-3-11,11>>^ sabendo que esse tal está pervertido, e vive pecando, e já por si mesmo está condenado.
+
+[[v56-3-12]]
+
+^<<v56-3-12,12>>^ Quando te enviar Ártemas, ou Tíquico, apressa-te a vir ter comigo a Nicópolis; porque tenho resolvido invernar ali.
+
+[[v56-3-13]]
+
+^<<v56-3-13,13>>^ Ajuda com empenho a Zenas, doutor da lei, e a Apolo, para que nada lhes falte na sua viagem.
+
+[[v56-3-14]]
+
+^<<v56-3-14,14>>^ Que os nossos também aprendam a aplicar-se às boas obras, para suprir as coisas necessárias, a fim de que não sejam infrutuosos.
+
+[[v56-3-15]]
+
+^<<v56-3-15,15>>^ Saúdam-te todos os que estão comigo. Saúda aqueles que nos amam na fé. A graça seja com todos vós.
+
+'''
+
+xref:056-tito/056-tito-002.adoc#v56-2-0[&#60; Capítulo Anterior] | <<v56-3-0,Topo>> | xref:057-filemom/057-filemom-001.adoc#v57-1-0[Próximo Capítulo &#62;]

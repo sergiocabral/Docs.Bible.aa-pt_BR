@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ Mas isso desagradou extremamente a Jonas, e ele ficou irado.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ E orou ao Senhor, e disse: Ah! Senhor! não foi isso o que eu disse, estando ainda na minha terra? Por isso é que me apressei a fugir para Társis, pois eu sabia que és Deus compassivo e misericordioso, longânimo e grande em benignidade, e que te arrependes do mal.
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Agora, ó Senhor, tira-me a vida, pois melhor me é morrer do que viver.
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ Respondeu o senhor: É razoável essa tua ira?
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Então Jonas saiu da cidade, e sentou-se ao oriente dela; e ali fez para si uma barraca, e se sentou debaixo dela, à sombra, até ver o que aconteceria à cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ E fez o Senhor Deus nascer uma aboboreira, e fê-la crescer por cima de Jonas, para que lhe fizesse sombra sobre a cabeça, a fim de o livrar do seu enfado; de modo que Jonas se alegrou em extremo por causa da aboboreira.
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Mas Deus enviou um bicho, no dia seguinte ao subir da alva, o qual feriu a aboboreira, de sorte que esta se secou.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ E aconteceu que, aparecendo o sol, Deus mandou um vento calmoso oriental; e o sol bateu na cabeça de Jonas, de maneira que ele desmaiou, e desejou com toda a sua alma morrer, dizendo: Melhor me é morrer do que viver.
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Então perguntou Deus a Jonas: É razoável essa tua ira por causa da aboboreira? Respondeu ele: É justo que eu me enfade a ponto de desejar a morte.
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Disse, pois, o Senhor: Tens compaixão da aboboreira, na qual não trabalhaste, nem a fizeste crescer; que numa noite nasceu, e numa noite pereceu.
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ E não hei de eu ter compaixão da grande cidade de Nínive em que há mais de cento e vinte mil pessoas que não sabem discernir entre a sua mão direita e a esquerda, e também muito gado?
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

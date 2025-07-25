@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v10-1-0]]
+=== 2 Samuel, 1
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v10-1-1]]
+
+^<<v10-1-1,1>>^ Depois da morte de Saul, tendo Davi voltado da derrota dos amalequitas e estando há dois dias em Ziclague,
+
+[[v10-1-2]]
+
+^<<v10-1-2,2>>^ ao terceiro dia veio um homem do arraial de Saul, com as vestes rasgadas e a cabeça coberta de terra; e, chegando ele a Davi, prostrou-se em terra e lhe fez reverência.
+
+[[v10-1-3]]
+
+^<<v10-1-3,3>>^ Perguntou-lhe Davi: Donde vens? Ele lhe respondeu: Escapei do arraial de Israel.
+
+[[v10-1-4]]
+
+^<<v10-1-4,4>>^ Davi ainda lhe indagou: Como foi lá isso? Dize-mo. Ao que ele lhe respondeu: O povo fugiu da batalha, e muitos do povo caíram, e morreram; também Saul e Jônatas, seu filho, foram mortos.
+
+[[v10-1-5]]
+
+^<<v10-1-5,5>>^ Perguntou Davi ao mancebo que lhe trazia as novas: Como sabes que Saul e Jônatas, seu filho, são mortos?
+
+[[v10-1-6]]
+
+^<<v10-1-6,6>>^ Então disse o mancebo que lhe dava a notícia: Achava-me por acaso no monte Gilboa, e eis que Saul se encostava sobre a sua lança; os carros e os cavaleiros apertavam com ele.
+
+[[v10-1-7]]
+
+^<<v10-1-7,7>>^ Nisso, olhando ele para trás, viu-me e me chamou; e eu disse: Eis-me aqui.
+
+[[v10-1-8]]
+
+^<<v10-1-8,8>>^ Ao que ele me perguntou: Quem és tu? E eu lhe respondi: Sou amalequita.
+
+[[v10-1-9]]
+
+^<<v10-1-9,9>>^ Então ele me disse: Chega-te a mim, e mata-me, porque uma vertigem se apoderou de mim, e toda a minha vida está ainda em mim.
+
+[[v10-1-10]]
+
+^<<v10-1-10,10>>^ Cheguei-me, pois, a ele, e o matei, porque bem sabia eu que ele não viveria depois de ter caído; e tomei a coroa que ele tinha na cabeça, e o bracelete que trazia no braço, e os trouxe aqui a meu senhor.
+
+[[v10-1-11]]
+
+^<<v10-1-11,11>>^ Então pegou Davi nas suas vestes e as rasgou; e assim fizeram também todos os homens que estavam com ele;
+
+[[v10-1-12]]
+
+^<<v10-1-12,12>>^ e prantearam, e choraram, e jejuaram até a tarde por Saul, e por Jônatas, seu filho, e pelo povo do Senhor, e pela casa de Israel, porque tinham caída à espada.
+
+[[v10-1-13]]
+
+^<<v10-1-13,13>>^ Perguntou então Davi ao mancebo que lhe trouxera a nova: Donde és tu? Respondeu ele: Sou filho de um peregrino amalequita.
+
+[[v10-1-14]]
+
+^<<v10-1-14,14>>^ Davi ainda lhe perguntou: Como não temeste estender a mão para matares o ungido do Senhor?
+
+[[v10-1-15]]
+
+^<<v10-1-15,15>>^ Então Davi, chamando um dos mancebos, disse-lhe: chega-te, e lança-te sobre ele. E o mancebo o feriu, de sorte que morreu.
+
+[[v10-1-16]]
+
+^<<v10-1-16,16>>^ Pois Davi lhe dissera: O teu sangue seja sobre a tua cabeça, porque a tua própria boca testificou contra ti, dizendo: Eu matei o ungido do Senhor.
+
+[[v10-1-17]]
+
+^<<v10-1-17,17>>^ Lamentou Davi a Saul e a Jônatas, seu filho, com esta lamentação,
+
+[[v10-1-18]]
+
+^<<v10-1-18,18>>^ mandando que fosse ensinada aos filhos de Judá; eis que está escrita no livro de Jasar:
+
+[[v10-1-19]]
+
+^<<v10-1-19,19>>^ Tua glória, ó Israel, foi morta sobre os teus altos! Como caíram os valorosos!
+
+[[v10-1-20]]
+
+^<<v10-1-20,20>>^ Não o noticieis em Gate, nem o publiqueis nas ruas de Asquelom; para que não se alegrem as filhas dos filisteus, para que não exultem as filhas dos incircuncisos.
+
+[[v10-1-21]]
+
+^<<v10-1-21,21>>^ Vós, montes de Gilboa, nem orvalho, nem chuva caia sobre, vós, ó campos de morte; pois ali desprezivelmente foi arrojado o escudo dos valorosos, o escudo de Saul, ungido com óleo.
+
+[[v10-1-22]]
+
+^<<v10-1-22,22>>^ Do sangue dos feridos, da gordura dos valorosos, nunca recuou o arco de Jônatas, nem voltou vazia a espada de Saul.
+
+[[v10-1-23]]
+
+^<<v10-1-23,23>>^ Saul e Jônatas, tão queridos e amáveis na sua vida, também na sua morte não se separaram; eram mais ligeiros do que as águias, mais fortes do que os leões.
+
+[[v10-1-24]]
+
+^<<v10-1-24,24>>^ Vós, filhas de Israel, chorai por Saul, que vos vestia deliciosamente de escarlata, que vos punha sobre os vestidos adornos de ouro.
+
+[[v10-1-25]]
+
+^<<v10-1-25,25>>^ Como caíram os valorosos no meio da peleja!
+
+[[v10-1-26]]
+
+^<<v10-1-26,26>>^ Angustiado estou por ti, meu irmão Jônatas; muito querido me eras! Maravilhoso me era o teu amor, ultrapassando o amor de mulheres.
+
+[[v10-1-27]]
+
+^<<v10-1-27,27>>^ Como caíram os valorosos, e pereceram as armas de guerra!
+
+'''
+
+xref:009-1-samuel/009-1-samuel-031.adoc#v9-31-0[&#60; Capítulo Anterior] | <<v10-1-0,Topo>> | xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[Próximo Capítulo &#62;]

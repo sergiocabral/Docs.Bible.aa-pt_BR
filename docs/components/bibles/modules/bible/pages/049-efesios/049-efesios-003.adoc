@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v49-3-0]]
+=== Efésios, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v49-3-1]]
+
+^<<v49-3-1,1>>^ Por esta razão eu, Paulo, o prisioneiro de Cristo Jesus por amor de vós gentios...
+
+[[v49-3-2]]
+
+^<<v49-3-2,2>>^ Se é que tendes ouvido a dispensação da graça de Deus, que para convosco me foi dada;
+
+[[v49-3-3]]
+
+^<<v49-3-3,3>>^ como pela revelação me foi manifestado o mistério, conforme acima em poucas palavras vos escrevi,
+
+[[v49-3-4]]
+
+^<<v49-3-4,4>>^ pelo que, quando ledes, podeis perceber a minha compreensão do mistério de Cristo,
+
+[[v49-3-5]]
+
+^<<v49-3-5,5>>^ o qual em outras gerações não foi manifestado aos filhos dos homens, como se revelou agora no Espírito aos seus santos apóstolos e profetas,
+
+[[v49-3-6]]
+
+^<<v49-3-6,6>>^ a saber, que os gentios são co-herdeiros e membros do mesmo corpo e co-participantes da promessa em Cristo Jesus por meio do evangelho;
+
+[[v49-3-7]]
+
+^<<v49-3-7,7>>^ do qual fui feito ministro, segundo o dom da graça de Deus, que me foi dada conforme a operação do seu poder.
+
+[[v49-3-8]]
+
+^<<v49-3-8,8>>^ A mim, o mínimo de todos os santos, me foi dada esta graça de anunciar aos gentios as riquezas inescrutáveis de Cristo,
+
+[[v49-3-9]]
+
+^<<v49-3-9,9>>^ e demonstrar a todos qual seja a dispensação do mistério que desde os séculos esteve oculto em Deus, que tudo criou,
+
+[[v49-3-10]]
+
+^<<v49-3-10,10>>^ para que agora seja manifestada, por meio da igreja, aos principados e potestades nas regiões celestes,
+
+[[v49-3-11]]
+
+^<<v49-3-11,11>>^ segundo o eterno propósito que fez em Cristo Jesus nosso Senhor,
+
+[[v49-3-12]]
+
+^<<v49-3-12,12>>^ no qual temos ousadia e acesso em confiança, pela nossa fé nele.
+
+[[v49-3-13]]
+
+^<<v49-3-13,13>>^ Portanto vos peço que não desfaleçais diante das minhas tribulações por vós, as quais são a vossa glória.
+
+[[v49-3-14]]
+
+^<<v49-3-14,14>>^ Por esta razão dobro os meus joelhos perante o Pai,
+
+[[v49-3-15]]
+
+^<<v49-3-15,15>>^ do qual toda família nos céus e na terra toma o nome,
+
+[[v49-3-16]]
+
+^<<v49-3-16,16>>^ para que, segundo as riquezas da sua glória, vos conceda que sejais robustecidos com poder pelo seu Espírito no homem interior;
+
+[[v49-3-17]]
+
+^<<v49-3-17,17>>^ que Cristo habite pela fé nos vossos corações, a fim de que, estando arraigados e fundados em amor,
+
+[[v49-3-18]]
+
+^<<v49-3-18,18>>^ possais compreender, com todos os santos, qual seja a largura, e o comprimento, e a altura, e a profundidade,
+
+[[v49-3-19]]
+
+^<<v49-3-19,19>>^ e conhecer o amor de Cristo, que excede todo o entendimento, para que sejais cheios até a inteira plenitude de Deus.
+
+[[v49-3-20]]
+
+^<<v49-3-20,20>>^ Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos, segundo o poder que em nós opera,
+
+[[v49-3-21]]
+
+^<<v49-3-21,21>>^ a esse seja glória na igreja e em Cristo Jesus, por todas as gerações, para todo o sempre. Amém.
+
+'''
+
+xref:049-efesios/049-efesios-002.adoc#v49-2-0[&#60; Capítulo Anterior] | <<v49-3-0,Topo>> | xref:049-efesios/049-efesios-004.adoc#v49-4-0[Próximo Capítulo &#62;]

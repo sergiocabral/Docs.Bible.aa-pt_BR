@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== Cânticos, 1
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ O cântico dos cânticos, que é de Salomão.
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ Beije-me ele com os beijos da sua boca; porque melhor é o seu amor do que o vinho.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ Suave é o cheiro dos teus perfumes; como perfume derramado é o teu nome; por isso as donzelas te amam.
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Leva-me tu; correremos após ti. O rei me introduziu nas suas recâmaras; em ti nos alegraremos e nos regozijaremos; faremos menção do teu amor mais do que do vinho; com razão te amam.
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ Eu sou morena, mas formosa, ó filhas de Jerusalém, como as tendas de Quedar, como as cortinas de Salomão.
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Não repareis em eu ser morena, porque o sol crestou-me a tez; os filhos de minha mãe indignaram-se contra mim, e me puseram por guarda de vinhas; a minha vinha, porém, não guardei.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Dize-me, ó tu, a quem ama a minha alma: Onde apascentas o teu rebanho, onde o fazes deitar pelo meio-dia; pois, por que razão seria eu como a que anda errante pelos rebanhos de teus companheiros?
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ Se não o sabes, ó tu, a mais formosa entre as mulheres, vai seguindo as pisadas das ovelhas, e apascenta os teus cabritos junto às tendas dos pastores.
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ A uma égua dos carros de Faraó eu te comparo, ó amada minha.
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ Formosas são as tuas faces entre as tuas tranças, e formoso o teu pescoço com os colares.
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ Nós te faremos umas tranças de ouro, marchetadas de pontinhos de prata.
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ Enquanto o rei se assentava à sua mesa, dava o meu nardo o seu cheiro.
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ O meu amado é para mim como um saquitel de mirra, que repousa entre os meus seios.
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ O meu amado é para mim como um ramalhete de hena nas vinhas de En-Gedi.
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ Eis que és formosa, ó amada minha, eis que és formosa; os teus olhos são como pombas.
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ Eis que és formoso, ó amado meu, como amável és também; o nosso leito é viçoso.
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ As traves da nossa casa são de cedro, e os caibros de cipreste.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-canticos/022-canticos-002.adoc#v22-2-0[Próximo Capítulo &#62;]

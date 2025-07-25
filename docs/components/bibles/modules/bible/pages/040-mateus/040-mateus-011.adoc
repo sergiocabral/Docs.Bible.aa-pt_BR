@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v40-11-0]]
+=== Mateus, 11
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v40-11-1]]
+
+^<<v40-11-1,1>>^ Tendo acabado Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades da região.
+
+[[v40-11-2]]
+
+^<<v40-11-2,2>>^ Ora, quando João no cárcere ouviu falar das obras do Cristo, mandou pelos seus discípulos perguntar-lhe:
+
+[[v40-11-3]]
+
+^<<v40-11-3,3>>^ És tu aquele que havia de vir, ou havemos de esperar outro?
+
+[[v40-11-4]]
+
+^<<v40-11-4,4>>^ Respondeu-lhes Jesus: Ide contar a João as coisas que ouvis e vedes:
+
+[[v40-11-5]]
+
+^<<v40-11-5,5>>^ os cegos vêem, e os coxos andam; os leprosos são purificados, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o evangelho.
+
+[[v40-11-6]]
+
+^<<v40-11-6,6>>^ E bem-aventurado é aquele que não se escandalizar de mim.
+
+[[v40-11-7]]
+
+^<<v40-11-7,7>>^ Ao partirem eles, começou Jesus a dizer às multidões a respeito de João: que saístes a ver no deserto? um caniço agitado pelo vento?
+
+[[v40-11-8]]
+
+^<<v40-11-8,8>>^ Mas que saístes a ver? um homem trajado de vestes luxuosas? Eis que aqueles que trajam vestes luxuosas estão nas casas dos reis.
+
+[[v40-11-9]]
+
+^<<v40-11-9,9>>^ Mas por que saístes? para ver um profeta? Sim, vos digo, e muito mais do que profeta.
+
+[[v40-11-10]]
+
+^<<v40-11-10,10>>^ Este é aquele de quem está escrito: Eis aí envio eu ante a tua face o meu mensageiro, que há de preparar adiante de ti o teu caminho.
+
+[[v40-11-11]]
+
+^<<v40-11-11,11>>^ Em verdade vos digo que, entre os nascidos de mulher, não surgiu outro maior do que João, o Batista; mas aquele que é o menor no reino dos céus é maior do que ele.
+
+[[v40-11-12]]
+
+^<<v40-11-12,12>>^ E desde os dias de João, o Batista, até agora, o reino dos céus é tomado a força, e os violentos o tomam de assalto.
+
+[[v40-11-13]]
+
+^<<v40-11-13,13>>^ Pois todos os profetas e a lei profetizaram até João.
+
+[[v40-11-14]]
+
+^<<v40-11-14,14>>^ E, se quereis dar crédito, é este o Elias que havia de vir.
+
+[[v40-11-15]]
+
+^<<v40-11-15,15>>^ Quem tem ouvidos, ouça.
+
+[[v40-11-16]]
+
+^<<v40-11-16,16>>^ Mas, a quem compararei esta geração? É semelhante aos meninos que, sentados nas praças, clamam aos seus companheiros:
+
+[[v40-11-17]]
+
+^<<v40-11-17,17>>^ Tocamo-vos flauta, e não dançastes; cantamos lamentações, e não pranteastes.
+
+[[v40-11-18]]
+
+^<<v40-11-18,18>>^ Porquanto veio João, não comendo nem bebendo, e dizem: Tem demônio.
+
+[[v40-11-19]]
+
+^<<v40-11-19,19>>^ Veio o Filho do homem, comendo e bebendo, e dizem: Eis aí um comilão e bebedor de vinho, amigo de publicanos e pecadores. Entretanto a sabedoria é justificada pelas suas obras.
+
+[[v40-11-20]]
+
+^<<v40-11-20,20>>^ Então começou ele a lançar em rosto às cidades onde se operara a maior parte dos seus milagres, o não se haverem arrependido, dizendo:
+
+[[v40-11-21]]
+
+^<<v40-11-21,21>>^ Ai de ti, Corazin! ai de ti, Betsaida! porque, se em Tiro e em Sidom, se tivessem operado os milagres que em vós se operaram, há muito elas se teriam arrependido em cilício e em cinza.
+
+[[v40-11-22]]
+
+^<<v40-11-22,22>>^ Contudo, eu vos digo que para Tiro e Sidom haverá menos rigor, no dia do juízo, do que para vós.
+
+[[v40-11-23]]
+
+^<<v40-11-23,23>>^ E tu, Cafarnaum, porventura serás elevada até o céu? até o inferno descerás; porque, se em Sodoma se tivessem operado os milagres que em ti se operaram, teria ela permanecido até hoje.
+
+[[v40-11-24]]
+
+^<<v40-11-24,24>>^ Contudo, eu vos digo que no dia do juízo haverá menos rigor para a terra de Sodoma do que para ti.
+
+[[v40-11-25]]
+
+^<<v40-11-25,25>>^ Naquele tempo falou Jesus, dizendo: Graças te dou, ó Pai, Senhor do céu e da terra, porque ocultaste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos.
+
+[[v40-11-26]]
+
+^<<v40-11-26,26>>^ Sim, ó Pai, porque assim foi do teu agrado.
+
+[[v40-11-27]]
+
+^<<v40-11-27,27>>^ Todas as coisas me foram entregues por meu Pai; e ninguém conhece plenamente o Filho, senão o Pai; e ninguém conhece plenamente o Pai, senão o Filho, e aquele a quem o Filho o quiser revelar.
+
+[[v40-11-28]]
+
+^<<v40-11-28,28>>^ Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei.
+
+[[v40-11-29]]
+
+^<<v40-11-29,29>>^ Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para as vossas almas.
+
+[[v40-11-30]]
+
+^<<v40-11-30,30>>^ Porque o meu jugo é suave, e o meu fardo e leve.
+
+'''
+
+xref:040-mateus/040-mateus-010.adoc#v40-10-0[&#60; Capítulo Anterior] | <<v40-11-0,Topo>> | xref:040-mateus/040-mateus-012.adoc#v40-12-0[Próximo Capítulo &#62;]

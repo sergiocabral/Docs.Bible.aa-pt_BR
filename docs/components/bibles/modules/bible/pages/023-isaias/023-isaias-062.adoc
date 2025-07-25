@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-62-0]]
+=== Isaías, 62
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v23-62-1]]
+
+^<<v23-62-1,1>>^ Por amor de Sião não me calarei, e por amor de Jerusalém não descansarei, até que saia a sua justiça como um resplendor, e a sua salvação como uma tocha acesa.
+
+[[v23-62-2]]
+
+^<<v23-62-2,2>>^ E as nações verão a tua justiça, e todos os reis a tua glória; e chamar-te-ão por um nome novo, que a boca do Senhor designará.
+
+[[v23-62-3]]
+
+^<<v23-62-3,3>>^ Também serás uma coroa de adorno na mão do Senhor, e um diadema real na mão do teu Deus.
+
+[[v23-62-4]]
+
+^<<v23-62-4,4>>^ Nunca mais te chamarão: Desamparada, nem a tua terra se denominará Desolada; mas chamar-te-ão Hefzibá, e à tua terra Beulá; porque o Senhor se agrada de ti; e a tua terra se casará.
+
+[[v23-62-5]]
+
+^<<v23-62-5,5>>^ Pois como o mancebo se casa com a donzela, assim teus filhos se casarão contigo; e, como o noivo se alegra da noiva, assim se alegrará de ti o teu Deus
+
+[[v23-62-6]]
+
+^<<v23-62-6,6>>^ e Jerusalém, sobre os teus muros pus atalaias, que não se calarão nem de dia, nem de noite; ó vós, os que fazeis lembrar ao Senhor, não descanseis,
+
+[[v23-62-7]]
+
+^<<v23-62-7,7>>^ e não lhe deis a ele descanso até que estabeleça Jerusalém e a ponha por objeto de louvor na terra.
+
+[[v23-62-8]]
+
+^<<v23-62-8,8>>^ Jurou o Senhor pela sua mão direita, e pelo braço da sua força: Nunca mais darei de comer o teu trigo aos teus inimigos, nem os estrangeiros beberão o teu mosto, em que trabalhaste.
+
+[[v23-62-9]]
+
+^<<v23-62-9,9>>^ Mas os que o ajuntarem o comerão, e louvarão ao Senhor; e os que o colherem o beberão nos átrios do meu santuário.
+
+[[v23-62-10]]
+
+^<<v23-62-10,10>>^ Passai, passai pelas portas; preparai o caminho ao povo; aplanai, aplanai a estrada, limpai-a das pedras; arvorai a bandeira aos povos.
+
+[[v23-62-11]]
+
+^<<v23-62-11,11>>^ Eis que o Senhor proclamou até as extremidades da terra: Dizei à filha de Sião: Eis que vem o teu Salvador; eis que com ele vem o seu galardão, e a sua recompensa diante dele.
+
+[[v23-62-12]]
+
+^<<v23-62-12,12>>^ E chamar-lhes-ão: Povo santo, remidos do Senhor; e tu serás chamada Procurada, cidade não desamparada.
+
+'''
+
+xref:023-isaias/023-isaias-061.adoc#v23-61-0[&#60; Capítulo Anterior] | <<v23-62-0,Topo>> | xref:023-isaias/023-isaias-063.adoc#v23-63-0[Próximo Capítulo &#62;]

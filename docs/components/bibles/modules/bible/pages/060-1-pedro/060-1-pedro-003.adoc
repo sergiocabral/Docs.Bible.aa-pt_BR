@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v60-3-0]]
+=== 1 Pedro, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v60-3-1]]
+
+^<<v60-3-1,1>>^ Semelhantemente vós, mulheres, sede submissas a vossos maridos; para que também, se alguns deles não obedecem à palavra, sejam ganhos sem palavra pelo procedimento de suas mulheres,
+
+[[v60-3-2]]
+
+^<<v60-3-2,2>>^ considerando o vosso procedimento casto e com temor.
+
+[[v60-3-3]]
+
+^<<v60-3-3,3>>^ Não seja o seu adorno o enfeite exterior dos cabelos entrançados, das guarnições de renda de ouro ou da compostura dos vestidos,
+
+[[v60-3-4]]
+
+^<<v60-3-4,4>>^ mas seja o homem que está escondido no coração, no vestido incorruptível de um espírito manso e tranqüilo, que é de grande estima diante de Deus.
+
+[[v60-3-5]]
+
+^<<v60-3-5,5>>^ Pois assim se adornavam também noutro tempo as santas mulheres que esperavam em Deus, estando sujeitas a seus maridos,
+
+[[v60-3-6]]
+
+^<<v60-3-6,6>>^ como Sara obedeceu a Abraão, chamando-lhe senhor, da qual vos tornais filhas, se fazeis o bem e não temeis perturbação alguma.
+
+[[v60-3-7]]
+
+^<<v60-3-7,7>>^ Igualmente vós, maridos, vivei com elas segundo a ciência, como sendo vaso mulheril mais fraco, dando-lhes honra como a herdeiras juntamente convosco da graça da vida, para que as vossas orações não sejam impedidas.
+
+[[v60-3-8]]
+
+^<<v60-3-8,8>>^ Finalmente, sede todos de um mesmo sentimento, compassivos, cheios de amor fraternal, misericordiosos, humildes,
+
+[[v60-3-9]]
+
+^<<v60-3-9,9>>^ não retribuindo mal por mal, nem injúria por injúria; mas, pelo contrário, bendizendo, porque para isto fostes chamados, a fim de que recebais bênção por herança.
+
+[[v60-3-10]]
+
+^<<v60-3-10,10>>^ Pois: Quem quer amar a vida E ver os dias bons, Refreie a sua língua do mal E os seus lábios não falem engano,
+
+[[v60-3-11]]
+
+^<<v60-3-11,11>>^ Aparte-se do mal, e faça o bem, Busque a paz e vá após dela;
+
+[[v60-3-12]]
+
+^<<v60-3-12,12>>^ Porque os olhos do Senhor estão sobre os justos E os seus ouvidos atentos às súplicas deles, Mas o rosto do Senhor está sobre os que fazem o mal.
+
+[[v60-3-13]]
+
+^<<v60-3-13,13>>^ Quem é o que vos fará mal, se fordes zelosos do bem?
+
+[[v60-3-14]]
+
+^<<v60-3-14,14>>^ Mas também, se padecerdes por amor da justiça, bem-aventurados sereis; e não temais as suas ameaças, nem vos turbeis;
+
+[[v60-3-15]]
+
+^<<v60-3-15,15>>^ antes santificai em vossos corações a Cristo como Senhor; e estai sempre preparados para responder com mansidão e temor a todo aquele que vos pedir a razão da esperança que há em vós;
+
+[[v60-3-16]]
+
+^<<v60-3-16,16>>^ tendo uma boa consciência, para que, naquilo em que falam mal de vós, fiquem confundidos os que vituperam o vosso bom procedimento em Cristo.
+
+[[v60-3-17]]
+
+^<<v60-3-17,17>>^ Porque melhor é sofrerdes fazendo o bem, se a vontade de Deus assim o quer, do que fazendo o mal.
+
+[[v60-3-18]]
+
+^<<v60-3-18,18>>^ Porque também Cristo morreu uma só vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; sendo, na verdade, morto na carne, mas vivificado no espírito;
+
+[[v60-3-19]]
+
+^<<v60-3-19,19>>^ no qual também foi, e pregou aos espíritos em prisão;
+
+[[v60-3-20]]
+
+^<<v60-3-20,20>>^ os quais noutro tempo foram rebeldes, quando a longanimidade de Deus esperava, nos dias de Noé, enquanto se preparava a arca; na qual poucas, isto é, oito almas se salvaram através da água,
+
+[[v60-3-21]]
+
+^<<v60-3-21,21>>^ que também agora, por uma verdadeira figura-o batismo, vos salva, o qual não é o despojamento da imundícia da carne, mas a indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo,
+
+[[v60-3-22]]
+
+^<<v60-3-22,22>>^ que está à destra de Deus, tendo subido ao céu; havendo-se-lhe sujeitado os anjos, e as autoridades, e as potestades.
+
+'''
+
+xref:060-1-pedro/060-1-pedro-002.adoc#v60-2-0[&#60; Capítulo Anterior] | <<v60-3-0,Topo>> | xref:060-1-pedro/060-1-pedro-004.adoc#v60-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v49-5-0]]
+=== Efésios, 5
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v49-5-1]]
+
+^<<v49-5-1,1>>^ Sede pois imitadores de Deus, como filhos amados;
+
+[[v49-5-2]]
+
+^<<v49-5-2,2>>^ e andai em amor, como Cristo também vos amou, e se entregou a si mesmo por nós, como oferta e sacrifício a Deus, em cheiro suave.
+
+[[v49-5-3]]
+
+^<<v49-5-3,3>>^ Mas a prostituição, e toda sorte de impureza ou cobiça, nem sequer se nomeie entre vós, como convém a santos,
+
+[[v49-5-4]]
+
+^<<v49-5-4,4>>^ nem baixeza, nem conversa tola, nem gracejos indecentes, coisas essas que não convêm; mas antes ações de graças.
+
+[[v49-5-5]]
+
+^<<v49-5-5,5>>^ Porque bem sabeis isto: que nenhum devasso, ou impuro, ou avarento, o qual é idólatra, tem herança no reino de Cristo e de Deus.
+
+[[v49-5-6]]
+
+^<<v49-5-6,6>>^ Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência.
+
+[[v49-5-7]]
+
+^<<v49-5-7,7>>^ Portanto não sejais participantes com eles;
+
+[[v49-5-8]]
+
+^<<v49-5-8,8>>^ pois outrora éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz
+
+[[v49-5-9]]
+
+^<<v49-5-9,9>>^ &#123;pois o fruto da luz está em toda a bondade, e justiça e verdade&#125;,
+
+[[v49-5-10]]
+
+^<<v49-5-10,10>>^ provando o que é agradável ao Senhor;
+
+[[v49-5-11]]
+
+^<<v49-5-11,11>>^ e não vos associeis às obras infrutuosas das trevas, antes, porém, condenai-as;
+
+[[v49-5-12]]
+
+^<<v49-5-12,12>>^ porque as coisas feitas por eles em oculto, até o dizê-las é vergonhoso.
+
+[[v49-5-13]]
+
+^<<v49-5-13,13>>^ Mas todas estas coisas, sendo condenadas, se manifestam pela luz, pois tudo o que se manifesta é luz.
+
+[[v49-5-14]]
+
+^<<v49-5-14,14>>^ Pelo que diz: Desperta, tu que dormes, e levanta-te dentre os mortos, e Cristo te iluminará.
+
+[[v49-5-15]]
+
+^<<v49-5-15,15>>^ Portanto, vede diligentemente como andais, não como néscios, mas como sábios,
+
+[[v49-5-16]]
+
+^<<v49-5-16,16>>^ usando bem cada oportunidade, porquanto os dias são maus.
+
+[[v49-5-17]]
+
+^<<v49-5-17,17>>^ Por isso, não sejais insensatos, mas entendei qual seja a vontade do Senhor.
+
+[[v49-5-18]]
+
+^<<v49-5-18,18>>^ E não vos embriagueis com vinho, no qual há devassidão, mas enchei-vos do Espírito,
+
+[[v49-5-19]]
+
+^<<v49-5-19,19>>^ falando entre vós em salmos, hinos, e cânticos espirituais, cantando e salmodiando ao Senhor no vosso coração,
+
+[[v49-5-20]]
+
+^<<v49-5-20,20>>^ sempre dando graças por tudo a Deus, o Pai, em nome de nosso Senhor Jesus Cristo,
+
+[[v49-5-21]]
+
+^<<v49-5-21,21>>^ sujeitando-vos uns aos outros no temor de Cristo.
+
+[[v49-5-22]]
+
+^<<v49-5-22,22>>^ Vós, mulheres, submetei-vos a vossos maridos, como ao Senhor;
+
+[[v49-5-23]]
+
+^<<v49-5-23,23>>^ porque o marido é a cabeça da mulher, como também Cristo é a cabeça da igreja, sendo ele próprio o Salvador do corpo.
+
+[[v49-5-24]]
+
+^<<v49-5-24,24>>^ Mas, assim como a igreja está sujeita a Cristo, assim também as mulheres o sejam em tudo a seus maridos.
+
+[[v49-5-25]]
+
+^<<v49-5-25,25>>^ Vós, maridos, amai a vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela,
+
+[[v49-5-26]]
+
+^<<v49-5-26,26>>^ a fim de a santificar, tendo-a purificado com a lavagem da água, pela palavra,
+
+[[v49-5-27]]
+
+^<<v49-5-27,27>>^ para apresentá-la a si mesmo igreja gloriosa, sem mácula, nem ruga, nem qualquer coisa semelhante, mas santa e irrepreensível.
+
+[[v49-5-28]]
+
+^<<v49-5-28,28>>^ Assim devem os maridos amar a suas próprias mulheres, como a seus próprios corpos. Quem ama a sua mulher, ama-se a si mesmo.
+
+[[v49-5-29]]
+
+^<<v49-5-29,29>>^ Pois nunca ninguém aborreceu a sua própria carne, antes a nutre e preza, como também Cristo à igreja;
+
+[[v49-5-30]]
+
+^<<v49-5-30,30>>^ porque somos membros do seu corpo.
+
+[[v49-5-31]]
+
+^<<v49-5-31,31>>^ Por isso deixará o homem a seu pai e a sua mãe, e se unirá à sua mulher, e serão os dois uma só carne.
+
+[[v49-5-32]]
+
+^<<v49-5-32,32>>^ Grande é este mistério, mas eu falo em referência a Cristo e à igreja.
+
+[[v49-5-33]]
+
+^<<v49-5-33,33>>^ Todavia também vós, cada um de per si, assim ame a sua própria mulher como a si mesmo, e a mulher reverencie a seu marido.
+
+'''
+
+xref:049-efesios/049-efesios-004.adoc#v49-4-0[&#60; Capítulo Anterior] | <<v49-5-0,Topo>> | xref:049-efesios/049-efesios-006.adoc#v49-6-0[Próximo Capítulo &#62;]

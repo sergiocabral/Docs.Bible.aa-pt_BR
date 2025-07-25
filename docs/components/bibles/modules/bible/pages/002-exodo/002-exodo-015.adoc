@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v2-15-0]]
+=== Êxodo, 15
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v2-15-1]]
+
+^<<v2-15-1,1>>^ Então cantaram Moisés e os filhos de Israel este cântico ao Senhor, dizendo: Cantarei ao Senhor, porque gloriosamente triunfou; lançou no mar o cavalo e o seu cavaleiro.
+
+[[v2-15-2]]
+
+^<<v2-15-2,2>>^ O Senhor é a minha força, e o meu cântico; ele se tem tornado a minha salvação; é ele o meu Deus, portanto o louvarei; é o Deus de meu pai, por isso o exaltarei.
+
+[[v2-15-3]]
+
+^<<v2-15-3,3>>^ O Senhor é homem de guerra; Jeová é o seu nome.
+
+[[v2-15-4]]
+
+^<<v2-15-4,4>>^ Lançou no mar os carros de Faraó e o seu exército; os seus escolhidos capitães foram submersos no Mar Vermelho.
+
+[[v2-15-5]]
+
+^<<v2-15-5,5>>^ Os abismos os cobriram; desceram às profundezas como pedra.
+
+[[v2-15-6]]
+
+^<<v2-15-6,6>>^ A tua destra, ó Senhor, é gloriosa em poder; a tua destra, ó Senhor, destroça o inimigo.
+
+[[v2-15-7]]
+
+^<<v2-15-7,7>>^ Na grandeza da tua excelência derrubas os que se levantam contra ti; envias o teu furor, que os devora como restolho.
+
+[[v2-15-8]]
+
+^<<v2-15-8,8>>^ Ao sopro dos teus narizes amontoaram-se as águas, as correntes pararam como montão; os abismos coalharam-se no coração do mar.
+
+[[v2-15-9]]
+
+^<<v2-15-9,9>>^ O inimigo dizia: Perseguirei, alcançarei, repartirei os despojos; deles se satisfará o meu desejo; arrancarei a minha espada, a minha mão os destruirá.
+
+[[v2-15-10]]
+
+^<<v2-15-10,10>>^ Sopraste com o teu vento, e o mar os cobriu; afundaram-se como chumbo em grandes águas.
+
+[[v2-15-11]]
+
+^<<v2-15-11,11>>^ Quem entre os deuses é como tu, ó Senhor? a quem é como tu poderoso em santidade, admirável em louvores, operando maravilhas?
+
+[[v2-15-12]]
+
+^<<v2-15-12,12>>^ Estendeste a mão direita, e a terra os tragou.
+
+[[v2-15-13]]
+
+^<<v2-15-13,13>>^ Na tua beneficência guiaste o povo que remiste; na tua força o conduziste à tua santa habitação.
+
+[[v2-15-14]]
+
+^<<v2-15-14,14>>^ Os povos ouviram e estremeceram; dores apoderaram-se dos a habitantes da Filístia.
+
+[[v2-15-15]]
+
+^<<v2-15-15,15>>^ Então os príncipes de Edom se pasmaram; dos poderosos de Moabe apoderou-se um tremor; derreteram-se todos os habitantes de Canaã.
+
+[[v2-15-16]]
+
+^<<v2-15-16,16>>^ Sobre eles caiu medo, e pavor; pela grandeza do teu braço emudeceram como uma pedra, até que o teu povo passasse, ó Senhor, até que passasse este povo que adquiriste.
+
+[[v2-15-17]]
+
+^<<v2-15-17,17>>^ Tu os introduzirás, e os plantarás no monte da tua herança, no lugar que tu, ó Senhor, aparelhaste para a tua habitação, no santuário, ó Senhor, que as tuas mãos estabeleceram.
+
+[[v2-15-18]]
+
+^<<v2-15-18,18>>^ O Senhor reinará eterna e perpetuamente.
+
+[[v2-15-19]]
+
+^<<v2-15-19,19>>^ Porque os cavalos de Faraó, com os seus carros e com os seus cavaleiros, entraram no mar, e o Senhor fez tornar as águas do mar sobre eles, mas os filhos de Israel passaram em seco pelo meio do mar.
+
+[[v2-15-20]]
+
+^<<v2-15-20,20>>^ Então Miriã, a profetisa, irmã de Arão, tomou na mão um tamboril, e todas as mulheres saíram atrás dela com tamboris, e com danças.
+
+[[v2-15-21]]
+
+^<<v2-15-21,21>>^ E Miriã lhes respondia: Cantai ao Senhor, porque gloriosamente triunfou; lançou no mar o cavalo com o seu cavaleiro.
+
+[[v2-15-22]]
+
+^<<v2-15-22,22>>^ Depois Moisés fez partir a Israel do Mar Vermelho, e saíram para o deserto de Sur; caminharam três dias no deserto, e não acharam água.
+
+[[v2-15-23]]
+
+^<<v2-15-23,23>>^ E chegaram a Mara, mas não podiam beber das suas águas, porque eram amargas; por isso chamou-se o lugar Mara.
+
+[[v2-15-24]]
+
+^<<v2-15-24,24>>^ E o povo murmurou contra Moisés, dizendo: Que havemos de beber?
+
+[[v2-15-25]]
+
+^<<v2-15-25,25>>^ Então clamou Moisés ao Senhor, e o Senhor mostrou-lhe uma árvore, e Moisés lançou-a nas águas, as quais se tornaram doces. Ali Deus lhes deu um estatuto e uma ordenança, e ali os provou,
+
+[[v2-15-26]]
+
+^<<v2-15-26,26>>^ dizendo: Se ouvires atentamente a voz do Senhor teu Deus, e fizeres o que é reto diante de seus olhos, e inclinares os ouvidos aos seus mandamentos, e guardares todos os seus estatutos, sobre ti não enviarei nenhuma das enfermidades que enviei sobre os egípcios; porque eu sou o Senhor que te sara.
+
+[[v2-15-27]]
+
+^<<v2-15-27,27>>^ Então vieram a Elim, onde havia doze fontes de água e setenta palmeiras; e ali, junto das águas, acamparam.
+
+'''
+
+xref:002-exodo/002-exodo-014.adoc#v2-14-0[&#60; Capítulo Anterior] | <<v2-15-0,Topo>> | xref:002-exodo/002-exodo-016.adoc#v2-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v40-20-0]]
+=== Mateus, 20
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v40-20-1]]
+
+^<<v40-20-1,1>>^ Porque o reino dos céus é semelhante a um homem, proprietário, que saiu de madrugada a contratar trabalhadores para a sua vinha.
+
+[[v40-20-2]]
+
+^<<v40-20-2,2>>^ Ajustou com os trabalhadores o salário de um denário por dia, e mandou-os para a sua vinha.
+
+[[v40-20-3]]
+
+^<<v40-20-3,3>>^ Cerca da hora terceira saiu, e viu que estavam outros, ociosos, na praça,
+
+[[v40-20-4]]
+
+^<<v40-20-4,4>>^ e disse-lhes: Ide também vós para a vinha, e dar-vos-ei o que for justo. E eles foram.
+
+[[v40-20-5]]
+
+^<<v40-20-5,5>>^ Outra vez saiu, cerca da hora sexta e da nona, e fez o mesmo.
+
+[[v40-20-6]]
+
+^<<v40-20-6,6>>^ Responderam-lhe eles: Porque ninguém nos contratou. Disse-lhes ele: Ide também vós para a vinha.
+
+[[v40-20-7]]
+
+^<<v40-20-7,7>>^ Responderam-lhe eles: Porque ninguém nos contratou. Disse-lhes ele: Ide também vós para a vinha.
+
+[[v40-20-8]]
+
+^<<v40-20-8,8>>^ Ao anoitecer, disse o senhor da vinha ao seu mordomo: Chama os trabalhadores, e paga-lhes o salário, começando pelos últimos até os primeiros.
+
+[[v40-20-9]]
+
+^<<v40-20-9,9>>^ Chegando, pois, os que tinham ido cerca da hora undécima, receberam um denário cada um.
+
+[[v40-20-10]]
+
+^<<v40-20-10,10>>^ Vindo, então, os primeiros, pensaram que haviam de receber mais; mas do mesmo modo receberam um denário cada um.
+
+[[v40-20-11]]
+
+^<<v40-20-11,11>>^ E ao recebê-lo, murmuravam contra o proprietário, dizendo:
+
+[[v40-20-12]]
+
+^<<v40-20-12,12>>^ Estes últimos trabalharam somente uma hora, e os igualastes a nós, que suportamos a fadiga do dia inteiro e o forte calor.
+
+[[v40-20-13]]
+
+^<<v40-20-13,13>>^ Mas ele, respondendo, disse a um deles: Amigo, não te faço injustiça; não ajustaste comigo um denário?
+
+[[v40-20-14]]
+
+^<<v40-20-14,14>>^ Toma o que é teu, e vai-te; eu quero dar a este último tanto como a ti.
+
+[[v40-20-15]]
+
+^<<v40-20-15,15>>^ Não me é lícito fazer o que quero do que é meu? Ou é mau o teu olho porque eu sou bom?
+
+[[v40-20-16]]
+
+^<<v40-20-16,16>>^ Assim os últimos serão primeiros, e os primeiros serão últimos.
+
+[[v40-20-17]]
+
+^<<v40-20-17,17>>^ Estando Jesus para subir a Jerusalém, chamou à parte os doze e no caminho lhes disse:
+
+[[v40-20-18]]
+
+^<<v40-20-18,18>>^ Eis que subimos a Jerusalém, e o Filho do homem será entregue aos principais sacerdotes e aos escribas, e eles o condenarão à morte,
+
+[[v40-20-19]]
+
+^<<v40-20-19,19>>^ e o entregarão aos gentios para que dele escarneçam, e o açoitem e crucifiquem; e ao terceiro dia ressuscitará.
+
+[[v40-20-20]]
+
+^<<v40-20-20,20>>^ Aproximou-se dele, então, a mãe dos filhos de Zebedeu, com seus filhos, ajoelhando-se e fazendo-lhe um pedido.
+
+[[v40-20-21]]
+
+^<<v40-20-21,21>>^ Perguntou-lhe Jesus: Que queres? Ela lhe respondeu: Concede que estes meus dois filhos se sentem, um à tua direita e outro à tua esquerda, no teu reino.
+
+[[v40-20-22]]
+
+^<<v40-20-22,22>>^ Jesus, porém, replicou: Não sabeis o que pedis; podeis beber o cálice que eu estou para beber? Responderam-lhe: Podemos.
+
+[[v40-20-23]]
+
+^<<v40-20-23,23>>^ Então lhes disse: O meu cálice certamente haveis de beber; mas o sentar-se à minha direita e à minha esquerda, não me pertence concedê-lo; mas isso é para aqueles para quem está preparado por meu Pai.
+
+[[v40-20-24]]
+
+^<<v40-20-24,24>>^ E ouvindo isso os dez, indignaram-se contra os dois irmãos.
+
+[[v40-20-25]]
+
+^<<v40-20-25,25>>^ Jesus, pois, chamou-os para junto de si e lhes disse: Sabeis que os governadores dos gentios os dominam, e os seus grandes exercem autoridades sobre eles.
+
+[[v40-20-26]]
+
+^<<v40-20-26,26>>^ Não será assim entre vós; antes, qualquer que entre vós quiser tornar-se grande, será esse o que vos sirva;
+
+[[v40-20-27]]
+
+^<<v40-20-27,27>>^ e qualquer que entre vós quiser ser o primeiro, será vosso servo;
+
+[[v40-20-28]]
+
+^<<v40-20-28,28>>^ assim como o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate de muitos.
+
+[[v40-20-29]]
+
+^<<v40-20-29,29>>^ Saindo eles de Jericó, seguiu-o uma grande multidão;
+
+[[v40-20-30]]
+
+^<<v40-20-30,30>>^ e eis que dois cegos, sentados junto do caminho, ouvindo que Jesus passava, clamaram, dizendo: Senhor, Filho de Davi, tem compaixão de nós.
+
+[[v40-20-31]]
+
+^<<v40-20-31,31>>^ E a multidão os repreendeu, para que se calassem; eles, porém, clamaram ainda mais alto, dizendo: Senhor, Filho de Davi, tem compaixão de nós.
+
+[[v40-20-32]]
+
+^<<v40-20-32,32>>^ E Jesus, parando, chamou-os e perguntou: Que quereis que vos faça?
+
+[[v40-20-33]]
+
+^<<v40-20-33,33>>^ Disseram-lhe eles: Senhor, que se nos abram os olhos.
+
+[[v40-20-34]]
+
+^<<v40-20-34,34>>^ E Jesus, movido de compaixão, tocou-lhes os olhos, e imediatamente recuperaram a vista, e o seguiram.
+
+'''
+
+xref:040-mateus/040-mateus-019.adoc#v40-19-0[&#60; Capítulo Anterior] | <<v40-20-0,Topo>> | xref:040-mateus/040-mateus-021.adoc#v40-21-0[Próximo Capítulo &#62;]

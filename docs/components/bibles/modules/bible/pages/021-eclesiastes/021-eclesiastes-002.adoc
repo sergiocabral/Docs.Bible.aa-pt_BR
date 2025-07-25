@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v21-2-0]]
+=== Eclesiastes, 2
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v21-2-1]]
+
+^<<v21-2-1,1>>^ Disse eu a mim mesmo: Ora vem, eu te provarei com a alegria; portanto goza o prazer; mas eis que também isso era vaidade.
+
+[[v21-2-2]]
+
+^<<v21-2-2,2>>^ Do riso disse: Está doido; e da alegria: De que serve estar.
+
+[[v21-2-3]]
+
+^<<v21-2-3,3>>^ Busquei no meu coração como estimular com vinho a minha carne, sem deixar de me guiar pela sabedoria, e como me apoderar da estultícia, até ver o que era bom que os filhos dos homens fizessem debaixo do céu, durante o número dos dias de sua vida.
+
+[[v21-2-4]]
+
+^<<v21-2-4,4>>^ Fiz para mim obras magníficas: edifiquei casas, plantei vinhas;
+
+[[v21-2-5]]
+
+^<<v21-2-5,5>>^ fiz hortas e jardins, e plantei neles árvores frutíferas de todas as espécies.
+
+[[v21-2-6]]
+
+^<<v21-2-6,6>>^ Fiz tanques de águas, para deles regar o bosque em que reverdeciam as árvores.
+
+[[v21-2-7]]
+
+^<<v21-2-7,7>>^ Comprei servos e servas, e tive servos nascidos em casa; também tive grandes possessões de gados e de rebanhos, mais do que todos os que houve antes de mim em Jerusalém.
+
+[[v21-2-8]]
+
+^<<v21-2-8,8>>^ Ajuntei também para mim prata e ouro, e tesouros dos reis e das províncias; provi-me de cantores e cantoras, e das delícias dos filhos dos homens, concubinas em grande número.
+
+[[v21-2-9]]
+
+^<<v21-2-9,9>>^ Assim me engrandeci, e me tornei mais rico do que todos os que houve antes de mim em Jerusalém; perseverou também comigo a minha sabedoria.
+
+[[v21-2-10]]
+
+^<<v21-2-10,10>>^ E tudo quanto desejaram os meus olhos não lho neguei, nem privei o meu coração de alegria alguma; pois o meu coração se alegrou por todo o meu trabalho, e isso foi o meu proveito de todo o meu trabalho.
+
+[[v21-2-11]]
+
+^<<v21-2-11,11>>^ Então olhei eu para todas as obras que as minhas mãos haviam feito, como também para o trabalho que eu aplicara em fazê-las; e eis que tudo era vaidade e desejo vão, e proveito nenhum havia debaixo do sol.
+
+[[v21-2-12]]
+
+^<<v21-2-12,12>>^ Virei-me para contemplar a sabedoria, e a loucura, e a estultícia; pois que fará o homem que seguir ao rei? O mesmo que já se fez!
+
+[[v21-2-13]]
+
+^<<v21-2-13,13>>^ Então vi eu que a sabedoria é mais excelente do que a estultícia, quanto a luz é mais excelente do que as trevas.
+
+[[v21-2-14]]
+
+^<<v21-2-14,14>>^ Os olhos do sábio estão na sua cabeça, mas o louco anda em trevas; contudo percebi que a mesma coisa lhes sucede a ambos.
+
+[[v21-2-15]]
+
+^<<v21-2-15,15>>^ Pelo que eu disse no meu coração: Como acontece ao estulto, assim me sucederá a mim; por que então busquei eu mais a sabedoria; Então respondi a mim mesmo que também isso era vaidade.
+
+[[v21-2-16]]
+
+^<<v21-2-16,16>>^ Pois do sábio, bem como do estulto, a memória não durará para sempre; porquanto de tudo, nos dias futuros, total esquecimento haverá. E como morre o sábio, assim morre o estulto!
+
+[[v21-2-17]]
+
+^<<v21-2-17,17>>^ Pelo que aborreci a vida, porque a obra que se faz debaixo do sol me era penosa; sim, tudo é vaidade e desejo vão.
+
+[[v21-2-18]]
+
+^<<v21-2-18,18>>^ Também eu aborreci todo o meu trabalho em que me afadigara debaixo do sol, visto que tenho de deixá-lo ao homem que virá depois de mim.
+
+[[v21-2-19]]
+
+^<<v21-2-19,19>>^ E quem sabe se será sábio ou estulto? Contudo, ele se assenhoreará de todo o meu trabalho em que me afadiguei, e em que me houve sabiamente debaixo do sol; também isso é vaidade.
+
+[[v21-2-20]]
+
+^<<v21-2-20,20>>^ Pelo que eu me volvi e entreguei o meu coração ao desespero no tocante a todo o trabalho em que me afadigara debaixo do sol.
+
+[[v21-2-21]]
+
+^<<v21-2-21,21>>^ Porque há homem cujo trabalho é feito com sabedoria, e ciência, e destreza; contudo, deixará o fruto do seu labor para ser porção de quem não trabalhou nele; também isso é vaidade e um grande mal.
+
+[[v21-2-22]]
+
+^<<v21-2-22,22>>^ Pois, que alcança o homem com todo o seu trabalho e com a fadiga em que ele anda trabalhando debaixo do sol?
+
+[[v21-2-23]]
+
+^<<v21-2-23,23>>^ Porque todos os seus dias são dores, e o seu trabalho é vexação; nem de noite o seu coração descansa. Também isso é vaidade.
+
+[[v21-2-24]]
+
+^<<v21-2-24,24>>^ Não há nada melhor para o homem do que comer e beber, e fazer que a sua alma goze do bem do seu trabalho. Vi que também isso vem da mão de Deus.
+
+[[v21-2-25]]
+
+^<<v21-2-25,25>>^ Pois quem pode comer, ou quem pode gozar. melhor do que eu?
+
+[[v21-2-26]]
+
+^<<v21-2-26,26>>^ Porque ao homem que lhe agrada, Deus dá sabedoria, e conhecimento, e alegria; mas ao pecador dá trabalho, para que ele ajunte e amontoe, a fim de dá-lo àquele que agrada a Deus: Também isso é vaidade e desejo vão.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[&#60; Capítulo Anterior] | <<v21-2-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-003.adoc#v21-3-0[Próximo Capítulo &#62;]

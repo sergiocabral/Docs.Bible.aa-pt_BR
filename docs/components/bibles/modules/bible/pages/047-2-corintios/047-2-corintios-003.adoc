@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v47-3-0]]
+=== 2 Coríntios, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v47-3-1]]
+
+^<<v47-3-1,1>>^ Começamos outra vez a recomendar-nos a nós mesmos? Ou, porventura, necessitamos, como alguns, de cartas de recomendação para vós, ou de vós?
+
+[[v47-3-2]]
+
+^<<v47-3-2,2>>^ Vós sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens,
+
+[[v47-3-3]]
+
+^<<v47-3-3,3>>^ sendo manifestos como carta de Cristo, ministrada por nós, e escrita, não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas em tábuas de carne do coração.
+
+[[v47-3-4]]
+
+^<<v47-3-4,4>>^ E é por Cristo que temos tal confiança em Deus;
+
+[[v47-3-5]]
+
+^<<v47-3-5,5>>^ não que sejamos capazes, por nós, de pensar alguma coisa, como de nós mesmos; mas a nossa capacidade vem de Deus,
+
+[[v47-3-6]]
+
+^<<v47-3-6,6>>^ o qual também nos capacitou para sermos ministros dum novo pacto, não da letra, mas do espírito; porque a letra mata, mas o espírito vivifica.
+
+[[v47-3-7]]
+
+^<<v47-3-7,7>>^ Ora, se o ministério da morte, gravado com letras em pedras, veio em glória, de maneira que os filhos de Israel não podiam fixar os olhos no rosto de Moisés, por causa da glória do seu rosto, a qual se estava desvanecendo,
+
+[[v47-3-8]]
+
+^<<v47-3-8,8>>^ como não será de maior glória o ministério do espírito?
+
+[[v47-3-9]]
+
+^<<v47-3-9,9>>^ Porque, se o ministério da condenação tinha glória, muito mais excede em glória o ministério da justiça.
+
+[[v47-3-10]]
+
+^<<v47-3-10,10>>^ Pois na verdade, o que foi feito glorioso, não o é em comparação com a glória inexcedível.
+
+[[v47-3-11]]
+
+^<<v47-3-11,11>>^ Porque, se aquilo que se desvanecia era glorioso, muito mais glorioso é o que permanece.
+
+[[v47-3-12]]
+
+^<<v47-3-12,12>>^ Tendo, pois, tal esperança, usamos de muita ousadia no falar.
+
+[[v47-3-13]]
+
+^<<v47-3-13,13>>^ E não somos como Moisés, que trazia um véu sobre o rosto, para que os filhos de Isra desvanecia;
+
+[[v47-3-14]]
+
+^<<v47-3-14,14>>^ mas o entendimento lhes ficou endurecido. Pois até o dia de hoje, à leitura do velho pacto, permanece o mesmo véu, não lhes sendo revelado que em Cristo é ele abolido;
+
+[[v47-3-15]]
+
+^<<v47-3-15,15>>^ sim, até o dia de hoje, sempre que Moisés é lido, um véu está posto sobre o coração deles.
+
+[[v47-3-16]]
+
+^<<v47-3-16,16>>^ Contudo, convertendo-se um deles ao Senhor, é-lhe tirado o véu.
+
+[[v47-3-17]]
+
+^<<v47-3-17,17>>^ Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor aí há liberdade.
+
+[[v47-3-18]]
+
+^<<v47-3-18,18>>^ Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[&#60; Capítulo Anterior] | <<v47-3-0,Topo>> | xref:047-2-corintios/047-2-corintios-004.adoc#v47-4-0[Próximo Capítulo &#62;]

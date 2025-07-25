@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v13-10-0]]
+=== 1 Crônicas, 10
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v13-10-1]]
+
+^<<v13-10-1,1>>^ Ora, os filisteus pelejaram contra Israel; e os homens de Israel, fugindo de diante dos filisteus, caíram mortos no monte Gilboa.
+
+[[v13-10-2]]
+
+^<<v13-10-2,2>>^ Os filisteus perseguiram a Saul e seus filhos, e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.
+
+[[v13-10-3]]
+
+^<<v13-10-3,3>>^ A peleja se agravou contra Saul, e os flecheiros o alcançaram, e ele foi ferido pelos flecheiros.
+
+[[v13-10-4]]
+
+^<<v13-10-4,4>>^ Então disse Saul: Arranca a tua espada, e atravessa-me com ela, para que não venham estes incircuncisos e escarneçam de mim. Mas o seu escudeiro não quis, porque temia muito; então tomou Saul a sua espada, e se lançou sobre ela.
+
+[[v13-10-5]]
+
+^<<v13-10-5,5>>^ Vendo, pois, o seu escudeiro que Saul estava morto, lançou-se também sobre sua espada, e morreu.
+
+[[v13-10-6]]
+
+^<<v13-10-6,6>>^ Assim morreram Saul e seus três filhos; morreu toda a sua casa juntamente.
+
+[[v13-10-7]]
+
+^<<v13-10-7,7>>^ Quando todos os homens de Israel que estavam no vale viram que Israel havia fugido, e que Saul eram mortos, abandonaram as suas cidades e fugiram, e vindo os filisteus, habitaram nelas.
+
+[[v13-10-8]]
+
+^<<v13-10-8,8>>^ No dia seguinte, quando os filisteus vieram para despojar os mortos acharam Saul e seus filhos estirados no monte Gilboa.
+
+[[v13-10-9]]
+
+^<<v13-10-9,9>>^ Então o despojaram, tomaram a sua cabeça e as suas armas, e enviaram mensageiros pela terra dos filisteus em redor, para levarem a boa nova a seus ídolos e ao povo.
+
+[[v13-10-10]]
+
+^<<v13-10-10,10>>^ Puseram as armas dele na casa de seus deuses, e pregaram-lhe a cabeça na casa de Dagom.
+
+[[v13-10-11]]
+
+^<<v13-10-11,11>>^ Quando, pois, toda a Jabes-Gileade ouviu tudo quanto os filisteus haviam feito a Saul,
+
+[[v13-10-12]]
+
+^<<v13-10-12,12>>^ todos os homens valentes se levantaram e, tomando o corpo de Saul e os corpos de seus filhos, trouxeram-nos: a Jabes; e sepultaram os seus ossos debaixo o terebinto em Jabes, e jejuaram sete dias.
+
+[[v13-10-13]]
+
+^<<v13-10-13,13>>^ Assim morreu Saul por causa da sua infidelidade para com o Senhor, porque não havia guardado a palavra do Senhor; e também porque buscou a adivinhadora para a consultar,
+
+[[v13-10-14]]
+
+^<<v13-10-14,14>>^ e não buscou ao Senhor; pelo que ele o matou, e transferiu o reino a Davi, filho de Jessé.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[&#60; Capítulo Anterior] | <<v13-10-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[Próximo Capítulo &#62;]

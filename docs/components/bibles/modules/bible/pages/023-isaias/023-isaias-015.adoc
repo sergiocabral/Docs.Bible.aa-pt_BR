@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== Isaías, 15
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ Oráculo acerca de Moabe. Porque Ar foi destruída numa noite, Moabe está desfeita; porque Quir foi destruída numa noite, Moabe está desfeita.
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ Subiu a filha de Dibom aos altos para chorar; por Nebo e por Medeba pranteia Moabe; em todas as cabeças há calva, e toda barba é rapada.
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ Nas suas ruas cingem-se de saco; nos seus terraços e nas suas praças todos andam pranteando, e choram abundantemente.
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ Assim Hesbom como Eleale andam gritando; até Jaaz se ouve a sua voz; por isso os armados de Moabe clamam; estremece-lhes a alma.
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ O meu coração clama por causa de Moabe; fogem os seus nobres para Zoar, qual uma novilha de três anos; pois vão chorando pela encosta de Luíte; no caminho de Horonaim levantam um grito de destruição.
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ As águas de Ninrim são desoladas; secou-se a relva, definhou a erva verde, e não há verdura alguma.
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ Pelo que a abundância que ajuntaram, e o que guardaram, para além do ribeiro dos salgueiros o levam.
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ Pois o pranto já rodeou os limites de Moabe; até Eglaim chegou o seu clamor, e ainda até Beer-Elim o seu rugido.
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ Pois as águas de Dimom estão cheias de sangue; pelo que ainda acrescentarei mais a Dimom, um leão contra aqueles que escaparem de Moabe, e contra o restante que ficou na terra.
+
+'''
+
+xref:023-isaias/023-isaias-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:023-isaias/023-isaias-016.adoc#v23-16-0[Próximo Capítulo &#62;]

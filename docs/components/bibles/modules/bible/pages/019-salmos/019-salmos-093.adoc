@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-93-0]]
+=== Salmos, 93
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-93-1]]
+
+^<<v19-93-1,1>>^ O Senhor reina; está vestido de majestade. O Senhor se revestiu, cingiu-se de fortaleza; o mundo também está estabelecido, de modo que não pode ser abalado.
+
+[[v19-93-2]]
+
+^<<v19-93-2,2>>^ O teu trono está firme desde a antigüidade; desde a eternidade tu existes.
+
+[[v19-93-3]]
+
+^<<v19-93-3,3>>^ Os rios levantaram, ó Senhor, os rios levantaram o seu ruído, os rios levantam o seu fragor.
+
+[[v19-93-4]]
+
+^<<v19-93-4,4>>^ Mais que o ruído das grandes águas, mais que as vagas estrondosas do mar, poderoso é o Senhor nas alturas.
+
+[[v19-93-5]]
+
+^<<v19-93-5,5>>^ Mui fiéis são os teus testemunhos; a santidade convém à tua casa, Senhor, para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-092.adoc#v19-92-0[&#60; Capítulo Anterior] | <<v19-93-0,Topo>> | xref:019-salmos/019-salmos-094.adoc#v19-94-0[Próximo Capítulo &#62;]

@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v19-105-0]]
+=== Salmos, 105
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-105-1]]
+
+^<<v19-105-1,1>>^ Dai graças ao Senhor; invocai o seu nome; fazei conhecidos os seus feitos entre os povos.
+
+[[v19-105-2]]
+
+^<<v19-105-2,2>>^ Cantai-lhe, cantai-lhe louvores; falai de todas as suas maravilhas.
+
+[[v19-105-3]]
+
+^<<v19-105-3,3>>^ Gloriai-vos no seu santo nome; regozije-se o coração daqueles que buscam ao Senhor.
+
+[[v19-105-4]]
+
+^<<v19-105-4,4>>^ Buscai ao Senhor e a sua força; buscai a sua face continuamente.
+
+[[v19-105-5]]
+
+^<<v19-105-5,5>>^ Lembrai-vos das maravilhas que ele tem feito, dos seus prodígios e dos juízos da sua boca,
+
+[[v19-105-6]]
+
+^<<v19-105-6,6>>^ vós, descendência de Abraão, seu servo, vós, filhos de Jacó, seus escolhidos.
+
+[[v19-105-7]]
+
+^<<v19-105-7,7>>^ Ele é o Senhor nosso Deus; os seus juízos estão em toda a terra.
+
+[[v19-105-8]]
+
+^<<v19-105-8,8>>^ Lembra-se perpetuamente do seu pacto, da palavra que ordenou para mil gerações;
+
+[[v19-105-9]]
+
+^<<v19-105-9,9>>^ do pacto que fez com Abraão, e do seu juramento a Isaque;
+
+[[v19-105-10]]
+
+^<<v19-105-10,10>>^ o qual ele confirmou a Jacó por estatuto, e a Israel por pacto eterno,
+
+[[v19-105-11]]
+
+^<<v19-105-11,11>>^ dizendo: A ti darei a terra de Canaã, como porção da vossa herança.
+
+[[v19-105-12]]
+
+^<<v19-105-12,12>>^ Quando eles eram ainda poucos em número, de pouca importância, e forasteiros nela,
+
+[[v19-105-13]]
+
+^<<v19-105-13,13>>^ andando de nação em nação, dum reino para outro povo,
+
+[[v19-105-14]]
+
+^<<v19-105-14,14>>^ não permitiu que ninguém os oprimisse, e por amor deles repreendeu reis, dizendo:
+
+[[v19-105-15]]
+
+^<<v19-105-15,15>>^ Não toqueis nos meus ungidos, e não maltrateis os meus profetas.
+
+[[v19-105-16]]
+
+^<<v19-105-16,16>>^ Chamou a fome sobre a terra; retirou-lhes todo o sustento do pão.
+
+[[v19-105-17]]
+
+^<<v19-105-17,17>>^ Enviou adiante deles um varão; José foi vendido como escravo;
+
+[[v19-105-18]]
+
+^<<v19-105-18,18>>^ feriram-lhe os pés com grilhões; puseram-no a ferro,
+
+[[v19-105-19]]
+
+^<<v19-105-19,19>>^ até o tempo em que a sua palavra se cumpriu; a palavra do Senhor o provou.
+
+[[v19-105-20]]
+
+^<<v19-105-20,20>>^ O rei mandou, e fez soltá-lo; o governador dos povos o libertou.
+
+[[v19-105-21]]
+
+^<<v19-105-21,21>>^ Fê-lo senhor da sua casa, e governador de toda a sua fazenda,
+
+[[v19-105-22]]
+
+^<<v19-105-22,22>>^ para, a seu gosto, dar ordens aos príncipes, e ensinar aos anciãos a sabedoria.
+
+[[v19-105-23]]
+
+^<<v19-105-23,23>>^ Então Israel entrou no Egito, e Jacó peregrinou na terra de Cam.
+
+[[v19-105-24]]
+
+^<<v19-105-24,24>>^ E o Senhor multiplicou sobremodo o seu povo, e o fez mais poderoso do que os seus inimigos.
+
+[[v19-105-25]]
+
+^<<v19-105-25,25>>^ Mudou o coração destes para que odiassem o seu povo, e tratassem astutamente aos seus servos.
+
+[[v19-105-26]]
+
+^<<v19-105-26,26>>^ Enviou Moisés, seu servo, e Arão, a quem escolhera,
+
+[[v19-105-27]]
+
+^<<v19-105-27,27>>^ os quais executaram entre eles os seus sinais e prodígios na terra de Cam.
+
+[[v19-105-28]]
+
+^<<v19-105-28,28>>^ Mandou à escuridão que a escurecesse; e foram rebeldes à sua palavra.
+
+[[v19-105-29]]
+
+^<<v19-105-29,29>>^ Converteu-lhes as águas em sangue, e fez morrer os seus peixes.
+
+[[v19-105-30]]
+
+^<<v19-105-30,30>>^ A terra deles produziu rãs em abundância, até nas câmaras dos seus reis.
+
+[[v19-105-31]]
+
+^<<v19-105-31,31>>^ Ele falou, e vieram enxames de moscas em todo o seu termo.
+
+[[v19-105-32]]
+
+^<<v19-105-32,32>>^ Deu-lhes saraiva por chuva, e fogo abrasador na sua terra.
+
+[[v19-105-33]]
+
+^<<v19-105-33,33>>^ Feriu-lhes também as vinhas e os figueirais, e quebrou as árvores da sua terra.
+
+[[v19-105-34]]
+
+^<<v19-105-34,34>>^ Ele falou, e vieram gafanhotos, e pulgões em quantidade inumerável,
+
+[[v19-105-35]]
+
+^<<v19-105-35,35>>^ que comeram toda a erva da sua terra, e devoraram o fruto dos seus campos.
+
+[[v19-105-36]]
+
+^<<v19-105-36,36>>^ Feriu também todos os primogênitos da terra deles, as primícias de toda a sua força.
+
+[[v19-105-37]]
+
+^<<v19-105-37,37>>^ E fez sair os israelitas com prata e ouro, e entre as suas tribos não havia quem tropeçasse.
+
+[[v19-105-38]]
+
+^<<v19-105-38,38>>^ O Egito alegrou-se quando eles saíram, porque o temor deles o dominara.
+
+[[v19-105-39]]
+
+^<<v19-105-39,39>>^ Estendeu uma nuvem para os cobrir, e um fogo para os alumiar de noite.
+
+[[v19-105-40]]
+
+^<<v19-105-40,40>>^ Eles pediram, e ele fez vir codornizes, e os saciou com pão do céu.
+
+[[v19-105-41]]
+
+^<<v19-105-41,41>>^ Fendeu a rocha, e dela brotaram águas, que correram pelos lugares áridos como um rio.
+
+[[v19-105-42]]
+
+^<<v19-105-42,42>>^ Porque se lembrou da sua santa palavra, e de Abraão, seu servo.
+
+[[v19-105-43]]
+
+^<<v19-105-43,43>>^ Fez sair com alegria o seu povo, e com cânticos de júbilo os seus escolhidos.
+
+[[v19-105-44]]
+
+^<<v19-105-44,44>>^ Deu-lhes as terras das nações, e eles herdaram o fruto do trabalho dos povos,
+
+[[v19-105-45]]
+
+^<<v19-105-45,45>>^ para que guardassem os seus preceitos, e observassem as suas leis. Louvai ao Senhor
+
+'''
+
+xref:019-salmos/019-salmos-104.adoc#v19-104-0[&#60; Capítulo Anterior] | <<v19-105-0,Topo>> | xref:019-salmos/019-salmos-106.adoc#v19-106-0[Próximo Capítulo &#62;]

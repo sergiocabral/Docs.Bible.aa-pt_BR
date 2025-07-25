@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-143-0]]
+=== Salmos, 143
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v19-143-1]]
+
+^<<v19-143-1,1>>^ Ó Senhor, ouve a minha oração, dá ouvidos às minhas súplicas! Atende-me na tua fidelidade, e na tua retidão;
+
+[[v19-143-2]]
+
+^<<v19-143-2,2>>^ e não entres em juízo com o teu servo, porque à tua vista não se achará justo nenhum vivente.
+
+[[v19-143-3]]
+
+^<<v19-143-3,3>>^ Pois o inimigo me perseguiu; abateu-me até o chão; fez-me habitar em lugares escuros, como aqueles que morreram há muito.
+
+[[v19-143-4]]
+
+^<<v19-143-4,4>>^ Pelo que dentro de mim esmorece o meu espírito, e em mim está desolado o meu coração.
+
+[[v19-143-5]]
+
+^<<v19-143-5,5>>^ Lembro-me dos dias antigos; considero todos os teus feitos; medito na obra das tuas mãos.
+
+[[v19-143-6]]
+
+^<<v19-143-6,6>>^ A ti estendo as minhas mãos; a minha alma, qual terra sedenta, tem sede de ti.
+
+[[v19-143-7]]
+
+^<<v19-143-7,7>>^ Atende-me depressa, ó Senhor; o meu espírito desfalece; não escondas de mim o teu rosto, para que não me torne semelhante aos que descem à cova.
+
+[[v19-143-8]]
+
+^<<v19-143-8,8>>^ Faze-me ouvir da tua benignidade pela manhã, pois em ti confio; faze-me saber o caminho que devo seguir, porque a ti elevo a minha alma.
+
+[[v19-143-9]]
+
+^<<v19-143-9,9>>^ Livra-me, ó Senhor, dos meus inimigos; porque em ti é que eu me refugio.
+
+[[v19-143-10]]
+
+^<<v19-143-10,10>>^ Ensina-me a fazer a tua vontade, pois tu és o meu Deus; guie-me o teu bom Espírito por terreno plano.
+
+[[v19-143-11]]
+
+^<<v19-143-11,11>>^ Vivifica-me, ó Senhor, por amor do teu nome; por amor da tua justiça, tira-me da tribulação.
+
+[[v19-143-12]]
+
+^<<v19-143-12,12>>^ E por tua benignidade extermina os meus inimigos, e destrói todos os meus adversários, pois eu sou servo.
+
+'''
+
+xref:019-salmos/019-salmos-142.adoc#v19-142-0[&#60; Capítulo Anterior] | <<v19-143-0,Topo>> | xref:019-salmos/019-salmos-144.adoc#v19-144-0[Próximo Capítulo &#62;]

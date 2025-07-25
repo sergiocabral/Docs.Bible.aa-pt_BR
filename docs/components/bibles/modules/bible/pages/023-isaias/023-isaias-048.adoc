@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-48-0]]
+=== Isaías, 48
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v23-48-1]]
+
+^<<v23-48-1,1>>^ Ouvi isto, casa de Jacó, que vos chamais do nome de Israel, e saístes dos lombos de Judá, que jurais pelo nome do Senhor, e fazeis menção do Deus de Israel, mas não em verdade nem em justiça.
+
+[[v23-48-2]]
+
+^<<v23-48-2,2>>^ E até da santa cidade tomam o nome, e se firmam sobre o Deus de Israel; o Senhor dos exércitos é o seu nome.
+
+[[v23-48-3]]
+
+^<<v23-48-3,3>>^ Desde a antigüidade anunciei as coisas que haviam de ser; da minha boca é que saíram, e eu as fiz ouvir; de repente as pus por obra, e elas aconteceram.
+
+[[v23-48-4]]
+
+^<<v23-48-4,4>>^ Porque eu sabia que és obstinado, que a tua cerviz é um nervo de ferro, e a tua testa de bronze.
+
+[[v23-48-5]]
+
+^<<v23-48-5,5>>^ Há muito tas anunciei, e as manifestei antes que acontecessem, para que não dissesses: O meu ídolo fez estas coisas, ou a minha imagem de escultura, ou a minha imagem de fundição as ordenou.
+
+[[v23-48-6]]
+
+^<<v23-48-6,6>>^ Já o tens ouvido; olha bem para tudo isto; porventura não o anunciarás? Desde agora te mostro coisas novas e ocultas, que não sabias.
+
+[[v23-48-7]]
+
+^<<v23-48-7,7>>^ São criadas agora, e não de há muito, e antes deste dia não as ouviste, para que não digas: Eis que já eu as sabia.
+
+[[v23-48-8]]
+
+^<<v23-48-8,8>>^ Tu nem as ouviste, nem as conheceste, nem tampouco há muito foi aberto o teu ouvido; porque eu sabia que procedeste muito perfidamente, e que eras chamado transgressor desde o ventre.
+
+[[v23-48-9]]
+
+^<<v23-48-9,9>>^ Por amor do meu nome retardo a minha ira, e por causa do meu louvor me contenho para contigo, para que eu não te extermine.
+
+[[v23-48-10]]
+
+^<<v23-48-10,10>>^ Eis que te purifiquei, mas não como a prata; provei-te na fornalha da aflição,
+
+[[v23-48-11]]
+
+^<<v23-48-11,11>>^ Por amor de mim, por amor de mim o faço; porque como seria profanado o meu nome? A minha glória não a darei a outrem,
+
+[[v23-48-12]]
+
+^<<v23-48-12,12>>^ Escuta-me, ó Jacó, e tu, ó Israel, a quem chamei; eu sou o mesmo, eu o primeiro, eu também o último.
+
+[[v23-48-13]]
+
+^<<v23-48-13,13>>^ Também a minha mão fundou a terra, e a minha destra estendeu os céus; quando eu os chamo, eles aparecem juntos.
+
+[[v23-48-14]]
+
+^<<v23-48-14,14>>^ Ajuntai-vos todos vós, e ouvi: Quem, dentre eles, tem anunciado estas coisas? Aquele a quem o Senhor amou executará a sua vontade contra Babilônia, e o seu braço será contra os caldeus.
+
+[[v23-48-15]]
+
+^<<v23-48-15,15>>^ Eu, eu o tenho dito; também já o chamei; eu o trouxe, e o seu caminho será próspero.
+
+[[v23-48-16]]
+
+^<<v23-48-16,16>>^ Chegai-vos a mim, ouvi isto: Não falei em segredo desde o princípio; desde o tempo em que aquilo se fez, eu estava ali; e agora o Senhor Deus me enviou juntamente com o seu Espírito.
+
+[[v23-48-17]]
+
+^<<v23-48-17,17>>^ Assim diz o Senhor, o teu Redentor, o Santo de Israel: Eu sou o Senhor, o teu Deus, que te ensina o que é útil, e te guia pelo caminho em que deves andar.
+
+[[v23-48-18]]
+
+^<<v23-48-18,18>>^ Ah! se tivesses dado ouvidos aos meus mandamentos! então seria a tua paz como um rio, e a tua justiça como as ondas do mar;
+
+[[v23-48-19]]
+
+^<<v23-48-19,19>>^ também a tua descendência teria sido como a areia, e os que procedem das tuas entranhas como os seus grãos; o seu nome nunca seria cortado nem destruído de diante de mim.
+
+[[v23-48-20]]
+
+^<<v23-48-20,20>>^ Saí de Babilônia, fugi de entre os caldeus. E anunciai com voz de júbilo, fazei ouvir isto, e levai-o até o fim da terra; dizei: O Senhor remiu a seu servo Jacó;
+
+[[v23-48-21]]
+
+^<<v23-48-21,21>>^ e não tinham sede, quando os levava pelos desertos; fez-lhes correr água da rocha; fendeu a rocha, e as águas jorraram.
+
+[[v23-48-22]]
+
+^<<v23-48-22,22>>^ Não há paz para os ímpios, diz o Senhor.
+
+'''
+
+xref:023-isaias/023-isaias-047.adoc#v23-47-0[&#60; Capítulo Anterior] | <<v23-48-0,Topo>> | xref:023-isaias/023-isaias-049.adoc#v23-49-0[Próximo Capítulo &#62;]

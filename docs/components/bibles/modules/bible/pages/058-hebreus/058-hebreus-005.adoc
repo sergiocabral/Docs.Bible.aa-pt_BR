@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v58-5-0]]
+=== Hebreus, 5
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v58-5-1]]
+
+^<<v58-5-1,1>>^ Porque todo sumo sacerdote tomado dentre os homens é constituído a favor dos homens nas coisas concernentes a Deus, para que ofereça dons e sacrifícios pelos pecados,
+
+[[v58-5-2]]
+
+^<<v58-5-2,2>>^ podendo ele compadecer-se devidamente dos ignorantes e errados, porquanto também ele mesmo está rodeado de fraqueza.
+
+[[v58-5-3]]
+
+^<<v58-5-3,3>>^ E por esta razão deve ele, tanto pelo povo como também por si mesmo, oferecer sacrifício pelos pecados.
+
+[[v58-5-4]]
+
+^<<v58-5-4,4>>^ Ora, ninguém toma para si esta honra, senão quando é chamado por Deus, como o foi Arão.
+
+[[v58-5-5]]
+
+^<<v58-5-5,5>>^ assim também Cristo não se glorificou a si mesmo, para se fazer sumo sacerdote, mas o glorificou aquele que lhe disse: Tu és meu Filho, hoje te gerei;
+
+[[v58-5-6]]
+
+^<<v58-5-6,6>>^ como também em outro lugar diz: Tu és sacerdote para sempre, segundo a ordem de Melquisedeque.
+
+[[v58-5-7]]
+
+^<<v58-5-7,7>>^ O qual nos dias da sua carne, tendo oferecido, com grande clamor e lágrimas, orações e súplicas ao que podia livrar da morte, e tendo sido ouvido por causa da sua reverência,
+
+[[v58-5-8]]
+
+^<<v58-5-8,8>>^ ainda que era Filho, aprendeu a obediência por meio daquilo que sofreu;
+
+[[v58-5-9]]
+
+^<<v58-5-9,9>>^ e, tendo sido aperfeiçoado, veio a ser autor de eterna salvação para todos os que lhe obedecem,
+
+[[v58-5-10]]
+
+^<<v58-5-10,10>>^ sendo por Deus chamado sumo sacerdote, segundo a ordem de Melquisedeque.
+
+[[v58-5-11]]
+
+^<<v58-5-11,11>>^ Sobre isso temos muito que dizer, mas de difícil interpretação, porquanto vos tornastes tardios em ouvir.
+
+[[v58-5-12]]
+
+^<<v58-5-12,12>>^ Porque, desde a infância sabes as sagradas letras, que podem necessitais de que se vos torne a ensinar os princípios elementares dos oráculos de Deus, e vos haveis feito tais que precisais de leite, e não de alimento sólido.
+
+[[v58-5-13]]
+
+^<<v58-5-13,13>>^ Ora, qualquer que se alimenta de leite é inexperiente na palavra da justiça, pois é criança;
+
+[[v58-5-14]]
+
+^<<v58-5-14,14>>^ mas o alimento sólido é para os adultos, os quais têm, pela prática, as faculdades exercitadas para discernir tanto o bem como o mal.
+
+'''
+
+xref:058-hebreus/058-hebreus-004.adoc#v58-4-0[&#60; Capítulo Anterior] | <<v58-5-0,Topo>> | xref:058-hebreus/058-hebreus-006.adoc#v58-6-0[Próximo Capítulo &#62;]

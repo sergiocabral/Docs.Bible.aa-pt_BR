@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v16-5-0]]
+=== Neemias, 5
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v16-5-1]]
+
+^<<v16-5-1,1>>^ Então se levantou um grande clamor do povo e de suas mulheres contra os judeus, seus irmãos.
+
+[[v16-5-2]]
+
+^<<v16-5-2,2>>^ Pois havia alguns que diziam: Nós, nossos filhos e nossas filhas somos muitos; que se nos dê trigo, para que comamos e vivamos.
+
+[[v16-5-3]]
+
+^<<v16-5-3,3>>^ Também havia os que diziam: Estamos empenhando nossos campos, as nossas vinhas e as nossas casas, para conseguirmos trigo durante esta fome.
+
+[[v16-5-4]]
+
+^<<v16-5-4,4>>^ Havia ainda outros que diziam: Temos tomado dinheiro emprestado até para o tributo do rei sobre os nossos campos e as nossas vinhas.
+
+[[v16-5-5]]
+
+^<<v16-5-5,5>>^ Ora, a nossa carne é como a carne de nossos irmãos, e nossos filhos como os filhos deles; e eis que estamos sujeitando nossos filhos e nossas filhas para serem servos, e algumas de nossas filhas já estão reduzidas à escravidão. Não está em nosso poder evitá-lo, pois outros têm os nossos campos e as nossas vinhas.
+
+[[v16-5-6]]
+
+^<<v16-5-6,6>>^ Ouvindo eu, pois, o seu clamor, e estas palavras, muito me indignei.
+
+[[v16-5-7]]
+
+^<<v16-5-7,7>>^ Então consultei comigo mesmo; depois contendi com do nobres e com os magistrados, e disse-lhes: Estais tomando juros, cada um de seu irmão. E ajuntei contra eles uma grande assembléia.
+
+[[v16-5-8]]
+
+^<<v16-5-8,8>>^ E disse-lhes: Nós, segundo as nossas posses, temos resgatado os judeus, nossos irmãos, que foram vendidos às nações; e vós venderíeis os vossos irmãos, ou seriam vendidos a nós? Então se calaram, e não acharam o que responder.
+
+[[v16-5-9]]
+
+^<<v16-5-9,9>>^ Disse mais: Não é bom o que fazeis; porventura não devíeis andar no temor do nosso Deus, por causa do opróbrio dos povos, os nosso inimigos?
+
+[[v16-5-10]]
+
+^<<v16-5-10,10>>^ Também eu, meus irmãos e meus moços lhes temos emprestado dinheiro e trigo. Deixemos, peço-vos este ganho.
+
+[[v16-5-11]]
+
+^<<v16-5-11,11>>^ Restituí-lhes hoje os seus campos, as suas vinhas, os seus olivais e as suas casas, como também a centésima parte do dinheiro, do trigo, do mosto e do azeite, que deles tendes exigido.
+
+[[v16-5-12]]
+
+^<<v16-5-12,12>>^ Então disseram: Nós lho restituiremos, e nada lhes pediremos; faremos assim como dizes. Então, chamando os sacerdotes, fi-los jurar que fariam conforme prometeram.
+
+[[v16-5-13]]
+
+^<<v16-5-13,13>>^ Também sacudi as minhas vestes, e disse: Assim sacuda Deus da sua casa e do seu trabalho todo homem que não cumprir esta promessa; assim mesmo seja ele sacudido e despojado. E toda a congregação disse: Amém! E louvaram ao Senhor; e o povo fez conforme a sua promessa.
+
+[[v16-5-14]]
+
+^<<v16-5-14,14>>^ Além disso, desde o dia em que fui nomeado seu governador na terra de Judá, desde o ano vinte até o anos trinta e dois do rei Artaxerxes, isto é, por doze anos, nem eu nem meus irmãos comemos o pão devido ao governador.
+
+[[v16-5-15]]
+
+^<<v16-5-15,15>>^ Mas os primeiros governadores, que foram antes de mim, oprimiram o povo, e tomaram-lhe pão e vinho e, além disso, quarenta siclos de prata; e até os seus moços dominavam sobre o povo. Porém eu assim não fiz, por causa do temor de Deus.
+
+[[v16-5-16]]
+
+^<<v16-5-16,16>>^ Também eu prossegui na obra deste muro, e terra nenhuma compramos; e todos os meus moços se ajuntaram ali para a obra.
+
+[[v16-5-17]]
+
+^<<v16-5-17,17>>^ Sentavam-se à minha mesa cento e cinqüenta homens dentre os judeus e os magistrados, além dos que vinham ter conosco dentre as nações que estavam ao redor de nós.
+
+[[v16-5-18]]
+
+^<<v16-5-18,18>>^ Ora, o que se preparava para cada dia era um boi e seis ovelhas escolhidas; também se preparavam aves e, de dez em dez dias, provisão de toda qualidade de vinho. Todavia, nem por isso exigi o pão devido ao governador, porquanto a servidão deste povo era pesada.
+
+[[v16-5-19]]
+
+^<<v16-5-19,19>>^ Lembra-te de mim para teu bem, ó meu Deus, e de tudo quanto tenho feito em prol deste povo.
+
+'''
+
+xref:016-neemias/016-neemias-004.adoc#v16-4-0[&#60; Capítulo Anterior] | <<v16-5-0,Topo>> | xref:016-neemias/016-neemias-006.adoc#v16-6-0[Próximo Capítulo &#62;]

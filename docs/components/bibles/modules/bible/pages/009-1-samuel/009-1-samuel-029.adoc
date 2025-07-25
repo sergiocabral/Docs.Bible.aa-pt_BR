@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v9-29-0]]
+=== 1 Samuel, 29
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v9-29-1]]
+
+^<<v9-29-1,1>>^ Os filisteus ajuntaram todos os seus exércitos em Afeque; e acamparam-se os israelitas junto à fonte que está em Jizreel.
+
+[[v9-29-2]]
+
+^<<v9-29-2,2>>^ Então os chefes dos filisteus se adiantaram com centenas e com milhares; e Davi e os seus homens iam com Áquis na retaguarda.
+
+[[v9-29-3]]
+
+^<<v9-29-3,3>>^ Perguntaram os chefes dos filisteus: que fazem aqui estes hebreus? Respondeu Áquis aos chefes dos filisteus: Não é este Davi, o servo de Saul, rei de Israel, que tem estado comigo alguns dias ou anos? e nenhuma culpa tenho achado nele desde o dia em que se revoltou, até o dia de hoje.
+
+[[v9-29-4]]
+
+^<<v9-29-4,4>>^ Mas os chefes dos filisteus muito se indignaram contra ele, e disseram a Áquis: Faze voltar este homem para que torne ao lugar em que o puseste; não desça ele conosco à batalha, a fim de que não se torne nosso adversário no combate; pois, como se tornaria este agradável a seu senhor? porventura não seria com as cabeças destes homens?
+
+[[v9-29-5]]
+
+^<<v9-29-5,5>>^ Este não é aquele Davi, a respeito de quem cantavam nas danças: Saul feriu os seus milhares, mas Davi os seus dez milhares?
+
+[[v9-29-6]]
+
+^<<v9-29-6,6>>^ Então Áquis chamou a Davi e disse-lhe: Como vive o Senhor, tu és reto, e a sua entrada e saída comigo no arraial é boa aos meus olhos, pois nenhum mal tenho achado em ti, desde o dia em que vieste ter comigo, até o dia de hoje; porém aos chefes não agradas.
+
+[[v9-29-7]]
+
+^<<v9-29-7,7>>^ Volta, pois, agora, e vai em paz, para não desagradares os chefes dos filisteus.
+
+[[v9-29-8]]
+
+^<<v9-29-8,8>>^ Ao que Davi disse a Áquis: Por quê? que fiz eu? ou, que achaste no teu servo, desde o dia em que vim ter contigo, até o dia de hoje, para que eu não vá pelejar contra es inimigos do rei meu senhor?
+
+[[v9-29-9]]
+
+^<<v9-29-9,9>>^ Respondeu, porém, Áquis e disse a Davi: Bem o sei; e, na verdade, aos meus olhos és bom como um anjo de Deus; contudo os chefes dos filisteus disseram: Este não há de subir conosco à batalha.
+
+[[v9-29-10]]
+
+^<<v9-29-10,10>>^ Levanta-te, pois, amanhã de madrugada, tu e os servos de teu senhor que vieram contigo; e, tendo vos levantado de madrugada, parti logo que haja luz.
+
+[[v9-29-11]]
+
+^<<v9-29-11,11>>^ Madrugaram, pois, Davi e os seus homens, a fim de partirem, pela manhã, e voltarem à terra dos filisteus; e os filisteus subiram a Jizreel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[&#60; Capítulo Anterior] | <<v9-29-0,Topo>> | xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[Próximo Capítulo &#62;]

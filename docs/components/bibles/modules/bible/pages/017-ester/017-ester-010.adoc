@@ -1,0 +1,21 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Ester, 10
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ O rei Assuero impôs tributo à terra e às ilhas do mar.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ Quanto a todos os atos do seu poder e do seu valor, e a narrativa completa da grandeza de Mordecai, com que o rei o exaltou, porventura não estão eles escritos no livro dos anais dos reis da Média e da Pérsia?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ Pois o judeu Mordecai foi o segundo depois do rei Assuero, e grande entre os judeus, e estimado pela multidão de seus irmãos, porque procurava o bem-estar do seu povo, e falava pela paz de toda sua nação.
+
+'''
+
+xref:017-ester/017-ester-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-jo/018-jo-001.adoc#v18-1-0[Próximo Capítulo &#62;]

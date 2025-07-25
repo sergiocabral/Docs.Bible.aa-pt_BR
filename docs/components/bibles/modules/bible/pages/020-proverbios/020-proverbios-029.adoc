@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Provérbios, 29
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ Aquele que, sendo muitas vezes repreendido, endurece a cerviz, será quebrantado de repente sem que haja cura.
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ Quando os justos governam, alegra-se o povo; mas quando o ímpio domina, o povo geme.
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ O que ama a sabedoria alegra a seu pai; mas o companheiro de prostitutas desperdiça a sua riqueza.
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ O rei pela justiça estabelece a terra; mas o que exige presentes a transtorna.
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ O homem que lisonjeia a seu próximo arma-lhe uma rede aos passos.
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ Na transgressão do homem mau há laço; mas o justo canta e se regozija.
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ O justo toma conhecimento da causa dos pobres; mas o ímpio não tem entendimento para a conhecer.
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Os escarnecedores abrasam a cidade; mas os sábios desviam a ira.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ O sábio que pleiteia com o insensato, quer este se agaste quer se ria, não terá descanso.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Os homens sanguinários odeiam o íntegro; mas os retos procuram o seu bem.
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ O tolo derrama toda a sua ira; mas o sábio a reprime e aplaca.
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ O governador que dá atenção às palavras mentirosas achará que todos os seus servos são ímpios.
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ O pobre e o opressor se encontram; o Senhor alumia os olhos de ambos.
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ Se o rei julgar os pobres com eqüidade, o seu trono será estabelecido para sempre.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ A vara e a repreensão dão sabedoria; mas a criança entregue a si mesma envergonha a sua mãe.
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ Quando os ímpios se multiplicam, multiplicam-se as transgressões; mas os justos verão a queda deles.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Corrige a teu filho, e ele te dará descanso; sim, deleitará o teu coração.
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Onde não há profecia, o povo se corrompe; mas o que guarda a lei esse é bem-aventurado.
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ O servo não se emendará com palavras; porque, ainda que entenda, não atenderá.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ Vês um homem precipitado nas suas palavras? Maior esperança há para o tolo do que para ele.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ Aquele que cria delicadamente o seu servo desde a meninice, no fim tê-lo-á por herdeiro.
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ O homem iracundo levanta contendas, e o furioso multiplica as transgressões.
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ A soberba do homem o abaterá; mas o humilde de espírito obterá honra.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ O que é sócio do ladrão odeia a sua própria alma; sendo ajuramentado, nada denuncia.
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ O receio do homem lhe arma laços; mas o que confia no Senhor está seguro.
+
+[[v20-29-26]]
+
+^<<v20-29-26,26>>^ Muitos buscam o favor do príncipe; mas é do Senhor que o homem recebe a justiça.
+
+[[v20-29-27]]
+
+^<<v20-29-27,27>>^ O ímpio é abominação para os justos; e o que é reto no seu caminho é abominação para o ímpio.
+
+'''
+
+xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[Próximo Capítulo &#62;]

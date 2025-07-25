@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v4-3-0]]
+=== Números, 3
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v4-3-1]]
+
+^<<v4-3-1,1>>^ Estas, pois, eram as gerações de Arão e de Moisés, no dia em que o Senhor falou com Moisés no monte Sinai.
+
+[[v4-3-2]]
+
+^<<v4-3-2,2>>^ Os nomes dos filhos de Arão são estes: o primogênito, Nadabe; depois Abiú, Eleazar e Itamar.
+
+[[v4-3-3]]
+
+^<<v4-3-3,3>>^ São esses os nomes dos filhos de Arão, dos sacerdotes que foram ungidos, a quem ele consagrou para administrarem o sacerdócio.
+
+[[v4-3-4]]
+
+^<<v4-3-4,4>>^ Mas Nadabe e Abiú morreram perante o Senhor, quando ofereceram fogo estranho perante o Senhor no deserto de Sinai, e não tiveram filhos; porém Eleazar e Itamar administraram o sacerdócio diante de Arão, seu pai.
+
+[[v4-3-5]]
+
+^<<v4-3-5,5>>^ Então disse o Senhor a Moisés:
+
+[[v4-3-6]]
+
+^<<v4-3-6,6>>^ Faze chegar a tribo de Levi, e põe-nos diante de Arão, o sacerdote, para que o sirvam;
+
+[[v4-3-7]]
+
+^<<v4-3-7,7>>^ eles cumprirão o que é devido a ele e a toda a congregação, diante da tenda da revelação, fazendo o serviço do tabernáculo;
+
+[[v4-3-8]]
+
+^<<v4-3-8,8>>^ cuidarão de todos os móveis da tenda da revelação, e zelarão pelo cumprimento dos deveres dos filhos de Israel, fazendo o serviço do tabernáculo.
+
+[[v4-3-9]]
+
+^<<v4-3-9,9>>^ Darás, pois, os levitas a Arão e a seus filhos; de todo lhes são dados da parte dos filhos de Israel.
+
+[[v4-3-10]]
+
+^<<v4-3-10,10>>^ Mas a Arão e a seus filhos ordenarás que desempenhem o seu sacerdócio; e o estranho que se chegar será morto.
+
+[[v4-3-11]]
+
+^<<v4-3-11,11>>^ Disse mais o senhor a Moisés:
+
+[[v4-3-12]]
+
+^<<v4-3-12,12>>^ Eu, eu mesmo tenho tomado os levitas do meio dos filhos de Israel, em lugar de todo primogênito, que abre a madre, entre os filhos de Israel; e os levitas serão meus,
+
+[[v4-3-13]]
+
+^<<v4-3-13,13>>^ porque todos os primogênitos são meus. No dia em que feri a todos os primogênitos na terra do Egito, santifiquei para mim todos os primogênitos em Israel, tanto dos homens como dos animais; meus serão. Eu sou o Senhor.
+
+[[v4-3-14]]
+
+^<<v4-3-14,14>>^ Disse mais o Senhor a Moisés no deserto de Sinai:
+
+[[v4-3-15]]
+
+^<<v4-3-15,15>>^ Conta os filhos de Levi, segundo as casas de seus pais, pelas suas famílias; contarás todo homem da idade de um mês, para cima.
+
+[[v4-3-16]]
+
+^<<v4-3-16,16>>^ E Moisés os contou conforme o mandado do Senhor, como lhe fora ordenado.
+
+[[v4-3-17]]
+
+^<<v4-3-17,17>>^ Estes, pois, foram os filhos de Levi, pelos seus nomes: Gérson, Coate e Merári.
+
+[[v4-3-18]]
+
+^<<v4-3-18,18>>^ E estes são os nomes dos filhos de Gérson pelas suas famílias: Líbni e Simei.
+
+[[v4-3-19]]
+
+^<<v4-3-19,19>>^ E os filhos de Coate, pelas suas famílias: Anrão, Izar, Hebrom e Uziel.
+
+[[v4-3-20]]
+
+^<<v4-3-20,20>>^ E os filhos de Merári, pelas suas famílias: Mali e Musi. São essas as famílias dos levitas, segundo as casas de seus pais.
+
+[[v4-3-21]]
+
+^<<v4-3-21,21>>^ De Gérson era a família dos libnitas e a família dos simeítas. São estas as famílias dos gersonitas.
+
+[[v4-3-22]]
+
+^<<v4-3-22,22>>^ Os que deles foram contados, segundo o número de todos os homens da idade de um mês para cima, sim, os que deles foram c contados eram sete mil e quinhentos.
+
+[[v4-3-23]]
+
+^<<v4-3-23,23>>^ As famílias dos gersonitas acampar-se-ão atrás do tabernáculo, ao ocidente.
+
+[[v4-3-24]]
+
+^<<v4-3-24,24>>^ E o príncipe da casa paterna dos gersonitas será Eliasafe, filho de Lael.
+
+[[v4-3-25]]
+
+^<<v4-3-25,25>>^ E os filhos de Gérson terão a seu cargo na tenda da revelação o tabernáculo e a tenda, a sua coberta e o reposteiro da porta da tenda da revelação,
+
+[[v4-3-26]]
+
+^<<v4-3-26,26>>^ e as cortinas do átrio, e o reposteiro da porta do átrio, que está junto ao tabernáculo e junto ao altar, em redor, como também as suas cordas para todo o seu serviço.
+
+[[v4-3-27]]
+
+^<<v4-3-27,27>>^ De Coate era a família dos anramitas, e a família dos izaritas, e a família dos hebronitas, e a família dos uzielitas; são estas as famílias dos coatitas.
+
+[[v4-3-28]]
+
+^<<v4-3-28,28>>^ Segundo o número de todos os homens da idade de um mês para cima, eram oito mil e seiscentos os que tinham a seu cargo o santuário.
+
+[[v4-3-29]]
+
+^<<v4-3-29,29>>^ As famílias dos filhos de Coate acampar-se-ão ao lado do tabernáculo para a banda do sul.
+
+[[v4-3-30]]
+
+^<<v4-3-30,30>>^ E o príncipe da casa paterna das famílias dos coatitas será Elizafã, filho de Uziel.
+
+[[v4-3-31]]
+
+^<<v4-3-31,31>>^ Eles terão a seu cargo a arca e a mesa, o candelabro, os altares e os utensílios do santuário com que ministram, e o reposteiro com todo o seu serviço.
+
+[[v4-3-32]]
+
+^<<v4-3-32,32>>^ E o príncipe dos príncipes de Levi será Eleazar, filho de Arão, o sacerdote; ele terá a superintendência dos que têm a seu cargo o santuário.
+
+[[v4-3-33]]
+
+^<<v4-3-33,33>>^ De Merári era a família dos malitas e a família dos musitas; são estas as famílias de Merári.
+
+[[v4-3-34]]
+
+^<<v4-3-34,34>>^ Os que deles foram contados, segundo o número de todos os homens de um mês para cima, eram seis mil e duzentos.
+
+[[v4-3-35]]
+
+^<<v4-3-35,35>>^ E o príncipe da casa paterna das famílias de Merári será Zuriel, filho de Abiail; eles se acamparão ao lado do tabernáculo, para a banda do norte.
+
+[[v4-3-36]]
+
+^<<v4-3-36,36>>^ Por designação os filhos de Merári terão a seu cargo as armações do tabernáculo e os seus travessões, as suas colunas e as suas bases, e todos os seus pertences, com todo o seu serviço,
+
+[[v4-3-37]]
+
+^<<v4-3-37,37>>^ e as colunas do átrio em redor e as suas bases, as suas estacas e as suas cordas.
+
+[[v4-3-38]]
+
+^<<v4-3-38,38>>^ Diante do tabernáculo, para a banda do oriente, diante da tenda da revelação, acampar-se-ão Moisés, e Arão com seus filhos, que terão a seu cargo o santuário, para zelarem pelo cumprimento dos deveres dos filhos de Israel; e o estranho que se chegar será morto.
+
+[[v4-3-39]]
+
+^<<v4-3-39,39>>^ Todos os que foram contados dos levitas, que Moisés e Arão contaram por mandado do Senhor, segundo as suas famílias, todos os homens de um mês para cima, eram vinte e dois mil.
+
+[[v4-3-40]]
+
+^<<v4-3-40,40>>^ Disse mais o Senhor a Moisés: Conta todos os primogênitos dos filhos de Israel, da idade de um mês para cima, e toma o número dos seus nomes.
+
+[[v4-3-41]]
+
+^<<v4-3-41,41>>^ E para mim tomarás os levitas &#123;eu sou o Senhor&#125; em lugar de todos os primogênitos dos filhos de Israel, e o gado dos levitas em lugar de todos os primogênitos entre o gado de Israel.
+
+[[v4-3-42]]
+
+^<<v4-3-42,42>>^ Moisés, pois, contou, como o Senhor lhe ordenara, todos os primogênitos entre os filhos de Israel.
+
+[[v4-3-43]]
+
+^<<v4-3-43,43>>^ E todos os primogênitos, pelo número dos nomes, da idade de um mês para cima, segundo os que foram contados deles, eram vinte e dois mil duzentos e setenta e três.
+
+[[v4-3-44]]
+
+^<<v4-3-44,44>>^ Disse ainda mais o Senhor a Moisés:
+
+[[v4-3-45]]
+
+^<<v4-3-45,45>>^ Toma os levitas em lugar de todos os primogênitos entre os filhos de Israel, e o gado dos levitas em lugar do gado deles; porquanto os levitas serão meus. Eu sou o Senhor.
+
+[[v4-3-46]]
+
+^<<v4-3-46,46>>^ Pela redenção dos duzentos e setenta e três primogênitos dos filhos de Israel, que excedem o número dos levitas,
+
+[[v4-3-47]]
+
+^<<v4-3-47,47>>^ receberás por cabeça cinco siclos; conforme o siclo do santuário os receberás &#123;o siclo tem vinte jeiras&#125;,
+
+[[v4-3-48]]
+
+^<<v4-3-48,48>>^ e darás a Arão e a seus filhos o dinheiro da redenção dos que excedem o número entre eles.
+
+[[v4-3-49]]
+
+^<<v4-3-49,49>>^ Então Moisés recebeu o dinheiro da redenção dos que excederam o número dos que foram remidos pelos levitas;
+
+[[v4-3-50]]
+
+^<<v4-3-50,50>>^ dos primogênitos dos filhos de Israel recebeu o dinheiro, mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário.
+
+[[v4-3-51]]
+
+^<<v4-3-51,51>>^ E Moisés deu o dinheiro da redenção a Arão e a seus filhos, conforme o Senhor lhe ordenara.
+
+'''
+
+xref:004-numeros/004-numeros-002.adoc#v4-2-0[&#60; Capítulo Anterior] | <<v4-3-0,Topo>> | xref:004-numeros/004-numeros-004.adoc#v4-4-0[Próximo Capítulo &#62;]

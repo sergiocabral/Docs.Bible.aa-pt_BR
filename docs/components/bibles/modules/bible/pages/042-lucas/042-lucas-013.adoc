@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v42-13-0]]
+=== Lucas, 13
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v42-13-1]]
+
+^<<v42-13-1,1>>^ Ora, naquele mesmo tempo estavam presentes alguns que lhe falavam dos galileus cujo sangue Pilatos misturara com os sacrifícios deles.
+
+[[v42-13-2]]
+
+^<<v42-13-2,2>>^ Respondeu-lhes Jesus: Pensais vós que esses foram maiores pecadores do que todos os galileus, por terem padecido tais coisas?
+
+[[v42-13-3]]
+
+^<<v42-13-3,3>>^ Não, eu vos digo; antes, se não vos arrependerdes, todos de igual modo perecereis.
+
+[[v42-13-4]]
+
+^<<v42-13-4,4>>^ Ou pensais que aqueles dezoito, sobre os quais caiu a torre de Siloé e os matou, foram mais culpados do que todos os outros habitantes de Jerusalém?
+
+[[v42-13-5]]
+
+^<<v42-13-5,5>>^ Não, eu vos digo; antes, se não vos arrependerdes, todos de igual modo perecereis.
+
+[[v42-13-6]]
+
+^<<v42-13-6,6>>^ E passou a narrar esta parábola: Certo homem tinha uma figueira plantada na sua vinha; e indo procurar fruto nela, e não o achou.
+
+[[v42-13-7]]
+
+^<<v42-13-7,7>>^ Disse então ao viticultor: Eis que há três anos venho procurar fruto nesta figueira, e não o acho; corta-a; para que ocupa ela ainda a terra inutilmente?
+
+[[v42-13-8]]
+
+^<<v42-13-8,8>>^ Respondeu-lhe ele: Senhor, deixa-a este ano ainda, até que eu cave em derredor, e lhe deite estrume;
+
+[[v42-13-9]]
+
+^<<v42-13-9,9>>^ e se no futuro der fruto, bem; mas, se não, cortá-la-ás.
+
+[[v42-13-10]]
+
+^<<v42-13-10,10>>^ Jesus estava ensinando numa das sinagogas no sábado.
+
+[[v42-13-11]]
+
+^<<v42-13-11,11>>^ E estava ali uma mulher que tinha um espírito de enfermidade havia já dezoito anos; e andava encurvada, e não podia de modo algum endireitar-se.
+
+[[v42-13-12]]
+
+^<<v42-13-12,12>>^ Vendo-a Jesus, chamou-a, e disse-lhe: Mulher, estás livre da tua enfermidade;
+
+[[v42-13-13]]
+
+^<<v42-13-13,13>>^ e impôs-lhe as mãos e imediatamente ela se endireitou, e glorificava a Deus.
+
+[[v42-13-14]]
+
+^<<v42-13-14,14>>^ Então o chefe da sinagoga, indignado porque Jesus curara no sábado, tomando a palavra disse à multidão: Seis dias há em que se deve trabalhar; vinde, pois, neles para serdes curados, e não no dia de sábado.
+
+[[v42-13-15]]
+
+^<<v42-13-15,15>>^ Respondeu-lhe, porém, o Senhor: Hipócritas, no sábado não desprende da manjedoura cada um de vós o seu boi, ou jumento, para o levar a beber?
+
+[[v42-13-16]]
+
+^<<v42-13-16,16>>^ E não devia ser solta desta prisão, no dia de sábado, esta que é filha de Abraão, a qual há dezoito anos Satanás tinha presa?
+
+[[v42-13-17]]
+
+^<<v42-13-17,17>>^ E dizendo ele essas coisas, todos os seus adversário ficavam envergonhados; e todo o povo se alegrava por todas as coisas gloriosas que eram feitas por ele.
+
+[[v42-13-18]]
+
+^<<v42-13-18,18>>^ Ele, pois, dizia: A que é semelhante o reino de Deus, e a que o compararei?
+
+[[v42-13-19]]
+
+^<<v42-13-19,19>>^ É semelhante a um grão de mostarda que um homem tomou e lançou na sua horta; cresceu, e fez-se árvore, e em seus ramos se aninharam as aves do céu.
+
+[[v42-13-20]]
+
+^<<v42-13-20,20>>^ E disse outra vez: A que compararei o reino de Deus?
+
+[[v42-13-21]]
+
+^<<v42-13-21,21>>^ É semelhante ao fermento que uma mulher tomou e misturou com três medidas de farinha, até ficar toda ela levedada.
+
+[[v42-13-22]]
+
+^<<v42-13-22,22>>^ Assim percorria Jesus as cidades e as aldeias, ensinando, e caminhando para Jerusalém.
+
+[[v42-13-23]]
+
+^<<v42-13-23,23>>^ E alguém lhe perguntou: Senhor, são poucos os que se salvam? Ao que ele lhes respondeu:
+
+[[v42-13-24]]
+
+^<<v42-13-24,24>>^ Porfiai por entrar pela porta estreita; porque eu vos digo que muitos procurarão entrar, e não poderão.
+
+[[v42-13-25]]
+
+^<<v42-13-25,25>>^ Quando o dono da casa se tiver levantado e cerrado a porta, e vós começardes, de fora, a bater à porta, dizendo: Senhor, abre-nos; e ele vos responder: Não sei donde vós sois;
+
+[[v42-13-26]]
+
+^<<v42-13-26,26>>^ então começareis a dizer: Comemos e bebemos na tua presença, e tu ensinaste nas nossas ruas;
+
+[[v42-13-27]]
+
+^<<v42-13-27,27>>^ e ele vos responderá: Não sei donde sois; apartai-vos de mim, vós todos os que praticais a iniqüidade.
+
+[[v42-13-28]]
+
+^<<v42-13-28,28>>^ Ali haverá choro e ranger de dentes quando virdes Abraão, Isaque, Jacó e todos os profetas no reino de Deus, e vós lançados fora.
+
+[[v42-13-29]]
+
+^<<v42-13-29,29>>^ Muitos virão do oriente e do ocidente, do norte e do sul, e reclinar-se-ão à mesa no reino de Deus.
+
+[[v42-13-30]]
+
+^<<v42-13-30,30>>^ Pois há últimos que serão primeiros, e primeiros que serão últimos.
+
+[[v42-13-31]]
+
+^<<v42-13-31,31>>^ Naquela mesma hora chegaram alguns fariseus que lhe disseram: Sai, e retira-te daqui, porque Herodes quer matar-te.
+
+[[v42-13-32]]
+
+^<<v42-13-32,32>>^ Respondeu-lhes Jesus: Ide e dizei a essa raposa: Eis que vou expulsando demônios e fazendo curas, hoje e amanhã, e no terceiro dia serei consumado.
+
+[[v42-13-33]]
+
+^<<v42-13-33,33>>^ Importa, contudo, caminhar hoje, amanhã, e no dia seguinte; porque não convém que morra um profeta fora de Jerusalém.
+
+[[v42-13-34]]
+
+^<<v42-13-34,34>>^ Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que a ti são enviados! Quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta a sua ninhada debaixo das asas, e não quiseste!
+
+[[v42-13-35]]
+
+^<<v42-13-35,35>>^ Eis aí, abandonada vos é a vossa casa. E eu vos digo que não me vereis até que venha o tempo em que digais: Bendito aquele que vem em nome do Senhor.
+
+'''
+
+xref:042-lucas/042-lucas-012.adoc#v42-12-0[&#60; Capítulo Anterior] | <<v42-13-0,Topo>> | xref:042-lucas/042-lucas-014.adoc#v42-14-0[Próximo Capítulo &#62;]

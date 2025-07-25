@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Êxodo, 27
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ Farás também o altar de madeira de acácia; de cinco côvados será o comprimento, de cinco côvados a largura &#123;será quadrado o altar&#125;, e de três côvados a altura.
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ E farás as suas pontas nos seus quatro cantos; as suas pontas formarão uma só peça com o altar; e o cobrirás de bronze.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ Far-lhe-ás também os cinzeiros, para recolher a sua cinza, e as pás, e as bacias, e os garfos e os braseiros; todos os seus utensílios farás de bronze.
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ Far-lhe-ás também um crivo de bronze em forma de rede, e farás para esta rede quatro argolas de bronze nos seus quatro cantos,
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ e a porás em baixo da borda em volta do altar, de maneira que a rede chegue até o meio do altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ Farás também varais para o altar, varais de madeira de acácia, e os cobrirás de bronze.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ Os varais serão metidos nas argolas, e estarão de um e de outro lado do altar, quando for levado.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ Ôco, de tábuas, o farás; como se te mostrou no monte, assim o farão.
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ Farás também o átrio do tabernáculo. No lado que dá para o sul o átrio terá cortinas de linho fino torcido, de cem côvados de comprimento.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ As suas colunas serão vinte, e vinte as suas bases, todas de bronze; os colchetes das colunas e as suas faixas serão de prata.
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ Assim também ao longo do lado do norte haverá cortinas de cem côvados de comprimento, e serão vinte as suas colunas e vinte as bases destas, todas de bronze; os colchetes das colunas e as suas faixas serão de prata.
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ E na largura do átrio do lado do ocidente haverá cortinas de cinqüenta côvados; serão dez as suas colunas, e dez as bases destas.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ Semelhantemente a largura do átrio do lado que dá para o nascente será de cinqüenta côvados.
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ As cortinas para um lado da porta serão de quinze côvados; três serão as suas colunas, e três as bases destas.
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ E de quinze côvados serão as cortinas para o outro lado; as suas colunas serão três, e três as bases destas.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ Também à porta do átrio haverá um reposteiro de vinte côvados, de azul, púrpura, carmesim, e linho fino torcido, obra de bordador; as suas colunas serão quatro, e quatro as bases destas.
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ Todas as colunas do átrio ao redor serão cingidas de faixas de prata; os seus colchetes serão de prata, porém as suas bases de bronze.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ O comprimento do átrio será de cem côvados, e a largura, por toda a extensão, de cinqüenta, e a altura de cinco côvados; as cortinas serão de linho fino torcido; e as bases das colunas de bronze.
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ Todos os utensílios do tabernáculo em todo o seu serviço, e todas as suas estacas, e todas as estacas do átrio, serão de bronze.
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ Ordenarás aos filhos de Israel que te tragam azeite puro de oliveiras, batido, para o candeeiro, para manter uma lâmpada acesa continuamente.
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ Na tenda da revelação, fora do véu que está diante do testemunho, Arão e seus filhos a conservarão em ordem, desde a tarde até pela manhã, perante o Senhor; este será um estatuto perpétuo para os filhos de Israel pelas suas gerações.
+
+'''
+
+xref:002-exodo/002-exodo-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodo/002-exodo-028.adoc#v2-28-0[Próximo Capítulo &#62;]

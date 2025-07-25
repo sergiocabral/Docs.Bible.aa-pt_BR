@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Jó, 12
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ Então Jó respondeu, dizendo:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ Sem dúvida vós sois o povo, e convosco morrerá a sabedoria.
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Mas eu tenho entendimento como, vos; eu não vos sou inferior. Quem não sabe tais coisas como essas?
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ Sou motivo de riso para os meus amigos; eu, que invocava a Deus, e ele me respondia: o justo e reto servindo de irrisão!
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ No pensamento de quem está seguro há desprezo para a desgraça; ela está preparada para aquele cujos pés resvalam.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ As tendas dos assoladores têm descanso, e os que provocam a Deus estão seguros; os que trazem o seu deus na mão!
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ Mas, pergunta agora às alimárias, e elas te ensinarão; e às aves do céu, e elas te farão saber;
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ ou fala com a terra, e ela te ensinará; até os peixes o mar to declararão.
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Qual dentre todas estas coisas não sabe que a mão do Senhor fez isto?
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ Na sua mão está a vida de todo ser vivente, e o espírito de todo o gênero humano.
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Porventura o ouvido não prova as palavras, como o paladar prova o alimento?
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Com os anciãos está a sabedoria, e na longura de dias o entendimento.
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ Com Deus está a sabedoria e a força; ele tem conselho e entendimento.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Eis que ele derriba, e não se pode reedificar; ele encerra na prisão, e não se pode abrir.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Ele retém as águas, e elas secam; solta-as, e elas inundam a terra.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ Com ele está a força e a sabedoria; são dele o enganado e o enganador.
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ Aos conselheiros leva despojados, e aos juízes faz desvairar.
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Solta o cinto dos reis, e lhes ata uma corda aos lombos.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Aos sacerdotes leva despojados, e aos poderosos transtorna.
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Aos que são dignos da confiança emudece, e tira aos anciãos o discernimento.
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ Derrama desprezo sobre os príncipes, e afrouxa o cinto dos fortes.
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ Das trevas descobre coisas profundas, e traz para a luz a sombra da morte.
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Multiplica as nações e as faz perecer; alarga as fronteiras das nações, e as leva cativas.
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Tira o entendimento aos chefes do povo da terra, e os faz vaguear pelos desertos, sem caminho.
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ Eles andam nas trevas às apalpadelas, sem luz, e ele os faz cambalear como um ébrio.
+
+'''
+
+xref:018-jo/018-jo-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-jo/018-jo-013.adoc#v18-13-0[Próximo Capítulo &#62;]

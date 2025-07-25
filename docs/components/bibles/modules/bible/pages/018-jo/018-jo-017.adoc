@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-17-0]]
+=== Jó, 17
+// aa ?, AA - Almeida Revisada Imprensa Bíblica
+
+[[v18-17-1]]
+
+^<<v18-17-1,1>>^ O meu espírito está quebrantado, os meus dias se extinguem, a sepultura me está preparada!
+
+[[v18-17-2]]
+
+^<<v18-17-2,2>>^ Deveras estou cercado de zombadores, e os meus olhos contemplam a sua provocação!
+
+[[v18-17-3]]
+
+^<<v18-17-3,3>>^ Dá-me, peço-te, um penhor, e sê o meu fiador para contigo; quem mais há que me dê a mão?
+
+[[v18-17-4]]
+
+^<<v18-17-4,4>>^ Porque aos seus corações encobriste o entendimento, pelo que não os exaltarás.
+
+[[v18-17-5]]
+
+^<<v18-17-5,5>>^ Quem entrega os seus amigos como presa, os olhos de seus filhos desfalecerão.
+
+[[v18-17-6]]
+
+^<<v18-17-6,6>>^ Mas a mim me pôs por motejo dos povos; tornei-me como aquele em cujo rosto se cospe.
+
+[[v18-17-7]]
+
+^<<v18-17-7,7>>^ De mágoa se escureceram os meus olhos, e todos os meus membros são como a sombra.
+
+[[v18-17-8]]
+
+^<<v18-17-8,8>>^ Os retos pasmam disso, e o inocente se levanta contra o ímpio.
+
+[[v18-17-9]]
+
+^<<v18-17-9,9>>^ Contudo o justo prossegue no seu caminho e o que tem mãos puras vai crescendo em força.
+
+[[v18-17-10]]
+
+^<<v18-17-10,10>>^ Mas tornai vós todos, e vinde, e sábio nenhum acharei entre vós.
+
+[[v18-17-11]]
+
+^<<v18-17-11,11>>^ Os meus dias passaram, malograram-se os meus propósitos, as aspirações do meu coração.
+
+[[v18-17-12]]
+
+^<<v18-17-12,12>>^ Trocam a noite em dia; dizem que a luz está perto das trevas.
+
+[[v18-17-13]]
+
+^<<v18-17-13,13>>^ Se eu olhar o Seol como a minha casa, se nas trevas estender a minha cama,
+
+[[v18-17-14]]
+
+^<<v18-17-14,14>>^ se eu clamar à cova: Tu és meu pai; e aos vermes: Vós sois minha mãe e minha irmã;
+
+[[v18-17-15]]
+
+^<<v18-17-15,15>>^ onde está então a minha esperança? Sim, a minha esperança, quem a poderá ver?
+
+[[v18-17-16]]
+
+^<<v18-17-16,16>>^ Acaso descerá comigo até os ferrolhos do Seol? Descansaremos juntos no pó?
+
+'''
+
+xref:018-jo/018-jo-016.adoc#v18-16-0[&#60; Capítulo Anterior] | <<v18-17-0,Topo>> | xref:018-jo/018-jo-018.adoc#v18-18-0[Próximo Capítulo &#62;]
